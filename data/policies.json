@@ -1,0 +1,82 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Data Protection Policy",
+    "description": "",
+    "last_reviewed": "2024-07-14",
+    "approved_by": "Steven Beck",
+    "status": "active"
+  },
+  "2": {
+    "id": "2",
+    "name": "Remote Work Policy",
+    "description": "",
+    "last_reviewed": "2024-03-22",
+    "approved_by": "Corey Cortez",
+    "status": "active"
+  },
+  "3": {
+    "id": "3",
+    "name": "Code of Conduct",
+    "description": "",
+    "last_reviewed": "2024-10-08",
+    "approved_by": "Abigail Jones",
+    "status": "obsolete"
+  },
+  "4": {
+    "id": "4",
+    "name": "Payroll Processing Policy",
+    "description": "",
+    "last_reviewed": "2025-07-19",
+    "approved_by": "Deborah Haas",
+    "status": "active"
+  },
+  "5": {
+    "id": "5",
+    "name": "Vendor Management Policy",
+    "description": "",
+    "last_reviewed": "2024-12-19",
+    "approved_by": "Travis Johnson MD",
+    "status": "active"
+  },
+  "6": {
+    "id": "6",
+    "name": "Security Policy",
+    "description": "",
+    "last_reviewed": "2024-10-13",
+    "approved_by": "Tracey Lopez",
+    "status": "active"
+  },
+  "7": {
+    "id": "7",
+    "name": "Leave Policy",
+    "description": "",
+    "last_reviewed": "2024-07-28",
+    "approved_by": "Robert Howard",
+    "status": "active"
+  },
+  "8": {
+    "id": "8",
+    "name": "Performance Review Policy",
+    "description": "",
+    "last_reviewed": "2024-04-08",
+    "approved_by": "Steven Morales",
+    "status": "active"
+  },
+  "9": {
+    "id": "9",
+    "name": "Training Policy",
+    "description": "",
+    "last_reviewed": "2024-08-25",
+    "approved_by": "Kevin Osborn",
+    "status": "active"
+  },
+  "10": {
+    "id": "10",
+    "name": "Compliance Policy",
+    "description": "",
+    "last_reviewed": "2024-03-20",
+    "approved_by": "Michael Garcia",
+    "status": "active"
+  }
+}

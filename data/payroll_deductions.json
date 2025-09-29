@@ -1,0 +1,1934 @@
+{
+  "1": {
+    "id": "1",
+    "payroll_id": "1",
+    "type": "savings",
+    "amount": "618.52"
+  },
+  "2": {
+    "id": "2",
+    "payroll_id": "1",
+    "type": "tax",
+    "amount": "692.1200000000001"
+  },
+  "3": {
+    "id": "3",
+    "payroll_id": "2",
+    "type": "retirement",
+    "amount": "895.9"
+  },
+  "4": {
+    "id": "4",
+    "payroll_id": "2",
+    "type": "insurance",
+    "amount": "802.95"
+  },
+  "5": {
+    "id": "5",
+    "payroll_id": "2",
+    "type": "loan",
+    "amount": "1108.9199999999998"
+  },
+  "6": {
+    "id": "6",
+    "payroll_id": "3",
+    "type": "retirement",
+    "amount": "464.47"
+  },
+  "7": {
+    "id": "7",
+    "payroll_id": "3",
+    "type": "tax",
+    "amount": "388.3"
+  },
+  "8": {
+    "id": "8",
+    "payroll_id": "3",
+    "type": "savings",
+    "amount": "643.29"
+  },
+  "9": {
+    "id": "9",
+    "payroll_id": "4",
+    "type": "retirement",
+    "amount": "435.34"
+  },
+  "10": {
+    "id": "10",
+    "payroll_id": "4",
+    "type": "savings",
+    "amount": "333.78"
+  },
+  "11": {
+    "id": "11",
+    "payroll_id": "4",
+    "type": "loan",
+    "amount": "619.5"
+  },
+  "12": {
+    "id": "12",
+    "payroll_id": "5",
+    "type": "retirement",
+    "amount": "1046.12"
+  },
+  "13": {
+    "id": "13",
+    "payroll_id": "5",
+    "type": "tax",
+    "amount": "607.84"
+  },
+  "14": {
+    "id": "14",
+    "payroll_id": "5",
+    "type": "insurance",
+    "amount": "816.33"
+  },
+  "15": {
+    "id": "15",
+    "payroll_id": "6",
+    "type": "tax",
+    "amount": "1319.62"
+  },
+  "16": {
+    "id": "16",
+    "payroll_id": "6",
+    "type": "savings",
+    "amount": "2051.1400000000003"
+  },
+  "17": {
+    "id": "17",
+    "payroll_id": "7",
+    "type": "insurance",
+    "amount": "1179.3"
+  },
+  "18": {
+    "id": "18",
+    "payroll_id": "7",
+    "type": "retirement",
+    "amount": "1323.32"
+  },
+  "19": {
+    "id": "19",
+    "payroll_id": "8",
+    "type": "loan",
+    "amount": "791.87"
+  },
+  "20": {
+    "id": "20",
+    "payroll_id": "8",
+    "type": "retirement",
+    "amount": "1869.0300000000002"
+  },
+  "21": {
+    "id": "21",
+    "payroll_id": "9",
+    "type": "tax",
+    "amount": "231.18"
+  },
+  "22": {
+    "id": "22",
+    "payroll_id": "9",
+    "type": "retirement",
+    "amount": "167.35"
+  },
+  "23": {
+    "id": "23",
+    "payroll_id": "9",
+    "type": "loan",
+    "amount": "489.15"
+  },
+  "24": {
+    "id": "24",
+    "payroll_id": "10",
+    "type": "retirement",
+    "amount": "832.13"
+  },
+  "25": {
+    "id": "25",
+    "payroll_id": "10",
+    "type": "loan",
+    "amount": "657.08"
+  },
+  "26": {
+    "id": "26",
+    "payroll_id": "10",
+    "type": "insurance",
+    "amount": "1234.58"
+  },
+  "27": {
+    "id": "27",
+    "payroll_id": "11",
+    "type": "tax",
+    "amount": "270.56"
+  },
+  "28": {
+    "id": "28",
+    "payroll_id": "11",
+    "type": "loan",
+    "amount": "329.98"
+  },
+  "29": {
+    "id": "29",
+    "payroll_id": "11",
+    "type": "savings",
+    "amount": "364.43000000000006"
+  },
+  "30": {
+    "id": "30",
+    "payroll_id": "12",
+    "type": "retirement",
+    "amount": "1226.59"
+  },
+  "31": {
+    "id": "31",
+    "payroll_id": "12",
+    "type": "tax",
+    "amount": "268.33"
+  },
+  "32": {
+    "id": "32",
+    "payroll_id": "12",
+    "type": "insurance",
+    "amount": "987.6800000000001"
+  },
+  "33": {
+    "id": "33",
+    "payroll_id": "13",
+    "type": "savings",
+    "amount": "1970.14"
+  },
+  "34": {
+    "id": "34",
+    "payroll_id": "14",
+    "type": "insurance",
+    "amount": "1121.16"
+  },
+  "35": {
+    "id": "35",
+    "payroll_id": "14",
+    "type": "retirement",
+    "amount": "527.57"
+  },
+  "36": {
+    "id": "36",
+    "payroll_id": "14",
+    "type": "savings",
+    "amount": "791.0599999999998"
+  },
+  "37": {
+    "id": "37",
+    "payroll_id": "15",
+    "type": "tax",
+    "amount": "154.66"
+  },
+  "38": {
+    "id": "38",
+    "payroll_id": "15",
+    "type": "savings",
+    "amount": "214.41"
+  },
+  "39": {
+    "id": "39",
+    "payroll_id": "15",
+    "type": "insurance",
+    "amount": "235.01000000000008"
+  },
+  "40": {
+    "id": "40",
+    "payroll_id": "16",
+    "type": "tax",
+    "amount": "241.41"
+  },
+  "41": {
+    "id": "41",
+    "payroll_id": "16",
+    "type": "savings",
+    "amount": "242.43"
+  },
+  "42": {
+    "id": "42",
+    "payroll_id": "16",
+    "type": "insurance",
+    "amount": "709.3800000000001"
+  },
+  "43": {
+    "id": "43",
+    "payroll_id": "17",
+    "type": "insurance",
+    "amount": "285.94"
+  },
+  "44": {
+    "id": "44",
+    "payroll_id": "17",
+    "type": "retirement",
+    "amount": "146.65"
+  },
+  "45": {
+    "id": "45",
+    "payroll_id": "17",
+    "type": "loan",
+    "amount": "409.48000000000013"
+  },
+  "46": {
+    "id": "46",
+    "payroll_id": "18",
+    "type": "loan",
+    "amount": "1017.71"
+  },
+  "47": {
+    "id": "47",
+    "payroll_id": "18",
+    "type": "savings",
+    "amount": "484.38"
+  },
+  "48": {
+    "id": "48",
+    "payroll_id": "18",
+    "type": "insurance",
+    "amount": "620.8999999999997"
+  },
+  "49": {
+    "id": "49",
+    "payroll_id": "19",
+    "type": "tax",
+    "amount": "818.44"
+  },
+  "50": {
+    "id": "50",
+    "payroll_id": "19",
+    "type": "insurance",
+    "amount": "1152.98"
+  },
+  "51": {
+    "id": "51",
+    "payroll_id": "20",
+    "type": "tax",
+    "amount": "713.21"
+  },
+  "52": {
+    "id": "52",
+    "payroll_id": "20",
+    "type": "retirement",
+    "amount": "1519.8000000000002"
+  },
+  "53": {
+    "id": "53",
+    "payroll_id": "21",
+    "type": "retirement",
+    "amount": "365.44"
+  },
+  "54": {
+    "id": "54",
+    "payroll_id": "21",
+    "type": "insurance",
+    "amount": "485.3"
+  },
+  "55": {
+    "id": "55",
+    "payroll_id": "22",
+    "type": "tax",
+    "amount": "1955.49"
+  },
+  "56": {
+    "id": "56",
+    "payroll_id": "23",
+    "type": "retirement",
+    "amount": "642.96"
+  },
+  "57": {
+    "id": "57",
+    "payroll_id": "23",
+    "type": "loan",
+    "amount": "617.68"
+  },
+  "58": {
+    "id": "58",
+    "payroll_id": "23",
+    "type": "savings",
+    "amount": "622.3100000000001"
+  },
+  "59": {
+    "id": "59",
+    "payroll_id": "24",
+    "type": "loan",
+    "amount": "663.44"
+  },
+  "60": {
+    "id": "60",
+    "payroll_id": "24",
+    "type": "retirement",
+    "amount": "230.51"
+  },
+  "61": {
+    "id": "61",
+    "payroll_id": "24",
+    "type": "tax",
+    "amount": "533.05"
+  },
+  "62": {
+    "id": "62",
+    "payroll_id": "25",
+    "type": "insurance",
+    "amount": "637.98"
+  },
+  "63": {
+    "id": "63",
+    "payroll_id": "25",
+    "type": "tax",
+    "amount": "725.13"
+  },
+  "64": {
+    "id": "64",
+    "payroll_id": "25",
+    "type": "retirement",
+    "amount": "1232.8799999999997"
+  },
+  "65": {
+    "id": "65",
+    "payroll_id": "26",
+    "type": "savings",
+    "amount": "3260.77"
+  },
+  "66": {
+    "id": "66",
+    "payroll_id": "27",
+    "type": "loan",
+    "amount": "525.28"
+  },
+  "67": {
+    "id": "67",
+    "payroll_id": "27",
+    "type": "tax",
+    "amount": "582.17"
+  },
+  "68": {
+    "id": "68",
+    "payroll_id": "27",
+    "type": "insurance",
+    "amount": "745.2700000000001"
+  },
+  "69": {
+    "id": "69",
+    "payroll_id": "28",
+    "type": "loan",
+    "amount": "446.13"
+  },
+  "70": {
+    "id": "70",
+    "payroll_id": "28",
+    "type": "insurance",
+    "amount": "1752.65"
+  },
+  "71": {
+    "id": "71",
+    "payroll_id": "29",
+    "type": "insurance",
+    "amount": "2477.49"
+  },
+  "72": {
+    "id": "72",
+    "payroll_id": "30",
+    "type": "insurance",
+    "amount": "1234.61"
+  },
+  "73": {
+    "id": "73",
+    "payroll_id": "31",
+    "type": "insurance",
+    "amount": "870.11"
+  },
+  "74": {
+    "id": "74",
+    "payroll_id": "31",
+    "type": "retirement",
+    "amount": "436.9"
+  },
+  "75": {
+    "id": "75",
+    "payroll_id": "31",
+    "type": "savings",
+    "amount": "522.5"
+  },
+  "76": {
+    "id": "76",
+    "payroll_id": "32",
+    "type": "savings",
+    "amount": "673.08"
+  },
+  "77": {
+    "id": "77",
+    "payroll_id": "32",
+    "type": "loan",
+    "amount": "345.79"
+  },
+  "78": {
+    "id": "78",
+    "payroll_id": "32",
+    "type": "tax",
+    "amount": "880.9000000000001"
+  },
+  "79": {
+    "id": "79",
+    "payroll_id": "33",
+    "type": "insurance",
+    "amount": "583.42"
+  },
+  "80": {
+    "id": "80",
+    "payroll_id": "33",
+    "type": "loan",
+    "amount": "406.71"
+  },
+  "81": {
+    "id": "81",
+    "payroll_id": "33",
+    "type": "tax",
+    "amount": "698.0799999999999"
+  },
+  "82": {
+    "id": "82",
+    "payroll_id": "34",
+    "type": "savings",
+    "amount": "634.36"
+  },
+  "83": {
+    "id": "83",
+    "payroll_id": "34",
+    "type": "insurance",
+    "amount": "1253.56"
+  },
+  "84": {
+    "id": "84",
+    "payroll_id": "35",
+    "type": "tax",
+    "amount": "467.91"
+  },
+  "85": {
+    "id": "85",
+    "payroll_id": "35",
+    "type": "loan",
+    "amount": "1557.6299999999999"
+  },
+  "86": {
+    "id": "86",
+    "payroll_id": "36",
+    "type": "tax",
+    "amount": "516.17"
+  },
+  "87": {
+    "id": "87",
+    "payroll_id": "36",
+    "type": "loan",
+    "amount": "221.91"
+  },
+  "88": {
+    "id": "88",
+    "payroll_id": "36",
+    "type": "insurance",
+    "amount": "388.60000000000014"
+  },
+  "89": {
+    "id": "89",
+    "payroll_id": "37",
+    "type": "insurance",
+    "amount": "391.03"
+  },
+  "90": {
+    "id": "90",
+    "payroll_id": "37",
+    "type": "tax",
+    "amount": "848.9200000000001"
+  },
+  "91": {
+    "id": "91",
+    "payroll_id": "38",
+    "type": "insurance",
+    "amount": "290.32"
+  },
+  "92": {
+    "id": "92",
+    "payroll_id": "38",
+    "type": "retirement",
+    "amount": "135.31"
+  },
+  "93": {
+    "id": "93",
+    "payroll_id": "38",
+    "type": "savings",
+    "amount": "470.40000000000003"
+  },
+  "94": {
+    "id": "94",
+    "payroll_id": "39",
+    "type": "tax",
+    "amount": "111.14"
+  },
+  "95": {
+    "id": "95",
+    "payroll_id": "39",
+    "type": "savings",
+    "amount": "400.49"
+  },
+  "96": {
+    "id": "96",
+    "payroll_id": "40",
+    "type": "savings",
+    "amount": "371.18"
+  },
+  "97": {
+    "id": "97",
+    "payroll_id": "40",
+    "type": "loan",
+    "amount": "193.14"
+  },
+  "98": {
+    "id": "98",
+    "payroll_id": "40",
+    "type": "tax",
+    "amount": "247.82999999999998"
+  },
+  "99": {
+    "id": "99",
+    "payroll_id": "41",
+    "type": "loan",
+    "amount": "1311.54"
+  },
+  "100": {
+    "id": "100",
+    "payroll_id": "41",
+    "type": "retirement",
+    "amount": "602.48"
+  },
+  "101": {
+    "id": "101",
+    "payroll_id": "41",
+    "type": "insurance",
+    "amount": "1216.88"
+  },
+  "102": {
+    "id": "102",
+    "payroll_id": "42",
+    "type": "savings",
+    "amount": "1115.22"
+  },
+  "103": {
+    "id": "103",
+    "payroll_id": "42",
+    "type": "loan",
+    "amount": "1336.86"
+  },
+  "104": {
+    "id": "104",
+    "payroll_id": "43",
+    "type": "retirement",
+    "amount": "1458.47"
+  },
+  "105": {
+    "id": "105",
+    "payroll_id": "44",
+    "type": "savings",
+    "amount": "666.05"
+  },
+  "106": {
+    "id": "106",
+    "payroll_id": "44",
+    "type": "retirement",
+    "amount": "386.1"
+  },
+  "107": {
+    "id": "107",
+    "payroll_id": "44",
+    "type": "insurance",
+    "amount": "569.92"
+  },
+  "108": {
+    "id": "108",
+    "payroll_id": "45",
+    "type": "savings",
+    "amount": "706.04"
+  },
+  "109": {
+    "id": "109",
+    "payroll_id": "46",
+    "type": "loan",
+    "amount": "517.76"
+  },
+  "110": {
+    "id": "110",
+    "payroll_id": "46",
+    "type": "retirement",
+    "amount": "772.1099999999999"
+  },
+  "111": {
+    "id": "111",
+    "payroll_id": "47",
+    "type": "loan",
+    "amount": "401.21"
+  },
+  "112": {
+    "id": "112",
+    "payroll_id": "47",
+    "type": "savings",
+    "amount": "973.05"
+  },
+  "113": {
+    "id": "113",
+    "payroll_id": "48",
+    "type": "savings",
+    "amount": "2719.96"
+  },
+  "114": {
+    "id": "114",
+    "payroll_id": "49",
+    "type": "loan",
+    "amount": "524.57"
+  },
+  "115": {
+    "id": "115",
+    "payroll_id": "49",
+    "type": "tax",
+    "amount": "469.68"
+  },
+  "116": {
+    "id": "116",
+    "payroll_id": "49",
+    "type": "retirement",
+    "amount": "997.8599999999999"
+  },
+  "117": {
+    "id": "117",
+    "payroll_id": "50",
+    "type": "tax",
+    "amount": "440.25"
+  },
+  "118": {
+    "id": "118",
+    "payroll_id": "50",
+    "type": "savings",
+    "amount": "753.5999999999999"
+  },
+  "119": {
+    "id": "119",
+    "payroll_id": "51",
+    "type": "insurance",
+    "amount": "349.29"
+  },
+  "120": {
+    "id": "120",
+    "payroll_id": "51",
+    "type": "loan",
+    "amount": "628.72"
+  },
+  "121": {
+    "id": "121",
+    "payroll_id": "51",
+    "type": "retirement",
+    "amount": "717.1700000000001"
+  },
+  "122": {
+    "id": "122",
+    "payroll_id": "52",
+    "type": "retirement",
+    "amount": "1248.4"
+  },
+  "123": {
+    "id": "123",
+    "payroll_id": "52",
+    "type": "loan",
+    "amount": "1572.17"
+  },
+  "124": {
+    "id": "124",
+    "payroll_id": "53",
+    "type": "insurance",
+    "amount": "790.98"
+  },
+  "125": {
+    "id": "125",
+    "payroll_id": "53",
+    "type": "savings",
+    "amount": "1395.5700000000002"
+  },
+  "126": {
+    "id": "126",
+    "payroll_id": "54",
+    "type": "tax",
+    "amount": "1906.15"
+  },
+  "127": {
+    "id": "127",
+    "payroll_id": "55",
+    "type": "savings",
+    "amount": "843.83"
+  },
+  "128": {
+    "id": "128",
+    "payroll_id": "55",
+    "type": "insurance",
+    "amount": "1584.2000000000003"
+  },
+  "129": {
+    "id": "129",
+    "payroll_id": "56",
+    "type": "savings",
+    "amount": "173.17"
+  },
+  "130": {
+    "id": "130",
+    "payroll_id": "56",
+    "type": "retirement",
+    "amount": "461.71000000000004"
+  },
+  "131": {
+    "id": "131",
+    "payroll_id": "57",
+    "type": "loan",
+    "amount": "1531.4"
+  },
+  "132": {
+    "id": "132",
+    "payroll_id": "58",
+    "type": "insurance",
+    "amount": "772.03"
+  },
+  "133": {
+    "id": "133",
+    "payroll_id": "58",
+    "type": "loan",
+    "amount": "850.7"
+  },
+  "134": {
+    "id": "134",
+    "payroll_id": "58",
+    "type": "savings",
+    "amount": "883.1999999999998"
+  },
+  "135": {
+    "id": "135",
+    "payroll_id": "59",
+    "type": "retirement",
+    "amount": "559.76"
+  },
+  "136": {
+    "id": "136",
+    "payroll_id": "59",
+    "type": "loan",
+    "amount": "602.63"
+  },
+  "137": {
+    "id": "137",
+    "payroll_id": "59",
+    "type": "insurance",
+    "amount": "802.5500000000001"
+  },
+  "138": {
+    "id": "138",
+    "payroll_id": "60",
+    "type": "loan",
+    "amount": "1364.24"
+  },
+  "139": {
+    "id": "139",
+    "payroll_id": "60",
+    "type": "insurance",
+    "amount": "820.26"
+  },
+  "140": {
+    "id": "140",
+    "payroll_id": "60",
+    "type": "retirement",
+    "amount": "1100.35"
+  },
+  "141": {
+    "id": "141",
+    "payroll_id": "61",
+    "type": "insurance",
+    "amount": "645.0"
+  },
+  "142": {
+    "id": "142",
+    "payroll_id": "61",
+    "type": "retirement",
+    "amount": "723.21"
+  },
+  "143": {
+    "id": "143",
+    "payroll_id": "62",
+    "type": "tax",
+    "amount": "1217.69"
+  },
+  "144": {
+    "id": "144",
+    "payroll_id": "63",
+    "type": "tax",
+    "amount": "709.3"
+  },
+  "145": {
+    "id": "145",
+    "payroll_id": "63",
+    "type": "retirement",
+    "amount": "1086.72"
+  },
+  "146": {
+    "id": "146",
+    "payroll_id": "64",
+    "type": "loan",
+    "amount": "351.5"
+  },
+  "147": {
+    "id": "147",
+    "payroll_id": "64",
+    "type": "insurance",
+    "amount": "586.1"
+  },
+  "148": {
+    "id": "148",
+    "payroll_id": "65",
+    "type": "savings",
+    "amount": "2839.77"
+  },
+  "149": {
+    "id": "149",
+    "payroll_id": "66",
+    "type": "insurance",
+    "amount": "549.8"
+  },
+  "150": {
+    "id": "150",
+    "payroll_id": "66",
+    "type": "tax",
+    "amount": "319.77"
+  },
+  "151": {
+    "id": "151",
+    "payroll_id": "66",
+    "type": "retirement",
+    "amount": "843.22"
+  },
+  "152": {
+    "id": "152",
+    "payroll_id": "67",
+    "type": "retirement",
+    "amount": "546.29"
+  },
+  "153": {
+    "id": "153",
+    "payroll_id": "67",
+    "type": "tax",
+    "amount": "215.1"
+  },
+  "154": {
+    "id": "154",
+    "payroll_id": "67",
+    "type": "loan",
+    "amount": "363.06000000000006"
+  },
+  "155": {
+    "id": "155",
+    "payroll_id": "68",
+    "type": "savings",
+    "amount": "2506.91"
+  },
+  "156": {
+    "id": "156",
+    "payroll_id": "69",
+    "type": "loan",
+    "amount": "1168.9"
+  },
+  "157": {
+    "id": "157",
+    "payroll_id": "69",
+    "type": "retirement",
+    "amount": "722.1"
+  },
+  "158": {
+    "id": "158",
+    "payroll_id": "69",
+    "type": "insurance",
+    "amount": "1280.7600000000002"
+  },
+  "159": {
+    "id": "159",
+    "payroll_id": "70",
+    "type": "loan",
+    "amount": "2274.55"
+  },
+  "160": {
+    "id": "160",
+    "payroll_id": "71",
+    "type": "tax",
+    "amount": "1462.59"
+  },
+  "161": {
+    "id": "161",
+    "payroll_id": "71",
+    "type": "savings",
+    "amount": "395.38"
+  },
+  "162": {
+    "id": "162",
+    "payroll_id": "71",
+    "type": "insurance",
+    "amount": "1551.9500000000003"
+  },
+  "163": {
+    "id": "163",
+    "payroll_id": "72",
+    "type": "insurance",
+    "amount": "1596.12"
+  },
+  "164": {
+    "id": "164",
+    "payroll_id": "73",
+    "type": "insurance",
+    "amount": "242.91"
+  },
+  "165": {
+    "id": "165",
+    "payroll_id": "73",
+    "type": "loan",
+    "amount": "251.93"
+  },
+  "166": {
+    "id": "166",
+    "payroll_id": "73",
+    "type": "savings",
+    "amount": "441.00000000000006"
+  },
+  "167": {
+    "id": "167",
+    "payroll_id": "74",
+    "type": "loan",
+    "amount": "642.22"
+  },
+  "168": {
+    "id": "168",
+    "payroll_id": "74",
+    "type": "insurance",
+    "amount": "339.5"
+  },
+  "169": {
+    "id": "169",
+    "payroll_id": "74",
+    "type": "tax",
+    "amount": "794.4200000000001"
+  },
+  "170": {
+    "id": "170",
+    "payroll_id": "75",
+    "type": "retirement",
+    "amount": "989.59"
+  },
+  "171": {
+    "id": "171",
+    "payroll_id": "75",
+    "type": "loan",
+    "amount": "682.22"
+  },
+  "172": {
+    "id": "172",
+    "payroll_id": "75",
+    "type": "savings",
+    "amount": "1796.1299999999999"
+  },
+  "173": {
+    "id": "173",
+    "payroll_id": "76",
+    "type": "insurance",
+    "amount": "1156.57"
+  },
+  "174": {
+    "id": "174",
+    "payroll_id": "77",
+    "type": "retirement",
+    "amount": "746.72"
+  },
+  "175": {
+    "id": "175",
+    "payroll_id": "77",
+    "type": "savings",
+    "amount": "852.7"
+  },
+  "176": {
+    "id": "176",
+    "payroll_id": "77",
+    "type": "insurance",
+    "amount": "1192.08"
+  },
+  "177": {
+    "id": "177",
+    "payroll_id": "78",
+    "type": "retirement",
+    "amount": "681.62"
+  },
+  "178": {
+    "id": "178",
+    "payroll_id": "78",
+    "type": "insurance",
+    "amount": "964.6"
+  },
+  "179": {
+    "id": "179",
+    "payroll_id": "79",
+    "type": "tax",
+    "amount": "204.99"
+  },
+  "180": {
+    "id": "180",
+    "payroll_id": "79",
+    "type": "retirement",
+    "amount": "132.77"
+  },
+  "181": {
+    "id": "181",
+    "payroll_id": "79",
+    "type": "savings",
+    "amount": "229.43000000000004"
+  },
+  "182": {
+    "id": "182",
+    "payroll_id": "80",
+    "type": "savings",
+    "amount": "328.55"
+  },
+  "183": {
+    "id": "183",
+    "payroll_id": "80",
+    "type": "tax",
+    "amount": "1038.17"
+  },
+  "184": {
+    "id": "184",
+    "payroll_id": "81",
+    "type": "loan",
+    "amount": "784.44"
+  },
+  "185": {
+    "id": "185",
+    "payroll_id": "81",
+    "type": "retirement",
+    "amount": "379.29"
+  },
+  "186": {
+    "id": "186",
+    "payroll_id": "81",
+    "type": "tax",
+    "amount": "700.52"
+  },
+  "187": {
+    "id": "187",
+    "payroll_id": "82",
+    "type": "insurance",
+    "amount": "751.88"
+  },
+  "188": {
+    "id": "188",
+    "payroll_id": "82",
+    "type": "savings",
+    "amount": "440.03"
+  },
+  "189": {
+    "id": "189",
+    "payroll_id": "82",
+    "type": "loan",
+    "amount": "583.2099999999999"
+  },
+  "190": {
+    "id": "190",
+    "payroll_id": "83",
+    "type": "loan",
+    "amount": "2123.32"
+  },
+  "191": {
+    "id": "191",
+    "payroll_id": "84",
+    "type": "savings",
+    "amount": "712.65"
+  },
+  "192": {
+    "id": "192",
+    "payroll_id": "84",
+    "type": "tax",
+    "amount": "2000.52"
+  },
+  "193": {
+    "id": "193",
+    "payroll_id": "85",
+    "type": "savings",
+    "amount": "352.05"
+  },
+  "194": {
+    "id": "194",
+    "payroll_id": "85",
+    "type": "loan",
+    "amount": "181.49"
+  },
+  "195": {
+    "id": "195",
+    "payroll_id": "85",
+    "type": "tax",
+    "amount": "589.29"
+  },
+  "196": {
+    "id": "196",
+    "payroll_id": "86",
+    "type": "tax",
+    "amount": "392.27"
+  },
+  "197": {
+    "id": "197",
+    "payroll_id": "86",
+    "type": "retirement",
+    "amount": "893.02"
+  },
+  "198": {
+    "id": "198",
+    "payroll_id": "87",
+    "type": "tax",
+    "amount": "363.19"
+  },
+  "199": {
+    "id": "199",
+    "payroll_id": "87",
+    "type": "loan",
+    "amount": "196.0"
+  },
+  "200": {
+    "id": "200",
+    "payroll_id": "87",
+    "type": "insurance",
+    "amount": "374.51"
+  },
+  "201": {
+    "id": "201",
+    "payroll_id": "88",
+    "type": "retirement",
+    "amount": "1202.62"
+  },
+  "202": {
+    "id": "202",
+    "payroll_id": "89",
+    "type": "insurance",
+    "amount": "592.84"
+  },
+  "203": {
+    "id": "203",
+    "payroll_id": "89",
+    "type": "savings",
+    "amount": "358.02"
+  },
+  "204": {
+    "id": "204",
+    "payroll_id": "89",
+    "type": "loan",
+    "amount": "677.3299999999999"
+  },
+  "205": {
+    "id": "205",
+    "payroll_id": "90",
+    "type": "savings",
+    "amount": "520.21"
+  },
+  "206": {
+    "id": "206",
+    "payroll_id": "90",
+    "type": "tax",
+    "amount": "551.21"
+  },
+  "207": {
+    "id": "207",
+    "payroll_id": "90",
+    "type": "insurance",
+    "amount": "566.3899999999999"
+  },
+  "208": {
+    "id": "208",
+    "payroll_id": "91",
+    "type": "retirement",
+    "amount": "865.16"
+  },
+  "209": {
+    "id": "209",
+    "payroll_id": "91",
+    "type": "savings",
+    "amount": "1309.0"
+  },
+  "210": {
+    "id": "210",
+    "payroll_id": "92",
+    "type": "insurance",
+    "amount": "2363.24"
+  },
+  "211": {
+    "id": "211",
+    "payroll_id": "93",
+    "type": "loan",
+    "amount": "1312.88"
+  },
+  "212": {
+    "id": "212",
+    "payroll_id": "94",
+    "type": "loan",
+    "amount": "891.69"
+  },
+  "213": {
+    "id": "213",
+    "payroll_id": "94",
+    "type": "retirement",
+    "amount": "935.5799999999999"
+  },
+  "214": {
+    "id": "214",
+    "payroll_id": "95",
+    "type": "retirement",
+    "amount": "462.9"
+  },
+  "215": {
+    "id": "215",
+    "payroll_id": "95",
+    "type": "tax",
+    "amount": "616.5500000000001"
+  },
+  "216": {
+    "id": "216",
+    "payroll_id": "96",
+    "type": "retirement",
+    "amount": "1407.9"
+  },
+  "217": {
+    "id": "217",
+    "payroll_id": "97",
+    "type": "insurance",
+    "amount": "479.43"
+  },
+  "218": {
+    "id": "218",
+    "payroll_id": "97",
+    "type": "tax",
+    "amount": "630.11"
+  },
+  "219": {
+    "id": "219",
+    "payroll_id": "97",
+    "type": "savings",
+    "amount": "919.34"
+  },
+  "220": {
+    "id": "220",
+    "payroll_id": "98",
+    "type": "retirement",
+    "amount": "1322.35"
+  },
+  "221": {
+    "id": "221",
+    "payroll_id": "98",
+    "type": "loan",
+    "amount": "738.98"
+  },
+  "222": {
+    "id": "222",
+    "payroll_id": "98",
+    "type": "savings",
+    "amount": "1227.81"
+  },
+  "223": {
+    "id": "223",
+    "payroll_id": "99",
+    "type": "retirement",
+    "amount": "489.84"
+  },
+  "224": {
+    "id": "224",
+    "payroll_id": "99",
+    "type": "savings",
+    "amount": "319.46"
+  },
+  "225": {
+    "id": "225",
+    "payroll_id": "99",
+    "type": "insurance",
+    "amount": "368.3"
+  },
+  "226": {
+    "id": "226",
+    "payroll_id": "100",
+    "type": "loan",
+    "amount": "1193.39"
+  },
+  "227": {
+    "id": "227",
+    "payroll_id": "101",
+    "type": "retirement",
+    "amount": "461.11"
+  },
+  "228": {
+    "id": "228",
+    "payroll_id": "101",
+    "type": "insurance",
+    "amount": "564.08"
+  },
+  "229": {
+    "id": "229",
+    "payroll_id": "102",
+    "type": "savings",
+    "amount": "1022.59"
+  },
+  "230": {
+    "id": "230",
+    "payroll_id": "102",
+    "type": "loan",
+    "amount": "654.19"
+  },
+  "231": {
+    "id": "231",
+    "payroll_id": "102",
+    "type": "insurance",
+    "amount": "1900.35"
+  },
+  "232": {
+    "id": "232",
+    "payroll_id": "103",
+    "type": "savings",
+    "amount": "841.64"
+  },
+  "233": {
+    "id": "233",
+    "payroll_id": "103",
+    "type": "retirement",
+    "amount": "343.6"
+  },
+  "234": {
+    "id": "234",
+    "payroll_id": "103",
+    "type": "tax",
+    "amount": "803.2899999999998"
+  },
+  "235": {
+    "id": "235",
+    "payroll_id": "104",
+    "type": "retirement",
+    "amount": "2128.43"
+  },
+  "236": {
+    "id": "236",
+    "payroll_id": "105",
+    "type": "retirement",
+    "amount": "1259.8"
+  },
+  "237": {
+    "id": "237",
+    "payroll_id": "106",
+    "type": "retirement",
+    "amount": "1625.17"
+  },
+  "238": {
+    "id": "238",
+    "payroll_id": "107",
+    "type": "savings",
+    "amount": "573.13"
+  },
+  "239": {
+    "id": "239",
+    "payroll_id": "107",
+    "type": "loan",
+    "amount": "528.84"
+  },
+  "240": {
+    "id": "240",
+    "payroll_id": "107",
+    "type": "retirement",
+    "amount": "741.7100000000002"
+  },
+  "241": {
+    "id": "241",
+    "payroll_id": "108",
+    "type": "tax",
+    "amount": "1725.11"
+  },
+  "242": {
+    "id": "242",
+    "payroll_id": "109",
+    "type": "loan",
+    "amount": "436.79"
+  },
+  "243": {
+    "id": "243",
+    "payroll_id": "109",
+    "type": "insurance",
+    "amount": "534.3799999999999"
+  },
+  "244": {
+    "id": "244",
+    "payroll_id": "110",
+    "type": "tax",
+    "amount": "1022.02"
+  },
+  "245": {
+    "id": "245",
+    "payroll_id": "110",
+    "type": "retirement",
+    "amount": "1287.0100000000002"
+  },
+  "246": {
+    "id": "246",
+    "payroll_id": "111",
+    "type": "tax",
+    "amount": "369.11"
+  },
+  "247": {
+    "id": "247",
+    "payroll_id": "111",
+    "type": "retirement",
+    "amount": "1379.1399999999999"
+  },
+  "248": {
+    "id": "248",
+    "payroll_id": "112",
+    "type": "insurance",
+    "amount": "2700.99"
+  },
+  "249": {
+    "id": "249",
+    "payroll_id": "113",
+    "type": "savings",
+    "amount": "770.81"
+  },
+  "250": {
+    "id": "250",
+    "payroll_id": "113",
+    "type": "tax",
+    "amount": "229.72"
+  },
+  "251": {
+    "id": "251",
+    "payroll_id": "113",
+    "type": "retirement",
+    "amount": "762.8500000000001"
+  },
+  "252": {
+    "id": "252",
+    "payroll_id": "114",
+    "type": "savings",
+    "amount": "543.69"
+  },
+  "253": {
+    "id": "253",
+    "payroll_id": "114",
+    "type": "insurance",
+    "amount": "1144.6299999999999"
+  },
+  "254": {
+    "id": "254",
+    "payroll_id": "115",
+    "type": "savings",
+    "amount": "887.12"
+  },
+  "255": {
+    "id": "255",
+    "payroll_id": "116",
+    "type": "loan",
+    "amount": "2689.88"
+  },
+  "256": {
+    "id": "256",
+    "payroll_id": "117",
+    "type": "tax",
+    "amount": "351.27"
+  },
+  "257": {
+    "id": "257",
+    "payroll_id": "117",
+    "type": "loan",
+    "amount": "1196.43"
+  },
+  "258": {
+    "id": "258",
+    "payroll_id": "118",
+    "type": "savings",
+    "amount": "367.42"
+  },
+  "259": {
+    "id": "259",
+    "payroll_id": "118",
+    "type": "tax",
+    "amount": "300.41"
+  },
+  "260": {
+    "id": "260",
+    "payroll_id": "118",
+    "type": "insurance",
+    "amount": "350.08"
+  },
+  "261": {
+    "id": "261",
+    "payroll_id": "119",
+    "type": "loan",
+    "amount": "599.4"
+  },
+  "262": {
+    "id": "262",
+    "payroll_id": "119",
+    "type": "savings",
+    "amount": "464.87"
+  },
+  "263": {
+    "id": "263",
+    "payroll_id": "119",
+    "type": "insurance",
+    "amount": "1077.5300000000002"
+  },
+  "264": {
+    "id": "264",
+    "payroll_id": "120",
+    "type": "retirement",
+    "amount": "725.74"
+  },
+  "265": {
+    "id": "265",
+    "payroll_id": "120",
+    "type": "tax",
+    "amount": "373.85"
+  },
+  "266": {
+    "id": "266",
+    "payroll_id": "120",
+    "type": "loan",
+    "amount": "798.59"
+  },
+  "267": {
+    "id": "267",
+    "payroll_id": "121",
+    "type": "savings",
+    "amount": "851.87"
+  },
+  "268": {
+    "id": "268",
+    "payroll_id": "121",
+    "type": "tax",
+    "amount": "1533.42"
+  },
+  "269": {
+    "id": "269",
+    "payroll_id": "122",
+    "type": "insurance",
+    "amount": "587.99"
+  },
+  "270": {
+    "id": "270",
+    "payroll_id": "122",
+    "type": "savings",
+    "amount": "838.5999999999999"
+  },
+  "271": {
+    "id": "271",
+    "payroll_id": "123",
+    "type": "insurance",
+    "amount": "600.42"
+  },
+  "272": {
+    "id": "272",
+    "payroll_id": "123",
+    "type": "loan",
+    "amount": "1514.6999999999998"
+  },
+  "273": {
+    "id": "273",
+    "payroll_id": "124",
+    "type": "insurance",
+    "amount": "657.97"
+  },
+  "274": {
+    "id": "274",
+    "payroll_id": "124",
+    "type": "loan",
+    "amount": "1315.72"
+  },
+  "275": {
+    "id": "275",
+    "payroll_id": "125",
+    "type": "savings",
+    "amount": "866.15"
+  },
+  "276": {
+    "id": "276",
+    "payroll_id": "126",
+    "type": "loan",
+    "amount": "2979.03"
+  },
+  "277": {
+    "id": "277",
+    "payroll_id": "127",
+    "type": "retirement",
+    "amount": "1052.56"
+  },
+  "278": {
+    "id": "278",
+    "payroll_id": "128",
+    "type": "tax",
+    "amount": "196.5"
+  },
+  "279": {
+    "id": "279",
+    "payroll_id": "128",
+    "type": "savings",
+    "amount": "211.85"
+  },
+  "280": {
+    "id": "280",
+    "payroll_id": "128",
+    "type": "retirement",
+    "amount": "245.13000000000002"
+  },
+  "281": {
+    "id": "281",
+    "payroll_id": "129",
+    "type": "loan",
+    "amount": "3435.73"
+  },
+  "282": {
+    "id": "282",
+    "payroll_id": "130",
+    "type": "retirement",
+    "amount": "3221.63"
+  },
+  "283": {
+    "id": "283",
+    "payroll_id": "131",
+    "type": "tax",
+    "amount": "522.72"
+  },
+  "284": {
+    "id": "284",
+    "payroll_id": "131",
+    "type": "loan",
+    "amount": "767.1299999999999"
+  },
+  "285": {
+    "id": "285",
+    "payroll_id": "132",
+    "type": "insurance",
+    "amount": "215.37"
+  },
+  "286": {
+    "id": "286",
+    "payroll_id": "132",
+    "type": "tax",
+    "amount": "314.82000000000005"
+  },
+  "287": {
+    "id": "287",
+    "payroll_id": "133",
+    "type": "savings",
+    "amount": "320.31"
+  },
+  "288": {
+    "id": "288",
+    "payroll_id": "133",
+    "type": "retirement",
+    "amount": "410.68"
+  },
+  "289": {
+    "id": "289",
+    "payroll_id": "134",
+    "type": "retirement",
+    "amount": "1441.94"
+  },
+  "290": {
+    "id": "290",
+    "payroll_id": "135",
+    "type": "tax",
+    "amount": "426.27"
+  },
+  "291": {
+    "id": "291",
+    "payroll_id": "135",
+    "type": "insurance",
+    "amount": "443.62"
+  },
+  "292": {
+    "id": "292",
+    "payroll_id": "136",
+    "type": "retirement",
+    "amount": "948.99"
+  },
+  "293": {
+    "id": "293",
+    "payroll_id": "136",
+    "type": "insurance",
+    "amount": "275.12"
+  },
+  "294": {
+    "id": "294",
+    "payroll_id": "136",
+    "type": "tax",
+    "amount": "693.0200000000001"
+  },
+  "295": {
+    "id": "295",
+    "payroll_id": "137",
+    "type": "insurance",
+    "amount": "462.62"
+  },
+  "296": {
+    "id": "296",
+    "payroll_id": "137",
+    "type": "savings",
+    "amount": "662.2600000000001"
+  },
+  "297": {
+    "id": "297",
+    "payroll_id": "138",
+    "type": "savings",
+    "amount": "1116.52"
+  },
+  "298": {
+    "id": "298",
+    "payroll_id": "139",
+    "type": "retirement",
+    "amount": "337.31"
+  },
+  "299": {
+    "id": "299",
+    "payroll_id": "139",
+    "type": "savings",
+    "amount": "575.1199999999999"
+  },
+  "300": {
+    "id": "300",
+    "payroll_id": "140",
+    "type": "loan",
+    "amount": "1057.34"
+  },
+  "301": {
+    "id": "301",
+    "payroll_id": "141",
+    "type": "insurance",
+    "amount": "928.05"
+  },
+  "302": {
+    "id": "302",
+    "payroll_id": "141",
+    "type": "savings",
+    "amount": "942.5800000000002"
+  },
+  "303": {
+    "id": "303",
+    "payroll_id": "142",
+    "type": "tax",
+    "amount": "1929.54"
+  },
+  "304": {
+    "id": "304",
+    "payroll_id": "143",
+    "type": "savings",
+    "amount": "508.93"
+  },
+  "305": {
+    "id": "305",
+    "payroll_id": "143",
+    "type": "loan",
+    "amount": "129.91"
+  },
+  "306": {
+    "id": "306",
+    "payroll_id": "143",
+    "type": "tax",
+    "amount": "419.2499999999999"
+  },
+  "307": {
+    "id": "307",
+    "payroll_id": "144",
+    "type": "retirement",
+    "amount": "450.69"
+  },
+  "308": {
+    "id": "308",
+    "payroll_id": "144",
+    "type": "savings",
+    "amount": "276.22"
+  },
+  "309": {
+    "id": "309",
+    "payroll_id": "144",
+    "type": "tax",
+    "amount": "299.77"
+  },
+  "310": {
+    "id": "310",
+    "payroll_id": "145",
+    "type": "tax",
+    "amount": "1077.16"
+  },
+  "311": {
+    "id": "311",
+    "payroll_id": "145",
+    "type": "loan",
+    "amount": "582.3"
+  },
+  "312": {
+    "id": "312",
+    "payroll_id": "145",
+    "type": "insurance",
+    "amount": "838.3699999999999"
+  },
+  "313": {
+    "id": "313",
+    "payroll_id": "146",
+    "type": "tax",
+    "amount": "966.63"
+  },
+  "314": {
+    "id": "314",
+    "payroll_id": "146",
+    "type": "insurance",
+    "amount": "2682.89"
+  },
+  "315": {
+    "id": "315",
+    "payroll_id": "147",
+    "type": "insurance",
+    "amount": "419.3"
+  },
+  "316": {
+    "id": "316",
+    "payroll_id": "147",
+    "type": "retirement",
+    "amount": "441.63"
+  },
+  "317": {
+    "id": "317",
+    "payroll_id": "147",
+    "type": "savings",
+    "amount": "1006.08"
+  },
+  "318": {
+    "id": "318",
+    "payroll_id": "148",
+    "type": "insurance",
+    "amount": "264.23"
+  },
+  "319": {
+    "id": "319",
+    "payroll_id": "148",
+    "type": "loan",
+    "amount": "498.92999999999995"
+  },
+  "320": {
+    "id": "320",
+    "payroll_id": "149",
+    "type": "savings",
+    "amount": "385.78"
+  },
+  "321": {
+    "id": "321",
+    "payroll_id": "149",
+    "type": "retirement",
+    "amount": "217.61"
+  },
+  "322": {
+    "id": "322",
+    "payroll_id": "149",
+    "type": "loan",
+    "amount": "658.15"
+  }
+}

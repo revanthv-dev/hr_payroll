@@ -1,0 +1,142 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Morse, Case and Smith",
+    "tax_id": "314-41-6273",
+    "bank_details": "",
+    "created_at": "2024-07-28T20:33:49.541461"
+  },
+  "2": {
+    "id": "2",
+    "name": "Snyder, Hunter and Harris",
+    "tax_id": "788-57-6213",
+    "bank_details": "",
+    "created_at": "2024-11-28T14:11:58.204110"
+  },
+  "3": {
+    "id": "3",
+    "name": "Davis-Avila",
+    "tax_id": "724-95-0334",
+    "bank_details": "",
+    "created_at": "2025-09-07T16:10:54.512438"
+  },
+  "4": {
+    "id": "4",
+    "name": "Cantu Inc",
+    "tax_id": "232-70-6212",
+    "bank_details": "",
+    "created_at": "2025-07-06T03:01:49.582018"
+  },
+  "5": {
+    "id": "5",
+    "name": "Browning-Pearson",
+    "tax_id": "479-02-8729",
+    "bank_details": "",
+    "created_at": "2024-12-20T18:18:34.485286"
+  },
+  "6": {
+    "id": "6",
+    "name": "Walton LLC",
+    "tax_id": "199-27-0216",
+    "bank_details": "",
+    "created_at": "2024-01-22T14:23:29.918026"
+  },
+  "7": {
+    "id": "7",
+    "name": "Butler-Smith",
+    "tax_id": "418-04-4605",
+    "bank_details": "",
+    "created_at": "2025-01-12T21:03:17.402424"
+  },
+  "8": {
+    "id": "8",
+    "name": "Porter, Mcintosh and Williams",
+    "tax_id": "814-79-1904",
+    "bank_details": "",
+    "created_at": "2025-03-12T09:19:28.886682"
+  },
+  "9": {
+    "id": "9",
+    "name": "Boyd, Johnson and Obrien",
+    "tax_id": "813-17-0980",
+    "bank_details": "",
+    "created_at": "2025-03-06T03:45:47.853054"
+  },
+  "10": {
+    "id": "10",
+    "name": "Mendez, King and Irwin",
+    "tax_id": "532-87-5185",
+    "bank_details": "",
+    "created_at": "2024-08-08T21:01:10.846776"
+  },
+  "11": {
+    "id": "11",
+    "name": "Barnes, Parks and Khan",
+    "tax_id": "488-41-1759",
+    "bank_details": "",
+    "created_at": "2025-07-07T01:33:15.024785"
+  },
+  "12": {
+    "id": "12",
+    "name": "Wilson-Kline",
+    "tax_id": "215-23-1334",
+    "bank_details": "",
+    "created_at": "2025-07-07T16:48:00.892809"
+  },
+  "13": {
+    "id": "13",
+    "name": "Hartman-Benson",
+    "tax_id": "341-84-4703",
+    "bank_details": "",
+    "created_at": "2023-11-28T00:47:37.398113"
+  },
+  "14": {
+    "id": "14",
+    "name": "Dickerson-Gordon",
+    "tax_id": "414-24-1204",
+    "bank_details": "",
+    "created_at": "2024-04-25T08:14:38.536275"
+  },
+  "15": {
+    "id": "15",
+    "name": "Smith LLC",
+    "tax_id": "156-38-6422",
+    "bank_details": "",
+    "created_at": "2025-07-20T04:06:58.707964"
+  },
+  "16": {
+    "id": "16",
+    "name": "Fisher-Montoya",
+    "tax_id": "131-82-6495",
+    "bank_details": "",
+    "created_at": "2025-08-20T03:45:56.537782"
+  },
+  "17": {
+    "id": "17",
+    "name": "Lawrence-Velez",
+    "tax_id": "125-79-3724",
+    "bank_details": "",
+    "created_at": "2025-04-30T07:47:20.659846"
+  },
+  "18": {
+    "id": "18",
+    "name": "Morrow LLC",
+    "tax_id": "362-88-4869",
+    "bank_details": "",
+    "created_at": "2025-07-04T05:54:29.084825"
+  },
+  "19": {
+    "id": "19",
+    "name": "Martinez PLC",
+    "tax_id": "883-23-0872",
+    "bank_details": "",
+    "created_at": "2025-09-25T06:01:53.247214"
+  },
+  "20": {
+    "id": "20",
+    "name": "King Inc",
+    "tax_id": "360-15-0626",
+    "bank_details": "",
+    "created_at": "2025-06-17T02:06:23.967114"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "1": {
+    "id": "1",
+    "control_type": "duplicate_check",
+    "description": "",
+    "is_enabled": false,
+    "last_reviewed": "2025-05-26"
+  },
+  "2": {
+    "id": "2",
+    "control_type": "unapproved_change",
+    "description": "",
+    "is_enabled": true,
+    "last_reviewed": "2025-05-19"
+  },
+  "3": {
+    "id": "3",
+    "control_type": "segregation_of_duties",
+    "description": "",
+    "is_enabled": true,
+    "last_reviewed": "2024-12-26"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "1": {
+    "id": "1",
+    "employee_id": "15",
+    "action_type": "misconduct",
+    "description": "",
+    "effective_date": "2025-01-10"
+  },
+  "2": {
+    "id": "2",
+    "employee_id": "22",
+    "action_type": "fraud",
+    "description": "",
+    "effective_date": "2025-06-28"
+  },
+  "3": {
+    "id": "3",
+    "employee_id": "39",
+    "action_type": "non-compliance",
+    "description": "",
+    "effective_date": "2025-04-04"
+  },
+  "4": {
+    "id": "4",
+    "employee_id": "49",
+    "action_type": "non-compliance",
+    "description": "",
+    "effective_date": "2024-10-15"
+  },
+  "5": {
+    "id": "5",
+    "employee_id": "30",
+    "action_type": "fraud",
+    "description": "",
+    "effective_date": "2025-09-24"
+  }
+}

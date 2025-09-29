@@ -1,0 +1,520 @@
+{
+  "1": {
+    "id": "1",
+    "payroll_id": "68",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-04-27",
+    "status": "pending"
+  },
+  "2": {
+    "id": "2",
+    "payroll_id": "88",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-04-05",
+    "status": "filed"
+  },
+  "3": {
+    "id": "3",
+    "payroll_id": "54",
+    "filing_type": "W-2",
+    "filed_date": "2025-01-05",
+    "status": "delayed"
+  },
+  "4": {
+    "id": "4",
+    "payroll_id": "123",
+    "filing_type": "W-2",
+    "filed_date": "2025-09-02",
+    "status": "delayed"
+  },
+  "5": {
+    "id": "5",
+    "payroll_id": "22",
+    "filing_type": "W-2",
+    "filed_date": "2025-05-28",
+    "status": "delayed"
+  },
+  "6": {
+    "id": "6",
+    "payroll_id": "140",
+    "filing_type": "W-2",
+    "filed_date": "2025-07-09",
+    "status": "delayed"
+  },
+  "7": {
+    "id": "7",
+    "payroll_id": "37",
+    "filing_type": "W-2",
+    "filed_date": "2025-05-08",
+    "status": "pending"
+  },
+  "8": {
+    "id": "8",
+    "payroll_id": "48",
+    "filing_type": "W-2",
+    "filed_date": "2025-07-25",
+    "status": "delayed"
+  },
+  "9": {
+    "id": "9",
+    "payroll_id": "101",
+    "filing_type": "941",
+    "filed_date": "2025-09-22",
+    "status": "filed"
+  },
+  "10": {
+    "id": "10",
+    "payroll_id": "10",
+    "filing_type": "941",
+    "filed_date": "2025-04-27",
+    "status": "delayed"
+  },
+  "11": {
+    "id": "11",
+    "payroll_id": "66",
+    "filing_type": "W-2",
+    "filed_date": "2025-06-18",
+    "status": "pending"
+  },
+  "12": {
+    "id": "12",
+    "payroll_id": "106",
+    "filing_type": "W-2",
+    "filed_date": "2025-01-29",
+    "status": "delayed"
+  },
+  "13": {
+    "id": "13",
+    "payroll_id": "35",
+    "filing_type": "W-2",
+    "filed_date": "2025-02-13",
+    "status": "delayed"
+  },
+  "14": {
+    "id": "14",
+    "payroll_id": "100",
+    "filing_type": "941",
+    "filed_date": "2025-05-06",
+    "status": "filed"
+  },
+  "15": {
+    "id": "15",
+    "payroll_id": "79",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-05-23",
+    "status": "pending"
+  },
+  "16": {
+    "id": "16",
+    "payroll_id": "109",
+    "filing_type": "941",
+    "filed_date": "2024-11-03",
+    "status": "filed"
+  },
+  "17": {
+    "id": "17",
+    "payroll_id": "74",
+    "filing_type": "W-2",
+    "filed_date": "2025-02-20",
+    "status": "pending"
+  },
+  "18": {
+    "id": "18",
+    "payroll_id": "116",
+    "filing_type": "941",
+    "filed_date": "2025-02-09",
+    "status": "filed"
+  },
+  "19": {
+    "id": "19",
+    "payroll_id": "112",
+    "filing_type": "941",
+    "filed_date": "2025-05-25",
+    "status": "pending"
+  },
+  "20": {
+    "id": "20",
+    "payroll_id": "62",
+    "filing_type": "W-2",
+    "filed_date": "2025-01-17",
+    "status": "pending"
+  },
+  "21": {
+    "id": "21",
+    "payroll_id": "33",
+    "filing_type": "W-2",
+    "filed_date": "2025-05-02",
+    "status": "filed"
+  },
+  "22": {
+    "id": "22",
+    "payroll_id": "147",
+    "filing_type": "W-2",
+    "filed_date": "2025-09-24",
+    "status": "filed"
+  },
+  "23": {
+    "id": "23",
+    "payroll_id": "36",
+    "filing_type": "W-2",
+    "filed_date": "2025-01-03",
+    "status": "filed"
+  },
+  "24": {
+    "id": "24",
+    "payroll_id": "87",
+    "filing_type": "941",
+    "filed_date": "2025-02-13",
+    "status": "filed"
+  },
+  "25": {
+    "id": "25",
+    "payroll_id": "61",
+    "filing_type": "941",
+    "filed_date": "2025-08-20",
+    "status": "filed"
+  },
+  "26": {
+    "id": "26",
+    "payroll_id": "72",
+    "filing_type": "941",
+    "filed_date": "2024-12-22",
+    "status": "filed"
+  },
+  "27": {
+    "id": "27",
+    "payroll_id": "149",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-01-30",
+    "status": "pending"
+  },
+  "28": {
+    "id": "28",
+    "payroll_id": "65",
+    "filing_type": "941",
+    "filed_date": "2024-10-29",
+    "status": "pending"
+  },
+  "29": {
+    "id": "29",
+    "payroll_id": "80",
+    "filing_type": "W-2",
+    "filed_date": "2025-07-21",
+    "status": "pending"
+  },
+  "30": {
+    "id": "30",
+    "payroll_id": "51",
+    "filing_type": "W-2",
+    "filed_date": "2025-01-13",
+    "status": "delayed"
+  },
+  "31": {
+    "id": "31",
+    "payroll_id": "90",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-04-06",
+    "status": "delayed"
+  },
+  "32": {
+    "id": "32",
+    "payroll_id": "118",
+    "filing_type": "W-2",
+    "filed_date": "2025-08-27",
+    "status": "delayed"
+  },
+  "33": {
+    "id": "33",
+    "payroll_id": "14",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-03-19",
+    "status": "delayed"
+  },
+  "34": {
+    "id": "34",
+    "payroll_id": "8",
+    "filing_type": "W-2",
+    "filed_date": "2024-09-26",
+    "status": "delayed"
+  },
+  "35": {
+    "id": "35",
+    "payroll_id": "3",
+    "filing_type": "941",
+    "filed_date": "2025-06-19",
+    "status": "filed"
+  },
+  "36": {
+    "id": "36",
+    "payroll_id": "142",
+    "filing_type": "W-2",
+    "filed_date": "2025-04-29",
+    "status": "delayed"
+  },
+  "37": {
+    "id": "37",
+    "payroll_id": "73",
+    "filing_type": "941",
+    "filed_date": "2025-01-23",
+    "status": "delayed"
+  },
+  "38": {
+    "id": "38",
+    "payroll_id": "47",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-01-27",
+    "status": "delayed"
+  },
+  "39": {
+    "id": "39",
+    "payroll_id": "25",
+    "filing_type": "941",
+    "filed_date": "2024-10-24",
+    "status": "pending"
+  },
+  "40": {
+    "id": "40",
+    "payroll_id": "27",
+    "filing_type": "941",
+    "filed_date": "2025-01-28",
+    "status": "delayed"
+  },
+  "41": {
+    "id": "41",
+    "payroll_id": "30",
+    "filing_type": "W-2",
+    "filed_date": "2025-06-05",
+    "status": "pending"
+  },
+  "42": {
+    "id": "42",
+    "payroll_id": "143",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-02-28",
+    "status": "filed"
+  },
+  "43": {
+    "id": "43",
+    "payroll_id": "98",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-08-22",
+    "status": "filed"
+  },
+  "44": {
+    "id": "44",
+    "payroll_id": "75",
+    "filing_type": "941",
+    "filed_date": "2025-07-10",
+    "status": "filed"
+  },
+  "45": {
+    "id": "45",
+    "payroll_id": "95",
+    "filing_type": "941",
+    "filed_date": "2025-03-16",
+    "status": "pending"
+  },
+  "46": {
+    "id": "46",
+    "payroll_id": "11",
+    "filing_type": "W-2",
+    "filed_date": "2025-09-21",
+    "status": "delayed"
+  },
+  "47": {
+    "id": "47",
+    "payroll_id": "138",
+    "filing_type": "tax remittance",
+    "filed_date": "2024-10-13",
+    "status": "filed"
+  },
+  "48": {
+    "id": "48",
+    "payroll_id": "58",
+    "filing_type": "941",
+    "filed_date": "2025-01-15",
+    "status": "delayed"
+  },
+  "49": {
+    "id": "49",
+    "payroll_id": "50",
+    "filing_type": "W-2",
+    "filed_date": "2025-06-10",
+    "status": "pending"
+  },
+  "50": {
+    "id": "50",
+    "payroll_id": "59",
+    "filing_type": "W-2",
+    "filed_date": "2025-01-04",
+    "status": "delayed"
+  },
+  "51": {
+    "id": "51",
+    "payroll_id": "2",
+    "filing_type": "W-2",
+    "filed_date": "2025-09-04",
+    "status": "delayed"
+  },
+  "52": {
+    "id": "52",
+    "payroll_id": "44",
+    "filing_type": "tax remittance",
+    "filed_date": "2024-10-07",
+    "status": "filed"
+  },
+  "53": {
+    "id": "53",
+    "payroll_id": "69",
+    "filing_type": "941",
+    "filed_date": "2025-06-20",
+    "status": "delayed"
+  },
+  "54": {
+    "id": "54",
+    "payroll_id": "7",
+    "filing_type": "W-2",
+    "filed_date": "2024-12-10",
+    "status": "pending"
+  },
+  "55": {
+    "id": "55",
+    "payroll_id": "139",
+    "filing_type": "941",
+    "filed_date": "2025-04-21",
+    "status": "delayed"
+  },
+  "56": {
+    "id": "56",
+    "payroll_id": "107",
+    "filing_type": "W-2",
+    "filed_date": "2025-07-14",
+    "status": "pending"
+  },
+  "57": {
+    "id": "57",
+    "payroll_id": "81",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-03-01",
+    "status": "pending"
+  },
+  "58": {
+    "id": "58",
+    "payroll_id": "56",
+    "filing_type": "W-2",
+    "filed_date": "2025-06-18",
+    "status": "filed"
+  },
+  "59": {
+    "id": "59",
+    "payroll_id": "93",
+    "filing_type": "941",
+    "filed_date": "2024-10-15",
+    "status": "delayed"
+  },
+  "60": {
+    "id": "60",
+    "payroll_id": "144",
+    "filing_type": "W-2",
+    "filed_date": "2025-01-15",
+    "status": "filed"
+  },
+  "61": {
+    "id": "61",
+    "payroll_id": "16",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-08-10",
+    "status": "pending"
+  },
+  "62": {
+    "id": "62",
+    "payroll_id": "52",
+    "filing_type": "941",
+    "filed_date": "2025-05-08",
+    "status": "pending"
+  },
+  "63": {
+    "id": "63",
+    "payroll_id": "99",
+    "filing_type": "941",
+    "filed_date": "2025-01-07",
+    "status": "delayed"
+  },
+  "64": {
+    "id": "64",
+    "payroll_id": "19",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-01-03",
+    "status": "delayed"
+  },
+  "65": {
+    "id": "65",
+    "payroll_id": "108",
+    "filing_type": "W-2",
+    "filed_date": "2025-08-05",
+    "status": "filed"
+  },
+  "66": {
+    "id": "66",
+    "payroll_id": "46",
+    "filing_type": "941",
+    "filed_date": "2024-10-28",
+    "status": "delayed"
+  },
+  "67": {
+    "id": "67",
+    "payroll_id": "117",
+    "filing_type": "W-2",
+    "filed_date": "2025-07-20",
+    "status": "filed"
+  },
+  "68": {
+    "id": "68",
+    "payroll_id": "126",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-01-20",
+    "status": "delayed"
+  },
+  "69": {
+    "id": "69",
+    "payroll_id": "9",
+    "filing_type": "941",
+    "filed_date": "2025-03-09",
+    "status": "filed"
+  },
+  "70": {
+    "id": "70",
+    "payroll_id": "133",
+    "filing_type": "tax remittance",
+    "filed_date": "2025-07-04",
+    "status": "pending"
+  },
+  "71": {
+    "id": "71",
+    "payroll_id": "18",
+    "filing_type": "W-2",
+    "filed_date": "2025-02-05",
+    "status": "delayed"
+  },
+  "72": {
+    "id": "72",
+    "payroll_id": "120",
+    "filing_type": "941",
+    "filed_date": "2025-07-30",
+    "status": "pending"
+  },
+  "73": {
+    "id": "73",
+    "payroll_id": "42",
+    "filing_type": "tax remittance",
+    "filed_date": "2024-10-13",
+    "status": "pending"
+  },
+  "74": {
+    "id": "74",
+    "payroll_id": "12",
+    "filing_type": "tax remittance",
+    "filed_date": "2024-11-16",
+    "status": "pending"
+  }
+}

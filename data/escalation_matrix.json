@@ -1,0 +1,65 @@
+{
+  "1": {
+    "id": "1",
+    "issue_type": "payroll_error",
+    "level": "1",
+    "escalates_to_role": "HR",
+    "response_time_hours": "4"
+  },
+  "2": {
+    "id": "2",
+    "issue_type": "payroll_error",
+    "level": "2",
+    "escalates_to_role": "Payroll Head",
+    "response_time_hours": "24"
+  },
+  "3": {
+    "id": "3",
+    "issue_type": "payroll_error",
+    "level": "3",
+    "escalates_to_role": "CFO",
+    "response_time_hours": "4"
+  },
+  "4": {
+    "id": "4",
+    "issue_type": "payment_dispute",
+    "level": "1",
+    "escalates_to_role": "HR",
+    "response_time_hours": "8"
+  },
+  "5": {
+    "id": "5",
+    "issue_type": "payment_dispute",
+    "level": "2",
+    "escalates_to_role": "Payroll Head",
+    "response_time_hours": "24"
+  },
+  "6": {
+    "id": "6",
+    "issue_type": "payment_dispute",
+    "level": "3",
+    "escalates_to_role": "CFO",
+    "response_time_hours": "48"
+  },
+  "7": {
+    "id": "7",
+    "issue_type": "compliance_violation",
+    "level": "1",
+    "escalates_to_role": "HR",
+    "response_time_hours": "8"
+  },
+  "8": {
+    "id": "8",
+    "issue_type": "compliance_violation",
+    "level": "2",
+    "escalates_to_role": "Payroll Head",
+    "response_time_hours": "8"
+  },
+  "9": {
+    "id": "9",
+    "issue_type": "compliance_violation",
+    "level": "3",
+    "escalates_to_role": "CFO",
+    "response_time_hours": "24"
+  }
+}

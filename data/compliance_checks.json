@@ -1,0 +1,746 @@
+{
+  "1": {
+    "id": "1",
+    "rule_id": "12",
+    "entity_type": "payroll",
+    "entity_id": "41",
+    "status": "compliant",
+    "checked_at": "2025-06-26T12:15:46.058109"
+  },
+  "2": {
+    "id": "2",
+    "rule_id": "5",
+    "entity_type": "payroll",
+    "entity_id": "49",
+    "status": "compliant",
+    "checked_at": "2025-02-16T14:43:53.113307"
+  },
+  "3": {
+    "id": "3",
+    "rule_id": "6",
+    "entity_type": "employee",
+    "entity_id": "10",
+    "status": "compliant",
+    "checked_at": "2025-04-12T04:53:13.526162"
+  },
+  "4": {
+    "id": "4",
+    "rule_id": "3",
+    "entity_type": "payroll",
+    "entity_id": "110",
+    "status": "compliant",
+    "checked_at": "2025-08-25T07:57:37.030351"
+  },
+  "5": {
+    "id": "5",
+    "rule_id": "6",
+    "entity_type": "payroll",
+    "entity_id": "131",
+    "status": "compliant",
+    "checked_at": "2024-10-09T08:03:10.550588"
+  },
+  "6": {
+    "id": "6",
+    "rule_id": "3",
+    "entity_type": "payroll",
+    "entity_id": "103",
+    "status": "compliant",
+    "checked_at": "2025-04-08T08:53:45.614334"
+  },
+  "7": {
+    "id": "7",
+    "rule_id": "4",
+    "entity_type": "employee",
+    "entity_id": "36",
+    "status": "violation",
+    "checked_at": "2024-12-31T03:21:30.100325"
+  },
+  "8": {
+    "id": "8",
+    "rule_id": "6",
+    "entity_type": "employee",
+    "entity_id": "46",
+    "status": "compliant",
+    "checked_at": "2025-03-26T05:38:56.973182"
+  },
+  "9": {
+    "id": "9",
+    "rule_id": "1",
+    "entity_type": "employee",
+    "entity_id": "33",
+    "status": "compliant",
+    "checked_at": "2024-12-06T19:58:26.716433"
+  },
+  "10": {
+    "id": "10",
+    "rule_id": "6",
+    "entity_type": "employee",
+    "entity_id": "27",
+    "status": "compliant",
+    "checked_at": "2025-05-31T14:42:27.676173"
+  },
+  "11": {
+    "id": "11",
+    "rule_id": "2",
+    "entity_type": "vendor",
+    "entity_id": "5",
+    "status": "compliant",
+    "checked_at": "2025-03-31T12:54:53.814625"
+  },
+  "12": {
+    "id": "12",
+    "rule_id": "9",
+    "entity_type": "payroll",
+    "entity_id": "128",
+    "status": "compliant",
+    "checked_at": "2024-12-26T09:23:02.531463"
+  },
+  "13": {
+    "id": "13",
+    "rule_id": "12",
+    "entity_type": "vendor",
+    "entity_id": "3",
+    "status": "compliant",
+    "checked_at": "2024-12-29T12:03:19.686599"
+  },
+  "14": {
+    "id": "14",
+    "rule_id": "2",
+    "entity_type": "payroll",
+    "entity_id": "60",
+    "status": "compliant",
+    "checked_at": "2024-10-09T10:41:38.910879"
+  },
+  "15": {
+    "id": "15",
+    "rule_id": "3",
+    "entity_type": "vendor",
+    "entity_id": "1",
+    "status": "compliant",
+    "checked_at": "2025-05-29T08:11:50.153551"
+  },
+  "16": {
+    "id": "16",
+    "rule_id": "3",
+    "entity_type": "employee",
+    "entity_id": "35",
+    "status": "compliant",
+    "checked_at": "2025-05-21T18:56:45.225264"
+  },
+  "17": {
+    "id": "17",
+    "rule_id": "8",
+    "entity_type": "vendor",
+    "entity_id": "14",
+    "status": "compliant",
+    "checked_at": "2025-03-18T06:55:36.304074"
+  },
+  "18": {
+    "id": "18",
+    "rule_id": "8",
+    "entity_type": "vendor",
+    "entity_id": "4",
+    "status": "compliant",
+    "checked_at": "2025-07-24T00:53:16.926746"
+  },
+  "19": {
+    "id": "19",
+    "rule_id": "8",
+    "entity_type": "employee",
+    "entity_id": "29",
+    "status": "compliant",
+    "checked_at": "2025-03-05T01:32:47.562487"
+  },
+  "20": {
+    "id": "20",
+    "rule_id": "2",
+    "entity_type": "vendor",
+    "entity_id": "13",
+    "status": "violation",
+    "checked_at": "2025-04-08T21:35:07.963137"
+  },
+  "21": {
+    "id": "21",
+    "rule_id": "2",
+    "entity_type": "employee",
+    "entity_id": "24",
+    "status": "compliant",
+    "checked_at": "2025-03-13T15:44:27.282738"
+  },
+  "22": {
+    "id": "22",
+    "rule_id": "7",
+    "entity_type": "payroll",
+    "entity_id": "52",
+    "status": "compliant",
+    "checked_at": "2025-03-18T18:47:24.684094"
+  },
+  "23": {
+    "id": "23",
+    "rule_id": "7",
+    "entity_type": "payroll",
+    "entity_id": "123",
+    "status": "compliant",
+    "checked_at": "2025-05-30T23:20:50.207994"
+  },
+  "24": {
+    "id": "24",
+    "rule_id": "5",
+    "entity_type": "vendor",
+    "entity_id": "17",
+    "status": "compliant",
+    "checked_at": "2025-08-05T22:46:10.516342"
+  },
+  "25": {
+    "id": "25",
+    "rule_id": "10",
+    "entity_type": "employee",
+    "entity_id": "18",
+    "status": "compliant",
+    "checked_at": "2024-10-14T22:22:19.266229"
+  },
+  "26": {
+    "id": "26",
+    "rule_id": "10",
+    "entity_type": "employee",
+    "entity_id": "2",
+    "status": "compliant",
+    "checked_at": "2024-12-24T18:57:43.546592"
+  },
+  "27": {
+    "id": "27",
+    "rule_id": "11",
+    "entity_type": "payroll",
+    "entity_id": "35",
+    "status": "compliant",
+    "checked_at": "2024-10-30T21:48:32.056540"
+  },
+  "28": {
+    "id": "28",
+    "rule_id": "3",
+    "entity_type": "employee",
+    "entity_id": "46",
+    "status": "violation",
+    "checked_at": "2025-04-23T10:21:05.754400"
+  },
+  "29": {
+    "id": "29",
+    "rule_id": "8",
+    "entity_type": "vendor",
+    "entity_id": "1",
+    "status": "compliant",
+    "checked_at": "2025-09-07T15:28:17.232501"
+  },
+  "30": {
+    "id": "30",
+    "rule_id": "3",
+    "entity_type": "payroll",
+    "entity_id": "48",
+    "status": "compliant",
+    "checked_at": "2025-08-08T10:30:12.774836"
+  },
+  "31": {
+    "id": "31",
+    "rule_id": "6",
+    "entity_type": "payroll",
+    "entity_id": "121",
+    "status": "compliant",
+    "checked_at": "2025-08-06T18:09:23.357762"
+  },
+  "32": {
+    "id": "32",
+    "rule_id": "8",
+    "entity_type": "payroll",
+    "entity_id": "123",
+    "status": "compliant",
+    "checked_at": "2025-01-16T05:59:49.897527"
+  },
+  "33": {
+    "id": "33",
+    "rule_id": "4",
+    "entity_type": "employee",
+    "entity_id": "45",
+    "status": "compliant",
+    "checked_at": "2024-10-02T14:41:42.689612"
+  },
+  "34": {
+    "id": "34",
+    "rule_id": "2",
+    "entity_type": "payroll",
+    "entity_id": "120",
+    "status": "violation",
+    "checked_at": "2025-09-08T02:11:25.566478"
+  },
+  "35": {
+    "id": "35",
+    "rule_id": "5",
+    "entity_type": "employee",
+    "entity_id": "23",
+    "status": "compliant",
+    "checked_at": "2025-06-10T15:44:58.285841"
+  },
+  "36": {
+    "id": "36",
+    "rule_id": "1",
+    "entity_type": "employee",
+    "entity_id": "5",
+    "status": "compliant",
+    "checked_at": "2025-05-01T09:56:52.460646"
+  },
+  "37": {
+    "id": "37",
+    "rule_id": "12",
+    "entity_type": "employee",
+    "entity_id": "50",
+    "status": "compliant",
+    "checked_at": "2024-12-31T11:07:52.522902"
+  },
+  "38": {
+    "id": "38",
+    "rule_id": "6",
+    "entity_type": "vendor",
+    "entity_id": "14",
+    "status": "compliant",
+    "checked_at": "2024-11-10T13:09:13.236356"
+  },
+  "39": {
+    "id": "39",
+    "rule_id": "12",
+    "entity_type": "payroll",
+    "entity_id": "133",
+    "status": "violation",
+    "checked_at": "2024-12-16T03:53:32.828309"
+  },
+  "40": {
+    "id": "40",
+    "rule_id": "7",
+    "entity_type": "employee",
+    "entity_id": "17",
+    "status": "compliant",
+    "checked_at": "2025-06-20T21:25:23.149305"
+  },
+  "41": {
+    "id": "41",
+    "rule_id": "7",
+    "entity_type": "employee",
+    "entity_id": "48",
+    "status": "compliant",
+    "checked_at": "2024-11-16T05:36:26.218404"
+  },
+  "42": {
+    "id": "42",
+    "rule_id": "2",
+    "entity_type": "employee",
+    "entity_id": "27",
+    "status": "compliant",
+    "checked_at": "2025-04-08T09:21:42.880442"
+  },
+  "43": {
+    "id": "43",
+    "rule_id": "2",
+    "entity_type": "employee",
+    "entity_id": "44",
+    "status": "compliant",
+    "checked_at": "2025-05-16T07:31:42.156638"
+  },
+  "44": {
+    "id": "44",
+    "rule_id": "3",
+    "entity_type": "vendor",
+    "entity_id": "17",
+    "status": "compliant",
+    "checked_at": "2025-07-23T12:22:58.614785"
+  },
+  "45": {
+    "id": "45",
+    "rule_id": "6",
+    "entity_type": "vendor",
+    "entity_id": "4",
+    "status": "compliant",
+    "checked_at": "2025-02-09T01:11:02.004804"
+  },
+  "46": {
+    "id": "46",
+    "rule_id": "5",
+    "entity_type": "vendor",
+    "entity_id": "17",
+    "status": "compliant",
+    "checked_at": "2025-03-12T18:56:59.204097"
+  },
+  "47": {
+    "id": "47",
+    "rule_id": "7",
+    "entity_type": "employee",
+    "entity_id": "27",
+    "status": "compliant",
+    "checked_at": "2024-10-11T18:48:44.859138"
+  },
+  "48": {
+    "id": "48",
+    "rule_id": "5",
+    "entity_type": "payroll",
+    "entity_id": "12",
+    "status": "violation",
+    "checked_at": "2025-02-11T20:41:02.579246"
+  },
+  "49": {
+    "id": "49",
+    "rule_id": "1",
+    "entity_type": "vendor",
+    "entity_id": "18",
+    "status": "compliant",
+    "checked_at": "2024-12-11T20:24:17.929241"
+  },
+  "50": {
+    "id": "50",
+    "rule_id": "3",
+    "entity_type": "vendor",
+    "entity_id": "7",
+    "status": "violation",
+    "checked_at": "2025-05-28T11:42:11.661735"
+  },
+  "51": {
+    "id": "51",
+    "rule_id": "8",
+    "entity_type": "employee",
+    "entity_id": "15",
+    "status": "compliant",
+    "checked_at": "2025-02-18T01:54:04.046192"
+  },
+  "52": {
+    "id": "52",
+    "rule_id": "3",
+    "entity_type": "vendor",
+    "entity_id": "9",
+    "status": "compliant",
+    "checked_at": "2025-04-22T21:20:32.763265"
+  },
+  "53": {
+    "id": "53",
+    "rule_id": "1",
+    "entity_type": "vendor",
+    "entity_id": "10",
+    "status": "violation",
+    "checked_at": "2025-01-01T03:54:43.065365"
+  },
+  "54": {
+    "id": "54",
+    "rule_id": "7",
+    "entity_type": "vendor",
+    "entity_id": "9",
+    "status": "compliant",
+    "checked_at": "2025-05-22T00:59:12.990186"
+  },
+  "55": {
+    "id": "55",
+    "rule_id": "7",
+    "entity_type": "payroll",
+    "entity_id": "75",
+    "status": "violation",
+    "checked_at": "2025-01-17T01:16:45.415729"
+  },
+  "56": {
+    "id": "56",
+    "rule_id": "6",
+    "entity_type": "payroll",
+    "entity_id": "74",
+    "status": "compliant",
+    "checked_at": "2025-03-09T05:57:10.497346"
+  },
+  "57": {
+    "id": "57",
+    "rule_id": "11",
+    "entity_type": "payroll",
+    "entity_id": "141",
+    "status": "compliant",
+    "checked_at": "2025-09-10T10:53:46.742557"
+  },
+  "58": {
+    "id": "58",
+    "rule_id": "7",
+    "entity_type": "vendor",
+    "entity_id": "3",
+    "status": "compliant",
+    "checked_at": "2024-11-07T19:58:58.753402"
+  },
+  "59": {
+    "id": "59",
+    "rule_id": "3",
+    "entity_type": "employee",
+    "entity_id": "42",
+    "status": "compliant",
+    "checked_at": "2025-06-11T14:31:54.493114"
+  },
+  "60": {
+    "id": "60",
+    "rule_id": "7",
+    "entity_type": "vendor",
+    "entity_id": "18",
+    "status": "compliant",
+    "checked_at": "2025-08-20T03:26:17.509689"
+  },
+  "61": {
+    "id": "61",
+    "rule_id": "4",
+    "entity_type": "vendor",
+    "entity_id": "1",
+    "status": "compliant",
+    "checked_at": "2025-05-28T06:47:22.502479"
+  },
+  "62": {
+    "id": "62",
+    "rule_id": "9",
+    "entity_type": "employee",
+    "entity_id": "42",
+    "status": "violation",
+    "checked_at": "2025-07-23T00:21:16.526693"
+  },
+  "63": {
+    "id": "63",
+    "rule_id": "1",
+    "entity_type": "employee",
+    "entity_id": "23",
+    "status": "compliant",
+    "checked_at": "2025-02-23T18:27:31.863748"
+  },
+  "64": {
+    "id": "64",
+    "rule_id": "9",
+    "entity_type": "vendor",
+    "entity_id": "12",
+    "status": "compliant",
+    "checked_at": "2025-06-25T17:32:00.281663"
+  },
+  "65": {
+    "id": "65",
+    "rule_id": "3",
+    "entity_type": "employee",
+    "entity_id": "19",
+    "status": "compliant",
+    "checked_at": "2025-05-19T15:10:32.740748"
+  },
+  "66": {
+    "id": "66",
+    "rule_id": "7",
+    "entity_type": "vendor",
+    "entity_id": "12",
+    "status": "compliant",
+    "checked_at": "2025-06-06T06:07:26.272923"
+  },
+  "67": {
+    "id": "67",
+    "rule_id": "9",
+    "entity_type": "employee",
+    "entity_id": "10",
+    "status": "compliant",
+    "checked_at": "2025-04-30T10:28:34.021245"
+  },
+  "68": {
+    "id": "68",
+    "rule_id": "2",
+    "entity_type": "employee",
+    "entity_id": "45",
+    "status": "compliant",
+    "checked_at": "2025-04-06T06:45:11.512467"
+  },
+  "69": {
+    "id": "69",
+    "rule_id": "4",
+    "entity_type": "payroll",
+    "entity_id": "22",
+    "status": "violation",
+    "checked_at": "2025-03-29T18:08:43.165398"
+  },
+  "70": {
+    "id": "70",
+    "rule_id": "9",
+    "entity_type": "payroll",
+    "entity_id": "128",
+    "status": "compliant",
+    "checked_at": "2025-09-08T10:58:59.233726"
+  },
+  "71": {
+    "id": "71",
+    "rule_id": "3",
+    "entity_type": "vendor",
+    "entity_id": "16",
+    "status": "compliant",
+    "checked_at": "2025-04-26T18:09:52.159739"
+  },
+  "72": {
+    "id": "72",
+    "rule_id": "10",
+    "entity_type": "payroll",
+    "entity_id": "31",
+    "status": "compliant",
+    "checked_at": "2025-08-21T02:27:49.580107"
+  },
+  "73": {
+    "id": "73",
+    "rule_id": "4",
+    "entity_type": "vendor",
+    "entity_id": "16",
+    "status": "compliant",
+    "checked_at": "2025-02-02T20:30:26.215415"
+  },
+  "74": {
+    "id": "74",
+    "rule_id": "12",
+    "entity_type": "payroll",
+    "entity_id": "41",
+    "status": "compliant",
+    "checked_at": "2025-08-02T02:24:51.235717"
+  },
+  "75": {
+    "id": "75",
+    "rule_id": "9",
+    "entity_type": "vendor",
+    "entity_id": "13",
+    "status": "compliant",
+    "checked_at": "2024-10-06T03:27:05.908479"
+  },
+  "76": {
+    "id": "76",
+    "rule_id": "5",
+    "entity_type": "vendor",
+    "entity_id": "2",
+    "status": "compliant",
+    "checked_at": "2025-01-25T18:05:05.443043"
+  },
+  "77": {
+    "id": "77",
+    "rule_id": "10",
+    "entity_type": "employee",
+    "entity_id": "21",
+    "status": "compliant",
+    "checked_at": "2024-11-09T01:10:06.372120"
+  },
+  "78": {
+    "id": "78",
+    "rule_id": "2",
+    "entity_type": "payroll",
+    "entity_id": "9",
+    "status": "compliant",
+    "checked_at": "2025-03-28T05:28:37.566511"
+  },
+  "79": {
+    "id": "79",
+    "rule_id": "3",
+    "entity_type": "employee",
+    "entity_id": "2",
+    "status": "compliant",
+    "checked_at": "2025-05-13T20:16:31.187963"
+  },
+  "80": {
+    "id": "80",
+    "rule_id": "6",
+    "entity_type": "payroll",
+    "entity_id": "56",
+    "status": "compliant",
+    "checked_at": "2025-01-09T12:16:41.708140"
+  },
+  "81": {
+    "id": "81",
+    "rule_id": "3",
+    "entity_type": "vendor",
+    "entity_id": "20",
+    "status": "compliant",
+    "checked_at": "2024-12-31T23:31:57.264601"
+  },
+  "82": {
+    "id": "82",
+    "rule_id": "3",
+    "entity_type": "employee",
+    "entity_id": "17",
+    "status": "violation",
+    "checked_at": "2025-03-19T13:23:39.961056"
+  },
+  "83": {
+    "id": "83",
+    "rule_id": "3",
+    "entity_type": "payroll",
+    "entity_id": "87",
+    "status": "compliant",
+    "checked_at": "2025-06-15T09:35:32.284489"
+  },
+  "84": {
+    "id": "84",
+    "rule_id": "2",
+    "entity_type": "vendor",
+    "entity_id": "12",
+    "status": "violation",
+    "checked_at": "2024-12-23T01:15:01.712473"
+  },
+  "85": {
+    "id": "85",
+    "rule_id": "12",
+    "entity_type": "employee",
+    "entity_id": "30",
+    "status": "compliant",
+    "checked_at": "2025-09-12T00:59:38.898060"
+  },
+  "86": {
+    "id": "86",
+    "rule_id": "7",
+    "entity_type": "employee",
+    "entity_id": "15",
+    "status": "compliant",
+    "checked_at": "2024-11-28T15:50:50.622650"
+  },
+  "87": {
+    "id": "87",
+    "rule_id": "2",
+    "entity_type": "vendor",
+    "entity_id": "3",
+    "status": "compliant",
+    "checked_at": "2025-08-16T12:56:28.406003"
+  },
+  "88": {
+    "id": "88",
+    "rule_id": "12",
+    "entity_type": "payroll",
+    "entity_id": "65",
+    "status": "violation",
+    "checked_at": "2025-02-16T16:27:53.269289"
+  },
+  "89": {
+    "id": "89",
+    "rule_id": "8",
+    "entity_type": "payroll",
+    "entity_id": "75",
+    "status": "compliant",
+    "checked_at": "2025-02-18T17:13:08.738285"
+  },
+  "90": {
+    "id": "90",
+    "rule_id": "6",
+    "entity_type": "payroll",
+    "entity_id": "80",
+    "status": "compliant",
+    "checked_at": "2024-12-16T03:58:44.928922"
+  },
+  "91": {
+    "id": "91",
+    "rule_id": "1",
+    "entity_type": "employee",
+    "entity_id": "46",
+    "status": "violation",
+    "checked_at": "2025-08-05T02:47:36.879870"
+  },
+  "92": {
+    "id": "92",
+    "rule_id": "7",
+    "entity_type": "employee",
+    "entity_id": "36",
+    "status": "compliant",
+    "checked_at": "2024-10-13T00:18:38.426971"
+  },
+  "93": {
+    "id": "93",
+    "rule_id": "1",
+    "entity_type": "payroll",
+    "entity_id": "2",
+    "status": "compliant",
+    "checked_at": "2025-06-04T04:49:51.613018"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "1": {
+    "id": "1",
+    "employee_id": "43",
+    "adjustment_type": "final settlement",
+    "amount": "2190.54",
+    "effective_date": "2025-08-24"
+  },
+  "2": {
+    "id": "2",
+    "employee_id": "36",
+    "adjustment_type": "final settlement",
+    "amount": "4465.43",
+    "effective_date": "2025-06-12"
+  },
+  "3": {
+    "id": "3",
+    "employee_id": "22",
+    "adjustment_type": "advance",
+    "amount": "4106.15",
+    "effective_date": "2025-07-09"
+  },
+  "4": {
+    "id": "4",
+    "employee_id": "35",
+    "adjustment_type": "final settlement",
+    "amount": "3900.72",
+    "effective_date": "2025-08-27"
+  },
+  "5": {
+    "id": "5",
+    "employee_id": "4",
+    "adjustment_type": "advance",
+    "amount": "2576.5",
+    "effective_date": "2025-08-06"
+  },
+  "6": {
+    "id": "6",
+    "employee_id": "10",
+    "adjustment_type": "error correction",
+    "amount": "3983.33",
+    "effective_date": "2025-07-27"
+  },
+  "7": {
+    "id": "7",
+    "employee_id": "18",
+    "adjustment_type": "advance",
+    "amount": "638.9",
+    "effective_date": "2024-11-21"
+  },
+  "8": {
+    "id": "8",
+    "employee_id": "16",
+    "adjustment_type": "error correction",
+    "amount": "3758.14",
+    "effective_date": "2025-03-23"
+  },
+  "9": {
+    "id": "9",
+    "employee_id": "34",
+    "adjustment_type": "final settlement",
+    "amount": "4687.84",
+    "effective_date": "2025-05-22"
+  },
+  "10": {
+    "id": "10",
+    "employee_id": "7",
+    "adjustment_type": "retro pay",
+    "amount": "139.16",
+    "effective_date": "2025-01-21"
+  },
+  "11": {
+    "id": "11",
+    "employee_id": "21",
+    "adjustment_type": "advance",
+    "amount": "1429.17",
+    "effective_date": "2025-06-24"
+  },
+  "12": {
+    "id": "12",
+    "employee_id": "8",
+    "adjustment_type": "error correction",
+    "amount": "1402.9",
+    "effective_date": "2025-01-08"
+  },
+  "13": {
+    "id": "13",
+    "employee_id": "49",
+    "adjustment_type": "error correction",
+    "amount": "2489.87",
+    "effective_date": "2025-08-27"
+  },
+  "14": {
+    "id": "14",
+    "employee_id": "42",
+    "adjustment_type": "final settlement",
+    "amount": "3691.19",
+    "effective_date": "2025-09-08"
+  },
+  "15": {
+    "id": "15",
+    "employee_id": "11",
+    "adjustment_type": "error correction",
+    "amount": "3494.03",
+    "effective_date": "2025-01-10"
+  }
+}

@@ -1,0 +1,7202 @@
+{
+  "1": {
+    "id": "1",
+    "employee_id": "2",
+    "date": "2025-09-14",
+    "check_in": "08:19:00",
+    "check_out": "18:14:00",
+    "status": "present"
+  },
+  "2": {
+    "id": "2",
+    "employee_id": "2",
+    "date": "2025-09-25",
+    "check_in": "08:57:00",
+    "check_out": "18:51:00",
+    "status": "present"
+  },
+  "3": {
+    "id": "3",
+    "employee_id": "2",
+    "date": "2025-09-15",
+    "check_in": "08:16:00",
+    "check_out": "18:15:00",
+    "status": "present"
+  },
+  "4": {
+    "id": "4",
+    "employee_id": "2",
+    "date": "2025-09-08",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "5": {
+    "id": "5",
+    "employee_id": "2",
+    "date": "2025-09-24",
+    "check_in": "08:32:00",
+    "check_out": "17:51:00",
+    "status": "present"
+  },
+  "6": {
+    "id": "6",
+    "employee_id": "2",
+    "date": "2025-09-03",
+    "check_in": "08:07:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "7": {
+    "id": "7",
+    "employee_id": "2",
+    "date": "2025-09-22",
+    "check_in": "08:13:00",
+    "check_out": "17:42:00",
+    "status": "present"
+  },
+  "8": {
+    "id": "8",
+    "employee_id": "2",
+    "date": "2025-09-20",
+    "check_in": "09:37:00",
+    "check_out": "17:47:00",
+    "status": "present"
+  },
+  "9": {
+    "id": "9",
+    "employee_id": "2",
+    "date": "2025-09-02",
+    "check_in": "08:25:00",
+    "check_out": "17:54:00",
+    "status": "present"
+  },
+  "10": {
+    "id": "10",
+    "employee_id": "2",
+    "date": "2025-08-30",
+    "check_in": "08:10:00",
+    "check_out": "17:14:00",
+    "status": "present"
+  },
+  "11": {
+    "id": "11",
+    "employee_id": "2",
+    "date": "2025-09-01",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "12": {
+    "id": "12",
+    "employee_id": "2",
+    "date": "2025-08-31",
+    "check_in": "09:29:00",
+    "check_out": "18:15:00",
+    "status": "present"
+  },
+  "13": {
+    "id": "13",
+    "employee_id": "2",
+    "date": "2025-09-24",
+    "check_in": "09:21:00",
+    "check_out": "17:59:00",
+    "status": "present"
+  },
+  "14": {
+    "id": "14",
+    "employee_id": "2",
+    "date": "2025-09-12",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "15": {
+    "id": "15",
+    "employee_id": "2",
+    "date": "2025-09-01",
+    "check_in": "08:50:00",
+    "check_out": "18:44:00",
+    "status": "present"
+  },
+  "16": {
+    "id": "16",
+    "employee_id": "2",
+    "date": "2025-09-24",
+    "check_in": "08:26:00",
+    "check_out": "18:27:00",
+    "status": "present"
+  },
+  "17": {
+    "id": "17",
+    "employee_id": "2",
+    "date": "2025-09-16",
+    "check_in": "08:20:00",
+    "check_out": "18:24:00",
+    "status": "present"
+  },
+  "18": {
+    "id": "18",
+    "employee_id": "2",
+    "date": "2025-09-14",
+    "check_in": "09:23:00",
+    "check_out": "17:01:00",
+    "status": "present"
+  },
+  "19": {
+    "id": "19",
+    "employee_id": "2",
+    "date": "2025-09-23",
+    "check_in": "08:55:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "20": {
+    "id": "20",
+    "employee_id": "2",
+    "date": "2025-08-29",
+    "check_in": "09:40:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "21": {
+    "id": "21",
+    "employee_id": "2",
+    "date": "2025-09-21",
+    "check_in": "08:34:00",
+    "check_out": "17:10:00",
+    "status": "present"
+  },
+  "22": {
+    "id": "22",
+    "employee_id": "2",
+    "date": "2025-08-31",
+    "check_in": "08:04:00",
+    "check_out": "18:27:00",
+    "status": "present"
+  },
+  "23": {
+    "id": "23",
+    "employee_id": "2",
+    "date": "2025-08-30",
+    "check_in": "09:43:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "24": {
+    "id": "24",
+    "employee_id": "2",
+    "date": "2025-08-29",
+    "check_in": "09:11:00",
+    "check_out": "17:48:00",
+    "status": "present"
+  },
+  "25": {
+    "id": "25",
+    "employee_id": "2",
+    "date": "2025-09-12",
+    "check_in": "08:35:00",
+    "check_out": "17:11:00",
+    "status": "present"
+  },
+  "26": {
+    "id": "26",
+    "employee_id": "2",
+    "date": "2025-09-02",
+    "check_in": "09:47:00",
+    "check_out": "17:30:00",
+    "status": "present"
+  },
+  "27": {
+    "id": "27",
+    "employee_id": "2",
+    "date": "2025-09-25",
+    "check_in": "08:38:00",
+    "check_out": "18:51:00",
+    "status": "present"
+  },
+  "28": {
+    "id": "28",
+    "employee_id": "2",
+    "date": "2025-09-18",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "29": {
+    "id": "29",
+    "employee_id": "2",
+    "date": "2025-09-14",
+    "check_in": "08:05:00",
+    "check_out": "17:31:00",
+    "status": "present"
+  },
+  "30": {
+    "id": "30",
+    "employee_id": "2",
+    "date": "2025-09-13",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "31": {
+    "id": "31",
+    "employee_id": "3",
+    "date": "2025-09-10",
+    "check_in": "09:18:00",
+    "check_out": "18:22:00",
+    "status": "present"
+  },
+  "32": {
+    "id": "32",
+    "employee_id": "3",
+    "date": "2025-09-03",
+    "check_in": "09:31:00",
+    "check_out": "17:24:00",
+    "status": "present"
+  },
+  "33": {
+    "id": "33",
+    "employee_id": "3",
+    "date": "2025-09-11",
+    "check_in": "09:35:00",
+    "check_out": "18:19:00",
+    "status": "present"
+  },
+  "34": {
+    "id": "34",
+    "employee_id": "3",
+    "date": "2025-09-11",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "35": {
+    "id": "35",
+    "employee_id": "3",
+    "date": "2025-09-17",
+    "check_in": "09:58:00",
+    "check_out": "13:07:00",
+    "status": "half-day"
+  },
+  "36": {
+    "id": "36",
+    "employee_id": "3",
+    "date": "2025-09-05",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "37": {
+    "id": "37",
+    "employee_id": "3",
+    "date": "2025-08-28",
+    "check_in": "09:17:00",
+    "check_out": "18:26:00",
+    "status": "present"
+  },
+  "38": {
+    "id": "38",
+    "employee_id": "3",
+    "date": "2025-09-18",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "39": {
+    "id": "39",
+    "employee_id": "3",
+    "date": "2025-09-23",
+    "check_in": "08:11:00",
+    "check_out": "17:16:00",
+    "status": "present"
+  },
+  "40": {
+    "id": "40",
+    "employee_id": "3",
+    "date": "2025-09-08",
+    "check_in": "09:53:00",
+    "check_out": "17:11:00",
+    "status": "present"
+  },
+  "41": {
+    "id": "41",
+    "employee_id": "3",
+    "date": "2025-09-02",
+    "check_in": "09:10:00",
+    "check_out": "18:43:00",
+    "status": "present"
+  },
+  "42": {
+    "id": "42",
+    "employee_id": "3",
+    "date": "2025-09-16",
+    "check_in": "09:43:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "43": {
+    "id": "43",
+    "employee_id": "3",
+    "date": "2025-08-27",
+    "check_in": "09:06:00",
+    "check_out": "17:37:00",
+    "status": "present"
+  },
+  "44": {
+    "id": "44",
+    "employee_id": "3",
+    "date": "2025-09-07",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "45": {
+    "id": "45",
+    "employee_id": "3",
+    "date": "2025-09-13",
+    "check_in": "08:22:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "46": {
+    "id": "46",
+    "employee_id": "3",
+    "date": "2025-09-20",
+    "check_in": "09:08:00",
+    "check_out": "17:33:00",
+    "status": "present"
+  },
+  "47": {
+    "id": "47",
+    "employee_id": "3",
+    "date": "2025-09-08",
+    "check_in": "08:40:00",
+    "check_out": "17:57:00",
+    "status": "present"
+  },
+  "48": {
+    "id": "48",
+    "employee_id": "3",
+    "date": "2025-09-24",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "49": {
+    "id": "49",
+    "employee_id": "3",
+    "date": "2025-08-27",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "50": {
+    "id": "50",
+    "employee_id": "3",
+    "date": "2025-09-08",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "51": {
+    "id": "51",
+    "employee_id": "3",
+    "date": "2025-09-23",
+    "check_in": "09:42:00",
+    "check_out": "17:57:00",
+    "status": "present"
+  },
+  "52": {
+    "id": "52",
+    "employee_id": "3",
+    "date": "2025-09-23",
+    "check_in": "08:26:00",
+    "check_out": "13:36:00",
+    "status": "half-day"
+  },
+  "53": {
+    "id": "53",
+    "employee_id": "3",
+    "date": "2025-09-09",
+    "check_in": "08:04:00",
+    "check_out": "17:32:00",
+    "status": "present"
+  },
+  "54": {
+    "id": "54",
+    "employee_id": "3",
+    "date": "2025-09-20",
+    "check_in": "08:58:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "55": {
+    "id": "55",
+    "employee_id": "3",
+    "date": "2025-09-24",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "56": {
+    "id": "56",
+    "employee_id": "3",
+    "date": "2025-09-24",
+    "check_in": "09:12:00",
+    "check_out": "18:24:00",
+    "status": "present"
+  },
+  "57": {
+    "id": "57",
+    "employee_id": "3",
+    "date": "2025-09-23",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "58": {
+    "id": "58",
+    "employee_id": "3",
+    "date": "2025-09-10",
+    "check_in": "09:44:00",
+    "check_out": "17:30:00",
+    "status": "present"
+  },
+  "59": {
+    "id": "59",
+    "employee_id": "3",
+    "date": "2025-09-15",
+    "check_in": "08:24:00",
+    "check_out": "17:53:00",
+    "status": "present"
+  },
+  "60": {
+    "id": "60",
+    "employee_id": "3",
+    "date": "2025-08-31",
+    "check_in": "08:44:00",
+    "check_out": "18:54:00",
+    "status": "present"
+  },
+  "61": {
+    "id": "61",
+    "employee_id": "4",
+    "date": "2025-08-30",
+    "check_in": "08:35:00",
+    "check_out": "13:44:00",
+    "status": "half-day"
+  },
+  "62": {
+    "id": "62",
+    "employee_id": "4",
+    "date": "2025-09-09",
+    "check_in": "08:32:00",
+    "check_out": "18:41:00",
+    "status": "present"
+  },
+  "63": {
+    "id": "63",
+    "employee_id": "4",
+    "date": "2025-08-29",
+    "check_in": "08:45:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "64": {
+    "id": "64",
+    "employee_id": "4",
+    "date": "2025-08-31",
+    "check_in": "09:22:00",
+    "check_out": "18:13:00",
+    "status": "present"
+  },
+  "65": {
+    "id": "65",
+    "employee_id": "4",
+    "date": "2025-09-10",
+    "check_in": "09:41:00",
+    "check_out": "18:25:00",
+    "status": "present"
+  },
+  "66": {
+    "id": "66",
+    "employee_id": "4",
+    "date": "2025-09-18",
+    "check_in": "09:00:00",
+    "check_out": "17:27:00",
+    "status": "present"
+  },
+  "67": {
+    "id": "67",
+    "employee_id": "4",
+    "date": "2025-09-21",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "68": {
+    "id": "68",
+    "employee_id": "4",
+    "date": "2025-09-09",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "69": {
+    "id": "69",
+    "employee_id": "4",
+    "date": "2025-08-31",
+    "check_in": "09:44:00",
+    "check_out": "17:47:00",
+    "status": "present"
+  },
+  "70": {
+    "id": "70",
+    "employee_id": "4",
+    "date": "2025-09-06",
+    "check_in": "08:18:00",
+    "check_out": "18:53:00",
+    "status": "present"
+  },
+  "71": {
+    "id": "71",
+    "employee_id": "4",
+    "date": "2025-09-23",
+    "check_in": "09:01:00",
+    "check_out": "17:10:00",
+    "status": "present"
+  },
+  "72": {
+    "id": "72",
+    "employee_id": "4",
+    "date": "2025-09-03",
+    "check_in": "08:49:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "73": {
+    "id": "73",
+    "employee_id": "4",
+    "date": "2025-09-08",
+    "check_in": "09:13:00",
+    "check_out": "13:44:00",
+    "status": "half-day"
+  },
+  "74": {
+    "id": "74",
+    "employee_id": "4",
+    "date": "2025-09-15",
+    "check_in": "09:51:00",
+    "check_out": "18:43:00",
+    "status": "present"
+  },
+  "75": {
+    "id": "75",
+    "employee_id": "4",
+    "date": "2025-08-27",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "76": {
+    "id": "76",
+    "employee_id": "4",
+    "date": "2025-08-27",
+    "check_in": "08:38:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "77": {
+    "id": "77",
+    "employee_id": "4",
+    "date": "2025-09-05",
+    "check_in": "08:56:00",
+    "check_out": "13:35:00",
+    "status": "half-day"
+  },
+  "78": {
+    "id": "78",
+    "employee_id": "4",
+    "date": "2025-09-15",
+    "check_in": "09:55:00",
+    "check_out": "17:52:00",
+    "status": "present"
+  },
+  "79": {
+    "id": "79",
+    "employee_id": "4",
+    "date": "2025-09-13",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "80": {
+    "id": "80",
+    "employee_id": "4",
+    "date": "2025-08-31",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "81": {
+    "id": "81",
+    "employee_id": "4",
+    "date": "2025-09-21",
+    "check_in": "09:23:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "82": {
+    "id": "82",
+    "employee_id": "4",
+    "date": "2025-09-25",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "83": {
+    "id": "83",
+    "employee_id": "4",
+    "date": "2025-09-02",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "84": {
+    "id": "84",
+    "employee_id": "4",
+    "date": "2025-09-15",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "85": {
+    "id": "85",
+    "employee_id": "4",
+    "date": "2025-09-13",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "86": {
+    "id": "86",
+    "employee_id": "4",
+    "date": "2025-09-15",
+    "check_in": "09:39:00",
+    "check_out": "17:41:00",
+    "status": "present"
+  },
+  "87": {
+    "id": "87",
+    "employee_id": "4",
+    "date": "2025-09-04",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "88": {
+    "id": "88",
+    "employee_id": "4",
+    "date": "2025-09-05",
+    "check_in": "09:43:00",
+    "check_out": "18:54:00",
+    "status": "present"
+  },
+  "89": {
+    "id": "89",
+    "employee_id": "4",
+    "date": "2025-09-14",
+    "check_in": "09:18:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "90": {
+    "id": "90",
+    "employee_id": "4",
+    "date": "2025-08-28",
+    "check_in": "08:03:00",
+    "check_out": "18:34:00",
+    "status": "present"
+  },
+  "91": {
+    "id": "91",
+    "employee_id": "6",
+    "date": "2025-09-05",
+    "check_in": "08:32:00",
+    "check_out": "18:49:00",
+    "status": "present"
+  },
+  "92": {
+    "id": "92",
+    "employee_id": "6",
+    "date": "2025-09-08",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "93": {
+    "id": "93",
+    "employee_id": "6",
+    "date": "2025-09-25",
+    "check_in": "08:03:00",
+    "check_out": "18:54:00",
+    "status": "present"
+  },
+  "94": {
+    "id": "94",
+    "employee_id": "6",
+    "date": "2025-09-16",
+    "check_in": "08:08:00",
+    "check_out": "17:00:00",
+    "status": "present"
+  },
+  "95": {
+    "id": "95",
+    "employee_id": "6",
+    "date": "2025-09-10",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "96": {
+    "id": "96",
+    "employee_id": "6",
+    "date": "2025-09-10",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "97": {
+    "id": "97",
+    "employee_id": "6",
+    "date": "2025-09-20",
+    "check_in": "08:05:00",
+    "check_out": "17:54:00",
+    "status": "present"
+  },
+  "98": {
+    "id": "98",
+    "employee_id": "6",
+    "date": "2025-09-24",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "99": {
+    "id": "99",
+    "employee_id": "6",
+    "date": "2025-09-19",
+    "check_in": "09:52:00",
+    "check_out": "18:20:00",
+    "status": "present"
+  },
+  "100": {
+    "id": "100",
+    "employee_id": "6",
+    "date": "2025-09-12",
+    "check_in": "09:11:00",
+    "check_out": "13:13:00",
+    "status": "half-day"
+  },
+  "101": {
+    "id": "101",
+    "employee_id": "6",
+    "date": "2025-08-27",
+    "check_in": "08:05:00",
+    "check_out": "18:13:00",
+    "status": "present"
+  },
+  "102": {
+    "id": "102",
+    "employee_id": "6",
+    "date": "2025-09-15",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "103": {
+    "id": "103",
+    "employee_id": "6",
+    "date": "2025-09-24",
+    "check_in": "08:30:00",
+    "check_out": "17:32:00",
+    "status": "present"
+  },
+  "104": {
+    "id": "104",
+    "employee_id": "6",
+    "date": "2025-09-06",
+    "check_in": "08:40:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "105": {
+    "id": "105",
+    "employee_id": "6",
+    "date": "2025-09-13",
+    "check_in": "08:04:00",
+    "check_out": "17:45:00",
+    "status": "present"
+  },
+  "106": {
+    "id": "106",
+    "employee_id": "6",
+    "date": "2025-09-09",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "107": {
+    "id": "107",
+    "employee_id": "6",
+    "date": "2025-09-06",
+    "check_in": "09:05:00",
+    "check_out": "17:40:00",
+    "status": "present"
+  },
+  "108": {
+    "id": "108",
+    "employee_id": "6",
+    "date": "2025-09-23",
+    "check_in": "09:07:00",
+    "check_out": "18:50:00",
+    "status": "present"
+  },
+  "109": {
+    "id": "109",
+    "employee_id": "6",
+    "date": "2025-08-27",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "110": {
+    "id": "110",
+    "employee_id": "6",
+    "date": "2025-09-11",
+    "check_in": "08:39:00",
+    "check_out": "18:36:00",
+    "status": "present"
+  },
+  "111": {
+    "id": "111",
+    "employee_id": "6",
+    "date": "2025-09-22",
+    "check_in": "08:24:00",
+    "check_out": "17:13:00",
+    "status": "present"
+  },
+  "112": {
+    "id": "112",
+    "employee_id": "6",
+    "date": "2025-09-06",
+    "check_in": "09:10:00",
+    "check_out": "17:16:00",
+    "status": "present"
+  },
+  "113": {
+    "id": "113",
+    "employee_id": "6",
+    "date": "2025-09-17",
+    "check_in": "08:26:00",
+    "check_out": "17:28:00",
+    "status": "present"
+  },
+  "114": {
+    "id": "114",
+    "employee_id": "6",
+    "date": "2025-09-03",
+    "check_in": "08:24:00",
+    "check_out": "17:54:00",
+    "status": "present"
+  },
+  "115": {
+    "id": "115",
+    "employee_id": "6",
+    "date": "2025-08-28",
+    "check_in": "08:33:00",
+    "check_out": "17:55:00",
+    "status": "present"
+  },
+  "116": {
+    "id": "116",
+    "employee_id": "6",
+    "date": "2025-09-04",
+    "check_in": "08:20:00",
+    "check_out": "18:44:00",
+    "status": "present"
+  },
+  "117": {
+    "id": "117",
+    "employee_id": "6",
+    "date": "2025-09-19",
+    "check_in": "09:34:00",
+    "check_out": "17:09:00",
+    "status": "present"
+  },
+  "118": {
+    "id": "118",
+    "employee_id": "6",
+    "date": "2025-08-28",
+    "check_in": "09:32:00",
+    "check_out": "18:03:00",
+    "status": "present"
+  },
+  "119": {
+    "id": "119",
+    "employee_id": "6",
+    "date": "2025-09-25",
+    "check_in": "09:04:00",
+    "check_out": "17:54:00",
+    "status": "present"
+  },
+  "120": {
+    "id": "120",
+    "employee_id": "6",
+    "date": "2025-09-19",
+    "check_in": "08:17:00",
+    "check_out": "17:37:00",
+    "status": "present"
+  },
+  "121": {
+    "id": "121",
+    "employee_id": "8",
+    "date": "2025-09-02",
+    "check_in": "09:47:00",
+    "check_out": "17:20:00",
+    "status": "present"
+  },
+  "122": {
+    "id": "122",
+    "employee_id": "8",
+    "date": "2025-09-10",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "123": {
+    "id": "123",
+    "employee_id": "8",
+    "date": "2025-08-28",
+    "check_in": "08:55:00",
+    "check_out": "17:12:00",
+    "status": "present"
+  },
+  "124": {
+    "id": "124",
+    "employee_id": "8",
+    "date": "2025-09-01",
+    "check_in": "09:18:00",
+    "check_out": "18:34:00",
+    "status": "present"
+  },
+  "125": {
+    "id": "125",
+    "employee_id": "8",
+    "date": "2025-09-05",
+    "check_in": "08:31:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "126": {
+    "id": "126",
+    "employee_id": "8",
+    "date": "2025-09-01",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "127": {
+    "id": "127",
+    "employee_id": "8",
+    "date": "2025-09-13",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "128": {
+    "id": "128",
+    "employee_id": "8",
+    "date": "2025-09-06",
+    "check_in": "09:02:00",
+    "check_out": "17:00:00",
+    "status": "present"
+  },
+  "129": {
+    "id": "129",
+    "employee_id": "8",
+    "date": "2025-09-06",
+    "check_in": "09:18:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "130": {
+    "id": "130",
+    "employee_id": "8",
+    "date": "2025-09-20",
+    "check_in": "08:49:00",
+    "check_out": "18:42:00",
+    "status": "present"
+  },
+  "131": {
+    "id": "131",
+    "employee_id": "8",
+    "date": "2025-09-18",
+    "check_in": "09:02:00",
+    "check_out": "18:24:00",
+    "status": "present"
+  },
+  "132": {
+    "id": "132",
+    "employee_id": "8",
+    "date": "2025-09-12",
+    "check_in": "09:31:00",
+    "check_out": "18:25:00",
+    "status": "present"
+  },
+  "133": {
+    "id": "133",
+    "employee_id": "8",
+    "date": "2025-09-11",
+    "check_in": "09:18:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "134": {
+    "id": "134",
+    "employee_id": "8",
+    "date": "2025-09-04",
+    "check_in": "08:38:00",
+    "check_out": "18:28:00",
+    "status": "present"
+  },
+  "135": {
+    "id": "135",
+    "employee_id": "8",
+    "date": "2025-09-14",
+    "check_in": "09:06:00",
+    "check_out": "13:00:00",
+    "status": "half-day"
+  },
+  "136": {
+    "id": "136",
+    "employee_id": "8",
+    "date": "2025-09-03",
+    "check_in": "09:55:00",
+    "check_out": "18:28:00",
+    "status": "present"
+  },
+  "137": {
+    "id": "137",
+    "employee_id": "8",
+    "date": "2025-09-06",
+    "check_in": "08:05:00",
+    "check_out": "17:28:00",
+    "status": "present"
+  },
+  "138": {
+    "id": "138",
+    "employee_id": "8",
+    "date": "2025-09-22",
+    "check_in": "08:00:00",
+    "check_out": "18:17:00",
+    "status": "present"
+  },
+  "139": {
+    "id": "139",
+    "employee_id": "8",
+    "date": "2025-09-22",
+    "check_in": "09:20:00",
+    "check_out": "18:40:00",
+    "status": "present"
+  },
+  "140": {
+    "id": "140",
+    "employee_id": "8",
+    "date": "2025-09-09",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "141": {
+    "id": "141",
+    "employee_id": "8",
+    "date": "2025-09-20",
+    "check_in": "09:40:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "142": {
+    "id": "142",
+    "employee_id": "8",
+    "date": "2025-08-28",
+    "check_in": "09:25:00",
+    "check_out": "18:39:00",
+    "status": "present"
+  },
+  "143": {
+    "id": "143",
+    "employee_id": "8",
+    "date": "2025-09-24",
+    "check_in": "08:31:00",
+    "check_out": "18:19:00",
+    "status": "present"
+  },
+  "144": {
+    "id": "144",
+    "employee_id": "8",
+    "date": "2025-09-01",
+    "check_in": "09:53:00",
+    "check_out": "17:10:00",
+    "status": "present"
+  },
+  "145": {
+    "id": "145",
+    "employee_id": "8",
+    "date": "2025-09-22",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "146": {
+    "id": "146",
+    "employee_id": "8",
+    "date": "2025-09-08",
+    "check_in": "08:42:00",
+    "check_out": "17:32:00",
+    "status": "present"
+  },
+  "147": {
+    "id": "147",
+    "employee_id": "8",
+    "date": "2025-09-18",
+    "check_in": "09:13:00",
+    "check_out": "17:27:00",
+    "status": "present"
+  },
+  "148": {
+    "id": "148",
+    "employee_id": "8",
+    "date": "2025-09-02",
+    "check_in": "09:32:00",
+    "check_out": "18:57:00",
+    "status": "present"
+  },
+  "149": {
+    "id": "149",
+    "employee_id": "8",
+    "date": "2025-09-06",
+    "check_in": "09:27:00",
+    "check_out": "17:16:00",
+    "status": "present"
+  },
+  "150": {
+    "id": "150",
+    "employee_id": "8",
+    "date": "2025-09-02",
+    "check_in": "08:23:00",
+    "check_out": "18:23:00",
+    "status": "present"
+  },
+  "151": {
+    "id": "151",
+    "employee_id": "10",
+    "date": "2025-09-13",
+    "check_in": "08:10:00",
+    "check_out": "13:44:00",
+    "status": "half-day"
+  },
+  "152": {
+    "id": "152",
+    "employee_id": "10",
+    "date": "2025-09-24",
+    "check_in": "08:40:00",
+    "check_out": "17:51:00",
+    "status": "present"
+  },
+  "153": {
+    "id": "153",
+    "employee_id": "10",
+    "date": "2025-09-19",
+    "check_in": "08:23:00",
+    "check_out": "13:47:00",
+    "status": "half-day"
+  },
+  "154": {
+    "id": "154",
+    "employee_id": "10",
+    "date": "2025-09-04",
+    "check_in": "09:09:00",
+    "check_out": "18:46:00",
+    "status": "present"
+  },
+  "155": {
+    "id": "155",
+    "employee_id": "10",
+    "date": "2025-08-29",
+    "check_in": "08:14:00",
+    "check_out": "18:03:00",
+    "status": "present"
+  },
+  "156": {
+    "id": "156",
+    "employee_id": "10",
+    "date": "2025-09-20",
+    "check_in": "08:31:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "157": {
+    "id": "157",
+    "employee_id": "10",
+    "date": "2025-09-08",
+    "check_in": "08:08:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "158": {
+    "id": "158",
+    "employee_id": "10",
+    "date": "2025-09-15",
+    "check_in": "08:35:00",
+    "check_out": "17:24:00",
+    "status": "present"
+  },
+  "159": {
+    "id": "159",
+    "employee_id": "10",
+    "date": "2025-09-23",
+    "check_in": "09:25:00",
+    "check_out": "18:55:00",
+    "status": "present"
+  },
+  "160": {
+    "id": "160",
+    "employee_id": "10",
+    "date": "2025-09-25",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "161": {
+    "id": "161",
+    "employee_id": "10",
+    "date": "2025-08-30",
+    "check_in": "08:55:00",
+    "check_out": "18:49:00",
+    "status": "present"
+  },
+  "162": {
+    "id": "162",
+    "employee_id": "10",
+    "date": "2025-08-30",
+    "check_in": "09:09:00",
+    "check_out": "17:28:00",
+    "status": "present"
+  },
+  "163": {
+    "id": "163",
+    "employee_id": "10",
+    "date": "2025-09-19",
+    "check_in": "09:20:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "164": {
+    "id": "164",
+    "employee_id": "10",
+    "date": "2025-09-11",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "165": {
+    "id": "165",
+    "employee_id": "10",
+    "date": "2025-09-08",
+    "check_in": "09:05:00",
+    "check_out": "17:26:00",
+    "status": "present"
+  },
+  "166": {
+    "id": "166",
+    "employee_id": "10",
+    "date": "2025-08-27",
+    "check_in": "09:37:00",
+    "check_out": "18:26:00",
+    "status": "present"
+  },
+  "167": {
+    "id": "167",
+    "employee_id": "10",
+    "date": "2025-09-06",
+    "check_in": "08:14:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "168": {
+    "id": "168",
+    "employee_id": "10",
+    "date": "2025-09-23",
+    "check_in": "09:08:00",
+    "check_out": "18:31:00",
+    "status": "present"
+  },
+  "169": {
+    "id": "169",
+    "employee_id": "10",
+    "date": "2025-09-06",
+    "check_in": "08:24:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "170": {
+    "id": "170",
+    "employee_id": "10",
+    "date": "2025-09-19",
+    "check_in": "09:15:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "171": {
+    "id": "171",
+    "employee_id": "10",
+    "date": "2025-09-20",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "172": {
+    "id": "172",
+    "employee_id": "10",
+    "date": "2025-09-25",
+    "check_in": "09:59:00",
+    "check_out": "17:52:00",
+    "status": "present"
+  },
+  "173": {
+    "id": "173",
+    "employee_id": "10",
+    "date": "2025-09-12",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "174": {
+    "id": "174",
+    "employee_id": "10",
+    "date": "2025-09-03",
+    "check_in": "09:02:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "175": {
+    "id": "175",
+    "employee_id": "10",
+    "date": "2025-09-07",
+    "check_in": "08:16:00",
+    "check_out": "18:29:00",
+    "status": "present"
+  },
+  "176": {
+    "id": "176",
+    "employee_id": "10",
+    "date": "2025-09-12",
+    "check_in": "08:49:00",
+    "check_out": "18:38:00",
+    "status": "present"
+  },
+  "177": {
+    "id": "177",
+    "employee_id": "10",
+    "date": "2025-09-11",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "178": {
+    "id": "178",
+    "employee_id": "10",
+    "date": "2025-08-29",
+    "check_in": "09:42:00",
+    "check_out": "18:20:00",
+    "status": "present"
+  },
+  "179": {
+    "id": "179",
+    "employee_id": "10",
+    "date": "2025-09-24",
+    "check_in": "09:01:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "180": {
+    "id": "180",
+    "employee_id": "10",
+    "date": "2025-09-24",
+    "check_in": "08:12:00",
+    "check_out": "18:12:00",
+    "status": "present"
+  },
+  "181": {
+    "id": "181",
+    "employee_id": "11",
+    "date": "2025-09-02",
+    "check_in": "08:02:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "182": {
+    "id": "182",
+    "employee_id": "11",
+    "date": "2025-09-03",
+    "check_in": "09:26:00",
+    "check_out": "17:48:00",
+    "status": "present"
+  },
+  "183": {
+    "id": "183",
+    "employee_id": "11",
+    "date": "2025-08-31",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "184": {
+    "id": "184",
+    "employee_id": "11",
+    "date": "2025-09-08",
+    "check_in": "09:30:00",
+    "check_out": "17:11:00",
+    "status": "present"
+  },
+  "185": {
+    "id": "185",
+    "employee_id": "11",
+    "date": "2025-09-03",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "186": {
+    "id": "186",
+    "employee_id": "11",
+    "date": "2025-09-12",
+    "check_in": "08:24:00",
+    "check_out": "17:15:00",
+    "status": "present"
+  },
+  "187": {
+    "id": "187",
+    "employee_id": "11",
+    "date": "2025-09-24",
+    "check_in": "09:26:00",
+    "check_out": "13:13:00",
+    "status": "half-day"
+  },
+  "188": {
+    "id": "188",
+    "employee_id": "11",
+    "date": "2025-09-18",
+    "check_in": "08:33:00",
+    "check_out": "17:53:00",
+    "status": "present"
+  },
+  "189": {
+    "id": "189",
+    "employee_id": "11",
+    "date": "2025-08-31",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "190": {
+    "id": "190",
+    "employee_id": "11",
+    "date": "2025-09-19",
+    "check_in": "08:31:00",
+    "check_out": "18:35:00",
+    "status": "present"
+  },
+  "191": {
+    "id": "191",
+    "employee_id": "11",
+    "date": "2025-08-27",
+    "check_in": "09:01:00",
+    "check_out": "17:30:00",
+    "status": "present"
+  },
+  "192": {
+    "id": "192",
+    "employee_id": "11",
+    "date": "2025-09-02",
+    "check_in": "09:31:00",
+    "check_out": "17:27:00",
+    "status": "present"
+  },
+  "193": {
+    "id": "193",
+    "employee_id": "11",
+    "date": "2025-09-21",
+    "check_in": "08:49:00",
+    "check_out": "17:00:00",
+    "status": "present"
+  },
+  "194": {
+    "id": "194",
+    "employee_id": "11",
+    "date": "2025-08-31",
+    "check_in": "09:39:00",
+    "check_out": "17:40:00",
+    "status": "present"
+  },
+  "195": {
+    "id": "195",
+    "employee_id": "11",
+    "date": "2025-09-23",
+    "check_in": "08:59:00",
+    "check_out": "17:27:00",
+    "status": "present"
+  },
+  "196": {
+    "id": "196",
+    "employee_id": "11",
+    "date": "2025-09-02",
+    "check_in": "08:38:00",
+    "check_out": "17:56:00",
+    "status": "present"
+  },
+  "197": {
+    "id": "197",
+    "employee_id": "11",
+    "date": "2025-09-09",
+    "check_in": "09:57:00",
+    "check_out": "17:19:00",
+    "status": "present"
+  },
+  "198": {
+    "id": "198",
+    "employee_id": "11",
+    "date": "2025-08-30",
+    "check_in": "08:53:00",
+    "check_out": "13:39:00",
+    "status": "half-day"
+  },
+  "199": {
+    "id": "199",
+    "employee_id": "11",
+    "date": "2025-09-15",
+    "check_in": "08:33:00",
+    "check_out": "17:39:00",
+    "status": "present"
+  },
+  "200": {
+    "id": "200",
+    "employee_id": "11",
+    "date": "2025-08-30",
+    "check_in": "08:27:00",
+    "check_out": "18:55:00",
+    "status": "present"
+  },
+  "201": {
+    "id": "201",
+    "employee_id": "11",
+    "date": "2025-09-02",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "202": {
+    "id": "202",
+    "employee_id": "11",
+    "date": "2025-09-09",
+    "check_in": "09:44:00",
+    "check_out": "18:58:00",
+    "status": "present"
+  },
+  "203": {
+    "id": "203",
+    "employee_id": "11",
+    "date": "2025-09-16",
+    "check_in": "09:02:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "204": {
+    "id": "204",
+    "employee_id": "11",
+    "date": "2025-09-25",
+    "check_in": "09:43:00",
+    "check_out": "17:56:00",
+    "status": "present"
+  },
+  "205": {
+    "id": "205",
+    "employee_id": "11",
+    "date": "2025-09-07",
+    "check_in": "08:15:00",
+    "check_out": "18:42:00",
+    "status": "present"
+  },
+  "206": {
+    "id": "206",
+    "employee_id": "11",
+    "date": "2025-09-14",
+    "check_in": "08:53:00",
+    "check_out": "18:27:00",
+    "status": "present"
+  },
+  "207": {
+    "id": "207",
+    "employee_id": "11",
+    "date": "2025-09-22",
+    "check_in": "09:48:00",
+    "check_out": "18:51:00",
+    "status": "present"
+  },
+  "208": {
+    "id": "208",
+    "employee_id": "11",
+    "date": "2025-09-24",
+    "check_in": "08:54:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "209": {
+    "id": "209",
+    "employee_id": "11",
+    "date": "2025-09-06",
+    "check_in": "08:32:00",
+    "check_out": "18:53:00",
+    "status": "present"
+  },
+  "210": {
+    "id": "210",
+    "employee_id": "11",
+    "date": "2025-09-11",
+    "check_in": "08:49:00",
+    "check_out": "17:31:00",
+    "status": "present"
+  },
+  "211": {
+    "id": "211",
+    "employee_id": "12",
+    "date": "2025-09-04",
+    "check_in": "09:17:00",
+    "check_out": "18:15:00",
+    "status": "present"
+  },
+  "212": {
+    "id": "212",
+    "employee_id": "12",
+    "date": "2025-08-27",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "213": {
+    "id": "213",
+    "employee_id": "12",
+    "date": "2025-09-24",
+    "check_in": "09:06:00",
+    "check_out": "17:38:00",
+    "status": "present"
+  },
+  "214": {
+    "id": "214",
+    "employee_id": "12",
+    "date": "2025-09-15",
+    "check_in": "09:19:00",
+    "check_out": "17:59:00",
+    "status": "present"
+  },
+  "215": {
+    "id": "215",
+    "employee_id": "12",
+    "date": "2025-09-06",
+    "check_in": "09:37:00",
+    "check_out": "18:15:00",
+    "status": "present"
+  },
+  "216": {
+    "id": "216",
+    "employee_id": "12",
+    "date": "2025-09-25",
+    "check_in": "08:22:00",
+    "check_out": "17:39:00",
+    "status": "present"
+  },
+  "217": {
+    "id": "217",
+    "employee_id": "12",
+    "date": "2025-08-29",
+    "check_in": "08:14:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "218": {
+    "id": "218",
+    "employee_id": "12",
+    "date": "2025-09-11",
+    "check_in": "08:03:00",
+    "check_out": "18:29:00",
+    "status": "present"
+  },
+  "219": {
+    "id": "219",
+    "employee_id": "12",
+    "date": "2025-08-30",
+    "check_in": "08:15:00",
+    "check_out": "17:00:00",
+    "status": "present"
+  },
+  "220": {
+    "id": "220",
+    "employee_id": "12",
+    "date": "2025-09-03",
+    "check_in": "09:19:00",
+    "check_out": "17:20:00",
+    "status": "present"
+  },
+  "221": {
+    "id": "221",
+    "employee_id": "12",
+    "date": "2025-09-08",
+    "check_in": "09:31:00",
+    "check_out": "18:00:00",
+    "status": "present"
+  },
+  "222": {
+    "id": "222",
+    "employee_id": "12",
+    "date": "2025-09-12",
+    "check_in": "08:35:00",
+    "check_out": "17:19:00",
+    "status": "present"
+  },
+  "223": {
+    "id": "223",
+    "employee_id": "12",
+    "date": "2025-09-14",
+    "check_in": "08:09:00",
+    "check_out": "18:53:00",
+    "status": "present"
+  },
+  "224": {
+    "id": "224",
+    "employee_id": "12",
+    "date": "2025-09-12",
+    "check_in": "08:18:00",
+    "check_out": "17:27:00",
+    "status": "present"
+  },
+  "225": {
+    "id": "225",
+    "employee_id": "12",
+    "date": "2025-09-11",
+    "check_in": "08:35:00",
+    "check_out": "17:01:00",
+    "status": "present"
+  },
+  "226": {
+    "id": "226",
+    "employee_id": "12",
+    "date": "2025-09-22",
+    "check_in": "09:45:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "227": {
+    "id": "227",
+    "employee_id": "12",
+    "date": "2025-09-17",
+    "check_in": "08:31:00",
+    "check_out": "18:50:00",
+    "status": "present"
+  },
+  "228": {
+    "id": "228",
+    "employee_id": "12",
+    "date": "2025-08-27",
+    "check_in": "09:35:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "229": {
+    "id": "229",
+    "employee_id": "12",
+    "date": "2025-09-22",
+    "check_in": "08:50:00",
+    "check_out": "17:47:00",
+    "status": "present"
+  },
+  "230": {
+    "id": "230",
+    "employee_id": "12",
+    "date": "2025-09-11",
+    "check_in": "09:45:00",
+    "check_out": "13:01:00",
+    "status": "half-day"
+  },
+  "231": {
+    "id": "231",
+    "employee_id": "12",
+    "date": "2025-08-29",
+    "check_in": "09:31:00",
+    "check_out": "18:01:00",
+    "status": "present"
+  },
+  "232": {
+    "id": "232",
+    "employee_id": "12",
+    "date": "2025-09-03",
+    "check_in": "09:22:00",
+    "check_out": "17:25:00",
+    "status": "present"
+  },
+  "233": {
+    "id": "233",
+    "employee_id": "12",
+    "date": "2025-09-17",
+    "check_in": "08:25:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "234": {
+    "id": "234",
+    "employee_id": "12",
+    "date": "2025-09-08",
+    "check_in": "08:45:00",
+    "check_out": "17:34:00",
+    "status": "present"
+  },
+  "235": {
+    "id": "235",
+    "employee_id": "12",
+    "date": "2025-09-11",
+    "check_in": "08:30:00",
+    "check_out": "18:19:00",
+    "status": "present"
+  },
+  "236": {
+    "id": "236",
+    "employee_id": "12",
+    "date": "2025-09-08",
+    "check_in": "08:15:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "237": {
+    "id": "237",
+    "employee_id": "12",
+    "date": "2025-09-07",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "238": {
+    "id": "238",
+    "employee_id": "12",
+    "date": "2025-09-20",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "239": {
+    "id": "239",
+    "employee_id": "12",
+    "date": "2025-09-07",
+    "check_in": "09:03:00",
+    "check_out": "17:34:00",
+    "status": "present"
+  },
+  "240": {
+    "id": "240",
+    "employee_id": "12",
+    "date": "2025-09-22",
+    "check_in": "09:22:00",
+    "check_out": "17:13:00",
+    "status": "present"
+  },
+  "241": {
+    "id": "241",
+    "employee_id": "14",
+    "date": "2025-09-24",
+    "check_in": "09:43:00",
+    "check_out": "18:55:00",
+    "status": "present"
+  },
+  "242": {
+    "id": "242",
+    "employee_id": "14",
+    "date": "2025-09-07",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "243": {
+    "id": "243",
+    "employee_id": "14",
+    "date": "2025-09-16",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "244": {
+    "id": "244",
+    "employee_id": "14",
+    "date": "2025-09-20",
+    "check_in": "08:55:00",
+    "check_out": "17:16:00",
+    "status": "present"
+  },
+  "245": {
+    "id": "245",
+    "employee_id": "14",
+    "date": "2025-09-24",
+    "check_in": "08:07:00",
+    "check_out": "17:24:00",
+    "status": "present"
+  },
+  "246": {
+    "id": "246",
+    "employee_id": "14",
+    "date": "2025-09-14",
+    "check_in": "09:08:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "247": {
+    "id": "247",
+    "employee_id": "14",
+    "date": "2025-09-03",
+    "check_in": "08:43:00",
+    "check_out": "17:54:00",
+    "status": "present"
+  },
+  "248": {
+    "id": "248",
+    "employee_id": "14",
+    "date": "2025-09-25",
+    "check_in": "08:16:00",
+    "check_out": "18:50:00",
+    "status": "present"
+  },
+  "249": {
+    "id": "249",
+    "employee_id": "14",
+    "date": "2025-09-07",
+    "check_in": "09:48:00",
+    "check_out": "18:47:00",
+    "status": "present"
+  },
+  "250": {
+    "id": "250",
+    "employee_id": "14",
+    "date": "2025-08-28",
+    "check_in": "09:26:00",
+    "check_out": "18:14:00",
+    "status": "present"
+  },
+  "251": {
+    "id": "251",
+    "employee_id": "14",
+    "date": "2025-09-11",
+    "check_in": "09:18:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "252": {
+    "id": "252",
+    "employee_id": "14",
+    "date": "2025-09-22",
+    "check_in": "08:51:00",
+    "check_out": "13:48:00",
+    "status": "half-day"
+  },
+  "253": {
+    "id": "253",
+    "employee_id": "14",
+    "date": "2025-09-16",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "254": {
+    "id": "254",
+    "employee_id": "14",
+    "date": "2025-09-02",
+    "check_in": "08:39:00",
+    "check_out": "18:28:00",
+    "status": "present"
+  },
+  "255": {
+    "id": "255",
+    "employee_id": "14",
+    "date": "2025-09-21",
+    "check_in": "09:37:00",
+    "check_out": "18:04:00",
+    "status": "present"
+  },
+  "256": {
+    "id": "256",
+    "employee_id": "14",
+    "date": "2025-09-01",
+    "check_in": "09:38:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "257": {
+    "id": "257",
+    "employee_id": "14",
+    "date": "2025-09-24",
+    "check_in": "08:23:00",
+    "check_out": "18:55:00",
+    "status": "present"
+  },
+  "258": {
+    "id": "258",
+    "employee_id": "14",
+    "date": "2025-09-11",
+    "check_in": "08:15:00",
+    "check_out": "18:28:00",
+    "status": "present"
+  },
+  "259": {
+    "id": "259",
+    "employee_id": "14",
+    "date": "2025-09-02",
+    "check_in": "09:48:00",
+    "check_out": "17:09:00",
+    "status": "present"
+  },
+  "260": {
+    "id": "260",
+    "employee_id": "14",
+    "date": "2025-09-01",
+    "check_in": "08:59:00",
+    "check_out": "18:49:00",
+    "status": "present"
+  },
+  "261": {
+    "id": "261",
+    "employee_id": "14",
+    "date": "2025-09-22",
+    "check_in": "09:27:00",
+    "check_out": "18:01:00",
+    "status": "present"
+  },
+  "262": {
+    "id": "262",
+    "employee_id": "14",
+    "date": "2025-09-05",
+    "check_in": "09:05:00",
+    "check_out": "18:52:00",
+    "status": "present"
+  },
+  "263": {
+    "id": "263",
+    "employee_id": "14",
+    "date": "2025-09-12",
+    "check_in": "08:24:00",
+    "check_out": "18:49:00",
+    "status": "present"
+  },
+  "264": {
+    "id": "264",
+    "employee_id": "14",
+    "date": "2025-09-16",
+    "check_in": "09:12:00",
+    "check_out": "17:58:00",
+    "status": "present"
+  },
+  "265": {
+    "id": "265",
+    "employee_id": "14",
+    "date": "2025-09-12",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "266": {
+    "id": "266",
+    "employee_id": "14",
+    "date": "2025-09-15",
+    "check_in": "09:38:00",
+    "check_out": "18:08:00",
+    "status": "present"
+  },
+  "267": {
+    "id": "267",
+    "employee_id": "14",
+    "date": "2025-09-23",
+    "check_in": "09:33:00",
+    "check_out": "13:40:00",
+    "status": "half-day"
+  },
+  "268": {
+    "id": "268",
+    "employee_id": "14",
+    "date": "2025-09-14",
+    "check_in": "08:52:00",
+    "check_out": "17:46:00",
+    "status": "present"
+  },
+  "269": {
+    "id": "269",
+    "employee_id": "14",
+    "date": "2025-09-17",
+    "check_in": "09:03:00",
+    "check_out": "18:29:00",
+    "status": "present"
+  },
+  "270": {
+    "id": "270",
+    "employee_id": "14",
+    "date": "2025-09-13",
+    "check_in": "09:48:00",
+    "check_out": "17:53:00",
+    "status": "present"
+  },
+  "271": {
+    "id": "271",
+    "employee_id": "15",
+    "date": "2025-09-05",
+    "check_in": "08:16:00",
+    "check_out": "17:13:00",
+    "status": "present"
+  },
+  "272": {
+    "id": "272",
+    "employee_id": "15",
+    "date": "2025-09-20",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "273": {
+    "id": "273",
+    "employee_id": "15",
+    "date": "2025-09-02",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "274": {
+    "id": "274",
+    "employee_id": "15",
+    "date": "2025-08-31",
+    "check_in": "09:36:00",
+    "check_out": "17:03:00",
+    "status": "present"
+  },
+  "275": {
+    "id": "275",
+    "employee_id": "15",
+    "date": "2025-09-20",
+    "check_in": "08:02:00",
+    "check_out": "17:23:00",
+    "status": "present"
+  },
+  "276": {
+    "id": "276",
+    "employee_id": "15",
+    "date": "2025-09-18",
+    "check_in": "08:55:00",
+    "check_out": "18:36:00",
+    "status": "present"
+  },
+  "277": {
+    "id": "277",
+    "employee_id": "15",
+    "date": "2025-09-15",
+    "check_in": "09:27:00",
+    "check_out": "18:09:00",
+    "status": "present"
+  },
+  "278": {
+    "id": "278",
+    "employee_id": "15",
+    "date": "2025-09-17",
+    "check_in": "09:40:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "279": {
+    "id": "279",
+    "employee_id": "15",
+    "date": "2025-09-10",
+    "check_in": "08:29:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "280": {
+    "id": "280",
+    "employee_id": "15",
+    "date": "2025-09-01",
+    "check_in": "09:26:00",
+    "check_out": "17:03:00",
+    "status": "present"
+  },
+  "281": {
+    "id": "281",
+    "employee_id": "15",
+    "date": "2025-09-03",
+    "check_in": "09:59:00",
+    "check_out": "18:13:00",
+    "status": "present"
+  },
+  "282": {
+    "id": "282",
+    "employee_id": "15",
+    "date": "2025-09-11",
+    "check_in": "09:47:00",
+    "check_out": "17:54:00",
+    "status": "present"
+  },
+  "283": {
+    "id": "283",
+    "employee_id": "15",
+    "date": "2025-09-03",
+    "check_in": "08:19:00",
+    "check_out": "18:04:00",
+    "status": "present"
+  },
+  "284": {
+    "id": "284",
+    "employee_id": "15",
+    "date": "2025-09-01",
+    "check_in": "09:36:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "285": {
+    "id": "285",
+    "employee_id": "15",
+    "date": "2025-09-08",
+    "check_in": "08:18:00",
+    "check_out": "17:47:00",
+    "status": "present"
+  },
+  "286": {
+    "id": "286",
+    "employee_id": "15",
+    "date": "2025-09-15",
+    "check_in": "09:00:00",
+    "check_out": "17:07:00",
+    "status": "present"
+  },
+  "287": {
+    "id": "287",
+    "employee_id": "15",
+    "date": "2025-09-15",
+    "check_in": "08:49:00",
+    "check_out": "18:56:00",
+    "status": "present"
+  },
+  "288": {
+    "id": "288",
+    "employee_id": "15",
+    "date": "2025-09-08",
+    "check_in": "09:53:00",
+    "check_out": "18:16:00",
+    "status": "present"
+  },
+  "289": {
+    "id": "289",
+    "employee_id": "15",
+    "date": "2025-09-20",
+    "check_in": "09:18:00",
+    "check_out": "17:48:00",
+    "status": "present"
+  },
+  "290": {
+    "id": "290",
+    "employee_id": "15",
+    "date": "2025-09-23",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "291": {
+    "id": "291",
+    "employee_id": "15",
+    "date": "2025-09-18",
+    "check_in": "08:49:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "292": {
+    "id": "292",
+    "employee_id": "15",
+    "date": "2025-09-12",
+    "check_in": "08:18:00",
+    "check_out": "17:19:00",
+    "status": "present"
+  },
+  "293": {
+    "id": "293",
+    "employee_id": "15",
+    "date": "2025-09-14",
+    "check_in": "08:14:00",
+    "check_out": "18:17:00",
+    "status": "present"
+  },
+  "294": {
+    "id": "294",
+    "employee_id": "15",
+    "date": "2025-09-24",
+    "check_in": "09:08:00",
+    "check_out": "17:42:00",
+    "status": "present"
+  },
+  "295": {
+    "id": "295",
+    "employee_id": "15",
+    "date": "2025-09-15",
+    "check_in": "09:57:00",
+    "check_out": "17:48:00",
+    "status": "present"
+  },
+  "296": {
+    "id": "296",
+    "employee_id": "15",
+    "date": "2025-09-01",
+    "check_in": "08:15:00",
+    "check_out": "17:14:00",
+    "status": "present"
+  },
+  "297": {
+    "id": "297",
+    "employee_id": "15",
+    "date": "2025-08-27",
+    "check_in": "08:27:00",
+    "check_out": "18:39:00",
+    "status": "present"
+  },
+  "298": {
+    "id": "298",
+    "employee_id": "15",
+    "date": "2025-09-13",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "299": {
+    "id": "299",
+    "employee_id": "15",
+    "date": "2025-09-24",
+    "check_in": "08:51:00",
+    "check_out": "13:04:00",
+    "status": "half-day"
+  },
+  "300": {
+    "id": "300",
+    "employee_id": "15",
+    "date": "2025-09-13",
+    "check_in": "08:09:00",
+    "check_out": "18:48:00",
+    "status": "present"
+  },
+  "301": {
+    "id": "301",
+    "employee_id": "16",
+    "date": "2025-09-24",
+    "check_in": "08:43:00",
+    "check_out": "17:22:00",
+    "status": "present"
+  },
+  "302": {
+    "id": "302",
+    "employee_id": "16",
+    "date": "2025-09-06",
+    "check_in": "09:57:00",
+    "check_out": "18:48:00",
+    "status": "present"
+  },
+  "303": {
+    "id": "303",
+    "employee_id": "16",
+    "date": "2025-08-31",
+    "check_in": "08:26:00",
+    "check_out": "18:18:00",
+    "status": "present"
+  },
+  "304": {
+    "id": "304",
+    "employee_id": "16",
+    "date": "2025-09-24",
+    "check_in": "08:21:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "305": {
+    "id": "305",
+    "employee_id": "16",
+    "date": "2025-09-09",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "306": {
+    "id": "306",
+    "employee_id": "16",
+    "date": "2025-09-12",
+    "check_in": "09:36:00",
+    "check_out": "17:38:00",
+    "status": "present"
+  },
+  "307": {
+    "id": "307",
+    "employee_id": "16",
+    "date": "2025-08-27",
+    "check_in": "08:16:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "308": {
+    "id": "308",
+    "employee_id": "16",
+    "date": "2025-09-22",
+    "check_in": "09:14:00",
+    "check_out": "17:36:00",
+    "status": "present"
+  },
+  "309": {
+    "id": "309",
+    "employee_id": "16",
+    "date": "2025-09-25",
+    "check_in": "08:01:00",
+    "check_out": "17:24:00",
+    "status": "present"
+  },
+  "310": {
+    "id": "310",
+    "employee_id": "16",
+    "date": "2025-09-11",
+    "check_in": "08:26:00",
+    "check_out": "17:52:00",
+    "status": "present"
+  },
+  "311": {
+    "id": "311",
+    "employee_id": "16",
+    "date": "2025-09-24",
+    "check_in": "09:41:00",
+    "check_out": "18:42:00",
+    "status": "present"
+  },
+  "312": {
+    "id": "312",
+    "employee_id": "16",
+    "date": "2025-08-29",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "313": {
+    "id": "313",
+    "employee_id": "16",
+    "date": "2025-08-27",
+    "check_in": "09:26:00",
+    "check_out": "17:11:00",
+    "status": "present"
+  },
+  "314": {
+    "id": "314",
+    "employee_id": "16",
+    "date": "2025-09-15",
+    "check_in": "09:21:00",
+    "check_out": "17:04:00",
+    "status": "present"
+  },
+  "315": {
+    "id": "315",
+    "employee_id": "16",
+    "date": "2025-09-13",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "316": {
+    "id": "316",
+    "employee_id": "16",
+    "date": "2025-09-25",
+    "check_in": "09:01:00",
+    "check_out": "17:36:00",
+    "status": "present"
+  },
+  "317": {
+    "id": "317",
+    "employee_id": "16",
+    "date": "2025-08-31",
+    "check_in": "09:39:00",
+    "check_out": "17:53:00",
+    "status": "present"
+  },
+  "318": {
+    "id": "318",
+    "employee_id": "16",
+    "date": "2025-09-18",
+    "check_in": "09:21:00",
+    "check_out": "18:17:00",
+    "status": "present"
+  },
+  "319": {
+    "id": "319",
+    "employee_id": "16",
+    "date": "2025-09-10",
+    "check_in": "09:34:00",
+    "check_out": "18:01:00",
+    "status": "present"
+  },
+  "320": {
+    "id": "320",
+    "employee_id": "16",
+    "date": "2025-08-28",
+    "check_in": "08:22:00",
+    "check_out": "17:11:00",
+    "status": "present"
+  },
+  "321": {
+    "id": "321",
+    "employee_id": "16",
+    "date": "2025-09-03",
+    "check_in": "09:22:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "322": {
+    "id": "322",
+    "employee_id": "16",
+    "date": "2025-09-11",
+    "check_in": "09:09:00",
+    "check_out": "17:53:00",
+    "status": "present"
+  },
+  "323": {
+    "id": "323",
+    "employee_id": "16",
+    "date": "2025-09-21",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "324": {
+    "id": "324",
+    "employee_id": "16",
+    "date": "2025-09-14",
+    "check_in": "09:28:00",
+    "check_out": "17:25:00",
+    "status": "present"
+  },
+  "325": {
+    "id": "325",
+    "employee_id": "16",
+    "date": "2025-09-22",
+    "check_in": "08:34:00",
+    "check_out": "18:57:00",
+    "status": "present"
+  },
+  "326": {
+    "id": "326",
+    "employee_id": "16",
+    "date": "2025-08-30",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "327": {
+    "id": "327",
+    "employee_id": "16",
+    "date": "2025-09-22",
+    "check_in": "09:58:00",
+    "check_out": "17:53:00",
+    "status": "present"
+  },
+  "328": {
+    "id": "328",
+    "employee_id": "16",
+    "date": "2025-09-15",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "329": {
+    "id": "329",
+    "employee_id": "16",
+    "date": "2025-08-28",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "330": {
+    "id": "330",
+    "employee_id": "16",
+    "date": "2025-09-19",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "331": {
+    "id": "331",
+    "employee_id": "20",
+    "date": "2025-08-27",
+    "check_in": "08:24:00",
+    "check_out": "17:05:00",
+    "status": "present"
+  },
+  "332": {
+    "id": "332",
+    "employee_id": "20",
+    "date": "2025-09-06",
+    "check_in": "09:39:00",
+    "check_out": "18:44:00",
+    "status": "present"
+  },
+  "333": {
+    "id": "333",
+    "employee_id": "20",
+    "date": "2025-08-30",
+    "check_in": "09:55:00",
+    "check_out": "18:55:00",
+    "status": "present"
+  },
+  "334": {
+    "id": "334",
+    "employee_id": "20",
+    "date": "2025-09-10",
+    "check_in": "09:18:00",
+    "check_out": "17:46:00",
+    "status": "present"
+  },
+  "335": {
+    "id": "335",
+    "employee_id": "20",
+    "date": "2025-09-19",
+    "check_in": "09:50:00",
+    "check_out": "18:27:00",
+    "status": "present"
+  },
+  "336": {
+    "id": "336",
+    "employee_id": "20",
+    "date": "2025-09-20",
+    "check_in": "09:27:00",
+    "check_out": "17:27:00",
+    "status": "present"
+  },
+  "337": {
+    "id": "337",
+    "employee_id": "20",
+    "date": "2025-09-01",
+    "check_in": "09:30:00",
+    "check_out": "18:04:00",
+    "status": "present"
+  },
+  "338": {
+    "id": "338",
+    "employee_id": "20",
+    "date": "2025-09-16",
+    "check_in": "09:56:00",
+    "check_out": "18:45:00",
+    "status": "present"
+  },
+  "339": {
+    "id": "339",
+    "employee_id": "20",
+    "date": "2025-09-01",
+    "check_in": "08:05:00",
+    "check_out": "13:31:00",
+    "status": "half-day"
+  },
+  "340": {
+    "id": "340",
+    "employee_id": "20",
+    "date": "2025-08-28",
+    "check_in": "09:28:00",
+    "check_out": "18:23:00",
+    "status": "present"
+  },
+  "341": {
+    "id": "341",
+    "employee_id": "20",
+    "date": "2025-09-02",
+    "check_in": "09:50:00",
+    "check_out": "17:45:00",
+    "status": "present"
+  },
+  "342": {
+    "id": "342",
+    "employee_id": "20",
+    "date": "2025-08-27",
+    "check_in": "08:22:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "343": {
+    "id": "343",
+    "employee_id": "20",
+    "date": "2025-09-08",
+    "check_in": "09:45:00",
+    "check_out": "17:56:00",
+    "status": "present"
+  },
+  "344": {
+    "id": "344",
+    "employee_id": "20",
+    "date": "2025-09-19",
+    "check_in": "08:29:00",
+    "check_out": "17:39:00",
+    "status": "present"
+  },
+  "345": {
+    "id": "345",
+    "employee_id": "20",
+    "date": "2025-09-04",
+    "check_in": "09:37:00",
+    "check_out": "17:26:00",
+    "status": "present"
+  },
+  "346": {
+    "id": "346",
+    "employee_id": "20",
+    "date": "2025-09-25",
+    "check_in": "09:55:00",
+    "check_out": "17:08:00",
+    "status": "present"
+  },
+  "347": {
+    "id": "347",
+    "employee_id": "20",
+    "date": "2025-09-09",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "348": {
+    "id": "348",
+    "employee_id": "20",
+    "date": "2025-08-29",
+    "check_in": "08:28:00",
+    "check_out": "18:54:00",
+    "status": "present"
+  },
+  "349": {
+    "id": "349",
+    "employee_id": "20",
+    "date": "2025-09-09",
+    "check_in": "09:25:00",
+    "check_out": "17:26:00",
+    "status": "present"
+  },
+  "350": {
+    "id": "350",
+    "employee_id": "20",
+    "date": "2025-08-27",
+    "check_in": "08:12:00",
+    "check_out": "18:29:00",
+    "status": "present"
+  },
+  "351": {
+    "id": "351",
+    "employee_id": "20",
+    "date": "2025-09-13",
+    "check_in": "09:15:00",
+    "check_out": "17:30:00",
+    "status": "present"
+  },
+  "352": {
+    "id": "352",
+    "employee_id": "20",
+    "date": "2025-09-08",
+    "check_in": "08:47:00",
+    "check_out": "18:59:00",
+    "status": "present"
+  },
+  "353": {
+    "id": "353",
+    "employee_id": "20",
+    "date": "2025-09-24",
+    "check_in": "09:19:00",
+    "check_out": "18:56:00",
+    "status": "present"
+  },
+  "354": {
+    "id": "354",
+    "employee_id": "20",
+    "date": "2025-09-01",
+    "check_in": "08:14:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "355": {
+    "id": "355",
+    "employee_id": "20",
+    "date": "2025-09-08",
+    "check_in": "08:01:00",
+    "check_out": "17:14:00",
+    "status": "present"
+  },
+  "356": {
+    "id": "356",
+    "employee_id": "20",
+    "date": "2025-08-29",
+    "check_in": "09:12:00",
+    "check_out": "18:42:00",
+    "status": "present"
+  },
+  "357": {
+    "id": "357",
+    "employee_id": "20",
+    "date": "2025-09-09",
+    "check_in": "08:08:00",
+    "check_out": "17:59:00",
+    "status": "present"
+  },
+  "358": {
+    "id": "358",
+    "employee_id": "20",
+    "date": "2025-08-31",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "359": {
+    "id": "359",
+    "employee_id": "20",
+    "date": "2025-09-03",
+    "check_in": "09:53:00",
+    "check_out": "17:58:00",
+    "status": "present"
+  },
+  "360": {
+    "id": "360",
+    "employee_id": "20",
+    "date": "2025-09-02",
+    "check_in": "08:55:00",
+    "check_out": "18:12:00",
+    "status": "present"
+  },
+  "361": {
+    "id": "361",
+    "employee_id": "21",
+    "date": "2025-09-03",
+    "check_in": "09:48:00",
+    "check_out": "17:28:00",
+    "status": "present"
+  },
+  "362": {
+    "id": "362",
+    "employee_id": "21",
+    "date": "2025-09-01",
+    "check_in": "09:45:00",
+    "check_out": "17:17:00",
+    "status": "present"
+  },
+  "363": {
+    "id": "363",
+    "employee_id": "21",
+    "date": "2025-09-13",
+    "check_in": "08:12:00",
+    "check_out": "18:22:00",
+    "status": "present"
+  },
+  "364": {
+    "id": "364",
+    "employee_id": "21",
+    "date": "2025-09-16",
+    "check_in": "09:51:00",
+    "check_out": "17:57:00",
+    "status": "present"
+  },
+  "365": {
+    "id": "365",
+    "employee_id": "21",
+    "date": "2025-09-19",
+    "check_in": "08:38:00",
+    "check_out": "18:17:00",
+    "status": "present"
+  },
+  "366": {
+    "id": "366",
+    "employee_id": "21",
+    "date": "2025-08-27",
+    "check_in": "08:21:00",
+    "check_out": "17:39:00",
+    "status": "present"
+  },
+  "367": {
+    "id": "367",
+    "employee_id": "21",
+    "date": "2025-08-28",
+    "check_in": "08:05:00",
+    "check_out": "17:41:00",
+    "status": "present"
+  },
+  "368": {
+    "id": "368",
+    "employee_id": "21",
+    "date": "2025-09-03",
+    "check_in": "09:10:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "369": {
+    "id": "369",
+    "employee_id": "21",
+    "date": "2025-08-28",
+    "check_in": "09:36:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "370": {
+    "id": "370",
+    "employee_id": "21",
+    "date": "2025-09-07",
+    "check_in": "09:26:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "371": {
+    "id": "371",
+    "employee_id": "21",
+    "date": "2025-09-17",
+    "check_in": "09:49:00",
+    "check_out": "17:52:00",
+    "status": "present"
+  },
+  "372": {
+    "id": "372",
+    "employee_id": "21",
+    "date": "2025-08-27",
+    "check_in": "08:30:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "373": {
+    "id": "373",
+    "employee_id": "21",
+    "date": "2025-09-13",
+    "check_in": "08:56:00",
+    "check_out": "17:08:00",
+    "status": "present"
+  },
+  "374": {
+    "id": "374",
+    "employee_id": "21",
+    "date": "2025-08-30",
+    "check_in": "09:10:00",
+    "check_out": "18:43:00",
+    "status": "present"
+  },
+  "375": {
+    "id": "375",
+    "employee_id": "21",
+    "date": "2025-09-04",
+    "check_in": "09:01:00",
+    "check_out": "18:19:00",
+    "status": "present"
+  },
+  "376": {
+    "id": "376",
+    "employee_id": "21",
+    "date": "2025-09-15",
+    "check_in": "09:28:00",
+    "check_out": "17:05:00",
+    "status": "present"
+  },
+  "377": {
+    "id": "377",
+    "employee_id": "21",
+    "date": "2025-09-17",
+    "check_in": "08:18:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "378": {
+    "id": "378",
+    "employee_id": "21",
+    "date": "2025-08-30",
+    "check_in": "08:33:00",
+    "check_out": "18:11:00",
+    "status": "present"
+  },
+  "379": {
+    "id": "379",
+    "employee_id": "21",
+    "date": "2025-09-05",
+    "check_in": "08:12:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "380": {
+    "id": "380",
+    "employee_id": "21",
+    "date": "2025-08-30",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "381": {
+    "id": "381",
+    "employee_id": "21",
+    "date": "2025-09-24",
+    "check_in": "09:05:00",
+    "check_out": "18:57:00",
+    "status": "present"
+  },
+  "382": {
+    "id": "382",
+    "employee_id": "21",
+    "date": "2025-09-07",
+    "check_in": "08:45:00",
+    "check_out": "18:48:00",
+    "status": "present"
+  },
+  "383": {
+    "id": "383",
+    "employee_id": "21",
+    "date": "2025-09-21",
+    "check_in": "09:17:00",
+    "check_out": "17:34:00",
+    "status": "present"
+  },
+  "384": {
+    "id": "384",
+    "employee_id": "21",
+    "date": "2025-09-02",
+    "check_in": "08:18:00",
+    "check_out": "17:12:00",
+    "status": "present"
+  },
+  "385": {
+    "id": "385",
+    "employee_id": "21",
+    "date": "2025-08-27",
+    "check_in": "09:14:00",
+    "check_out": "18:51:00",
+    "status": "present"
+  },
+  "386": {
+    "id": "386",
+    "employee_id": "21",
+    "date": "2025-08-29",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "387": {
+    "id": "387",
+    "employee_id": "21",
+    "date": "2025-09-20",
+    "check_in": "08:37:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "388": {
+    "id": "388",
+    "employee_id": "21",
+    "date": "2025-09-22",
+    "check_in": "09:25:00",
+    "check_out": "18:08:00",
+    "status": "present"
+  },
+  "389": {
+    "id": "389",
+    "employee_id": "21",
+    "date": "2025-09-23",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "390": {
+    "id": "390",
+    "employee_id": "21",
+    "date": "2025-09-13",
+    "check_in": "08:27:00",
+    "check_out": "18:20:00",
+    "status": "present"
+  },
+  "391": {
+    "id": "391",
+    "employee_id": "22",
+    "date": "2025-09-08",
+    "check_in": "09:29:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "392": {
+    "id": "392",
+    "employee_id": "22",
+    "date": "2025-09-09",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "393": {
+    "id": "393",
+    "employee_id": "22",
+    "date": "2025-09-03",
+    "check_in": "08:22:00",
+    "check_out": "18:58:00",
+    "status": "present"
+  },
+  "394": {
+    "id": "394",
+    "employee_id": "22",
+    "date": "2025-09-14",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "395": {
+    "id": "395",
+    "employee_id": "22",
+    "date": "2025-09-13",
+    "check_in": "09:26:00",
+    "check_out": "17:58:00",
+    "status": "present"
+  },
+  "396": {
+    "id": "396",
+    "employee_id": "22",
+    "date": "2025-09-17",
+    "check_in": "08:10:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "397": {
+    "id": "397",
+    "employee_id": "22",
+    "date": "2025-09-04",
+    "check_in": "09:06:00",
+    "check_out": "17:07:00",
+    "status": "present"
+  },
+  "398": {
+    "id": "398",
+    "employee_id": "22",
+    "date": "2025-09-20",
+    "check_in": "09:41:00",
+    "check_out": "18:39:00",
+    "status": "present"
+  },
+  "399": {
+    "id": "399",
+    "employee_id": "22",
+    "date": "2025-09-16",
+    "check_in": "08:29:00",
+    "check_out": "17:36:00",
+    "status": "present"
+  },
+  "400": {
+    "id": "400",
+    "employee_id": "22",
+    "date": "2025-09-08",
+    "check_in": "09:33:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "401": {
+    "id": "401",
+    "employee_id": "22",
+    "date": "2025-09-18",
+    "check_in": "08:38:00",
+    "check_out": "18:21:00",
+    "status": "present"
+  },
+  "402": {
+    "id": "402",
+    "employee_id": "22",
+    "date": "2025-09-24",
+    "check_in": "08:52:00",
+    "check_out": "18:01:00",
+    "status": "present"
+  },
+  "403": {
+    "id": "403",
+    "employee_id": "22",
+    "date": "2025-09-24",
+    "check_in": "08:37:00",
+    "check_out": "18:02:00",
+    "status": "present"
+  },
+  "404": {
+    "id": "404",
+    "employee_id": "22",
+    "date": "2025-09-17",
+    "check_in": "09:11:00",
+    "check_out": "18:57:00",
+    "status": "present"
+  },
+  "405": {
+    "id": "405",
+    "employee_id": "22",
+    "date": "2025-09-24",
+    "check_in": "09:49:00",
+    "check_out": "18:13:00",
+    "status": "present"
+  },
+  "406": {
+    "id": "406",
+    "employee_id": "22",
+    "date": "2025-08-30",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "407": {
+    "id": "407",
+    "employee_id": "22",
+    "date": "2025-09-12",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "408": {
+    "id": "408",
+    "employee_id": "22",
+    "date": "2025-09-19",
+    "check_in": "08:46:00",
+    "check_out": "18:14:00",
+    "status": "present"
+  },
+  "409": {
+    "id": "409",
+    "employee_id": "22",
+    "date": "2025-08-27",
+    "check_in": "09:21:00",
+    "check_out": "18:25:00",
+    "status": "present"
+  },
+  "410": {
+    "id": "410",
+    "employee_id": "22",
+    "date": "2025-09-16",
+    "check_in": "09:26:00",
+    "check_out": "18:48:00",
+    "status": "present"
+  },
+  "411": {
+    "id": "411",
+    "employee_id": "22",
+    "date": "2025-09-24",
+    "check_in": "09:49:00",
+    "check_out": "13:26:00",
+    "status": "half-day"
+  },
+  "412": {
+    "id": "412",
+    "employee_id": "22",
+    "date": "2025-08-29",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "413": {
+    "id": "413",
+    "employee_id": "22",
+    "date": "2025-09-05",
+    "check_in": "09:33:00",
+    "check_out": "18:42:00",
+    "status": "present"
+  },
+  "414": {
+    "id": "414",
+    "employee_id": "22",
+    "date": "2025-09-13",
+    "check_in": "08:37:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "415": {
+    "id": "415",
+    "employee_id": "22",
+    "date": "2025-09-20",
+    "check_in": "08:26:00",
+    "check_out": "13:15:00",
+    "status": "half-day"
+  },
+  "416": {
+    "id": "416",
+    "employee_id": "22",
+    "date": "2025-09-07",
+    "check_in": "08:02:00",
+    "check_out": "17:56:00",
+    "status": "present"
+  },
+  "417": {
+    "id": "417",
+    "employee_id": "22",
+    "date": "2025-08-29",
+    "check_in": "09:39:00",
+    "check_out": "13:04:00",
+    "status": "half-day"
+  },
+  "418": {
+    "id": "418",
+    "employee_id": "22",
+    "date": "2025-09-17",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "419": {
+    "id": "419",
+    "employee_id": "22",
+    "date": "2025-09-07",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "420": {
+    "id": "420",
+    "employee_id": "22",
+    "date": "2025-09-11",
+    "check_in": "08:59:00",
+    "check_out": "17:50:00",
+    "status": "present"
+  },
+  "421": {
+    "id": "421",
+    "employee_id": "26",
+    "date": "2025-08-28",
+    "check_in": "09:57:00",
+    "check_out": "18:25:00",
+    "status": "present"
+  },
+  "422": {
+    "id": "422",
+    "employee_id": "26",
+    "date": "2025-09-03",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "423": {
+    "id": "423",
+    "employee_id": "26",
+    "date": "2025-09-14",
+    "check_in": "09:03:00",
+    "check_out": "17:29:00",
+    "status": "present"
+  },
+  "424": {
+    "id": "424",
+    "employee_id": "26",
+    "date": "2025-09-14",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "425": {
+    "id": "425",
+    "employee_id": "26",
+    "date": "2025-09-17",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "426": {
+    "id": "426",
+    "employee_id": "26",
+    "date": "2025-09-25",
+    "check_in": "09:08:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "427": {
+    "id": "427",
+    "employee_id": "26",
+    "date": "2025-09-22",
+    "check_in": "08:22:00",
+    "check_out": "17:29:00",
+    "status": "present"
+  },
+  "428": {
+    "id": "428",
+    "employee_id": "26",
+    "date": "2025-09-02",
+    "check_in": "08:56:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "429": {
+    "id": "429",
+    "employee_id": "26",
+    "date": "2025-09-16",
+    "check_in": "09:53:00",
+    "check_out": "17:33:00",
+    "status": "present"
+  },
+  "430": {
+    "id": "430",
+    "employee_id": "26",
+    "date": "2025-09-23",
+    "check_in": "09:53:00",
+    "check_out": "18:58:00",
+    "status": "present"
+  },
+  "431": {
+    "id": "431",
+    "employee_id": "26",
+    "date": "2025-09-05",
+    "check_in": "09:01:00",
+    "check_out": "18:50:00",
+    "status": "present"
+  },
+  "432": {
+    "id": "432",
+    "employee_id": "26",
+    "date": "2025-09-07",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "433": {
+    "id": "433",
+    "employee_id": "26",
+    "date": "2025-09-05",
+    "check_in": "09:41:00",
+    "check_out": "18:08:00",
+    "status": "present"
+  },
+  "434": {
+    "id": "434",
+    "employee_id": "26",
+    "date": "2025-09-07",
+    "check_in": "09:21:00",
+    "check_out": "17:09:00",
+    "status": "present"
+  },
+  "435": {
+    "id": "435",
+    "employee_id": "26",
+    "date": "2025-08-29",
+    "check_in": "09:12:00",
+    "check_out": "13:31:00",
+    "status": "half-day"
+  },
+  "436": {
+    "id": "436",
+    "employee_id": "26",
+    "date": "2025-08-29",
+    "check_in": "08:18:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "437": {
+    "id": "437",
+    "employee_id": "26",
+    "date": "2025-08-29",
+    "check_in": "09:59:00",
+    "check_out": "18:03:00",
+    "status": "present"
+  },
+  "438": {
+    "id": "438",
+    "employee_id": "26",
+    "date": "2025-09-25",
+    "check_in": "08:56:00",
+    "check_out": "17:48:00",
+    "status": "present"
+  },
+  "439": {
+    "id": "439",
+    "employee_id": "26",
+    "date": "2025-09-05",
+    "check_in": "08:46:00",
+    "check_out": "17:51:00",
+    "status": "present"
+  },
+  "440": {
+    "id": "440",
+    "employee_id": "26",
+    "date": "2025-09-12",
+    "check_in": "08:35:00",
+    "check_out": "18:11:00",
+    "status": "present"
+  },
+  "441": {
+    "id": "441",
+    "employee_id": "26",
+    "date": "2025-09-09",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "442": {
+    "id": "442",
+    "employee_id": "26",
+    "date": "2025-08-28",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "443": {
+    "id": "443",
+    "employee_id": "26",
+    "date": "2025-09-02",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "444": {
+    "id": "444",
+    "employee_id": "26",
+    "date": "2025-09-23",
+    "check_in": "08:38:00",
+    "check_out": "17:45:00",
+    "status": "present"
+  },
+  "445": {
+    "id": "445",
+    "employee_id": "26",
+    "date": "2025-09-17",
+    "check_in": "08:11:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "446": {
+    "id": "446",
+    "employee_id": "26",
+    "date": "2025-09-02",
+    "check_in": "09:40:00",
+    "check_out": "17:03:00",
+    "status": "present"
+  },
+  "447": {
+    "id": "447",
+    "employee_id": "26",
+    "date": "2025-09-07",
+    "check_in": "09:48:00",
+    "check_out": "17:50:00",
+    "status": "present"
+  },
+  "448": {
+    "id": "448",
+    "employee_id": "26",
+    "date": "2025-09-06",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "449": {
+    "id": "449",
+    "employee_id": "26",
+    "date": "2025-08-30",
+    "check_in": "08:54:00",
+    "check_out": "18:50:00",
+    "status": "present"
+  },
+  "450": {
+    "id": "450",
+    "employee_id": "26",
+    "date": "2025-09-05",
+    "check_in": "08:48:00",
+    "check_out": "17:46:00",
+    "status": "present"
+  },
+  "451": {
+    "id": "451",
+    "employee_id": "27",
+    "date": "2025-09-12",
+    "check_in": "08:13:00",
+    "check_out": "17:13:00",
+    "status": "present"
+  },
+  "452": {
+    "id": "452",
+    "employee_id": "27",
+    "date": "2025-09-24",
+    "check_in": "09:44:00",
+    "check_out": "18:25:00",
+    "status": "present"
+  },
+  "453": {
+    "id": "453",
+    "employee_id": "27",
+    "date": "2025-09-10",
+    "check_in": "09:49:00",
+    "check_out": "17:45:00",
+    "status": "present"
+  },
+  "454": {
+    "id": "454",
+    "employee_id": "27",
+    "date": "2025-09-12",
+    "check_in": "08:06:00",
+    "check_out": "17:55:00",
+    "status": "present"
+  },
+  "455": {
+    "id": "455",
+    "employee_id": "27",
+    "date": "2025-09-10",
+    "check_in": "09:37:00",
+    "check_out": "18:31:00",
+    "status": "present"
+  },
+  "456": {
+    "id": "456",
+    "employee_id": "27",
+    "date": "2025-09-13",
+    "check_in": "09:07:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "457": {
+    "id": "457",
+    "employee_id": "27",
+    "date": "2025-09-22",
+    "check_in": "09:12:00",
+    "check_out": "18:47:00",
+    "status": "present"
+  },
+  "458": {
+    "id": "458",
+    "employee_id": "27",
+    "date": "2025-09-19",
+    "check_in": "08:25:00",
+    "check_out": "13:00:00",
+    "status": "half-day"
+  },
+  "459": {
+    "id": "459",
+    "employee_id": "27",
+    "date": "2025-09-19",
+    "check_in": "09:33:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "460": {
+    "id": "460",
+    "employee_id": "27",
+    "date": "2025-08-31",
+    "check_in": "08:25:00",
+    "check_out": "13:57:00",
+    "status": "half-day"
+  },
+  "461": {
+    "id": "461",
+    "employee_id": "27",
+    "date": "2025-09-09",
+    "check_in": "09:24:00",
+    "check_out": "18:56:00",
+    "status": "present"
+  },
+  "462": {
+    "id": "462",
+    "employee_id": "27",
+    "date": "2025-09-22",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "463": {
+    "id": "463",
+    "employee_id": "27",
+    "date": "2025-09-22",
+    "check_in": "08:28:00",
+    "check_out": "17:48:00",
+    "status": "present"
+  },
+  "464": {
+    "id": "464",
+    "employee_id": "27",
+    "date": "2025-08-29",
+    "check_in": "08:30:00",
+    "check_out": "17:29:00",
+    "status": "present"
+  },
+  "465": {
+    "id": "465",
+    "employee_id": "27",
+    "date": "2025-08-30",
+    "check_in": "09:26:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "466": {
+    "id": "466",
+    "employee_id": "27",
+    "date": "2025-09-13",
+    "check_in": "09:52:00",
+    "check_out": "17:05:00",
+    "status": "present"
+  },
+  "467": {
+    "id": "467",
+    "employee_id": "27",
+    "date": "2025-09-23",
+    "check_in": "08:17:00",
+    "check_out": "13:12:00",
+    "status": "half-day"
+  },
+  "468": {
+    "id": "468",
+    "employee_id": "27",
+    "date": "2025-09-17",
+    "check_in": "09:34:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "469": {
+    "id": "469",
+    "employee_id": "27",
+    "date": "2025-09-22",
+    "check_in": "08:47:00",
+    "check_out": "18:21:00",
+    "status": "present"
+  },
+  "470": {
+    "id": "470",
+    "employee_id": "27",
+    "date": "2025-09-04",
+    "check_in": "09:55:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "471": {
+    "id": "471",
+    "employee_id": "27",
+    "date": "2025-08-29",
+    "check_in": "09:26:00",
+    "check_out": "18:39:00",
+    "status": "present"
+  },
+  "472": {
+    "id": "472",
+    "employee_id": "27",
+    "date": "2025-09-06",
+    "check_in": "08:42:00",
+    "check_out": "13:45:00",
+    "status": "half-day"
+  },
+  "473": {
+    "id": "473",
+    "employee_id": "27",
+    "date": "2025-09-03",
+    "check_in": "09:04:00",
+    "check_out": "17:58:00",
+    "status": "present"
+  },
+  "474": {
+    "id": "474",
+    "employee_id": "27",
+    "date": "2025-09-04",
+    "check_in": "08:55:00",
+    "check_out": "18:45:00",
+    "status": "present"
+  },
+  "475": {
+    "id": "475",
+    "employee_id": "27",
+    "date": "2025-09-25",
+    "check_in": "08:38:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "476": {
+    "id": "476",
+    "employee_id": "27",
+    "date": "2025-09-03",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "477": {
+    "id": "477",
+    "employee_id": "27",
+    "date": "2025-08-29",
+    "check_in": "08:36:00",
+    "check_out": "17:22:00",
+    "status": "present"
+  },
+  "478": {
+    "id": "478",
+    "employee_id": "27",
+    "date": "2025-09-23",
+    "check_in": "09:51:00",
+    "check_out": "18:42:00",
+    "status": "present"
+  },
+  "479": {
+    "id": "479",
+    "employee_id": "27",
+    "date": "2025-09-17",
+    "check_in": "08:12:00",
+    "check_out": "18:16:00",
+    "status": "present"
+  },
+  "480": {
+    "id": "480",
+    "employee_id": "27",
+    "date": "2025-09-15",
+    "check_in": "09:47:00",
+    "check_out": "18:53:00",
+    "status": "present"
+  },
+  "481": {
+    "id": "481",
+    "employee_id": "28",
+    "date": "2025-09-18",
+    "check_in": "09:53:00",
+    "check_out": "18:18:00",
+    "status": "present"
+  },
+  "482": {
+    "id": "482",
+    "employee_id": "28",
+    "date": "2025-09-02",
+    "check_in": "08:37:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "483": {
+    "id": "483",
+    "employee_id": "28",
+    "date": "2025-09-05",
+    "check_in": "08:26:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "484": {
+    "id": "484",
+    "employee_id": "28",
+    "date": "2025-09-22",
+    "check_in": "08:30:00",
+    "check_out": "18:00:00",
+    "status": "present"
+  },
+  "485": {
+    "id": "485",
+    "employee_id": "28",
+    "date": "2025-09-23",
+    "check_in": "08:45:00",
+    "check_out": "18:43:00",
+    "status": "present"
+  },
+  "486": {
+    "id": "486",
+    "employee_id": "28",
+    "date": "2025-08-27",
+    "check_in": "09:25:00",
+    "check_out": "18:46:00",
+    "status": "present"
+  },
+  "487": {
+    "id": "487",
+    "employee_id": "28",
+    "date": "2025-09-17",
+    "check_in": "09:46:00",
+    "check_out": "17:23:00",
+    "status": "present"
+  },
+  "488": {
+    "id": "488",
+    "employee_id": "28",
+    "date": "2025-09-05",
+    "check_in": "08:14:00",
+    "check_out": "17:53:00",
+    "status": "present"
+  },
+  "489": {
+    "id": "489",
+    "employee_id": "28",
+    "date": "2025-09-19",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "490": {
+    "id": "490",
+    "employee_id": "28",
+    "date": "2025-09-14",
+    "check_in": "08:10:00",
+    "check_out": "17:18:00",
+    "status": "present"
+  },
+  "491": {
+    "id": "491",
+    "employee_id": "28",
+    "date": "2025-09-01",
+    "check_in": "08:18:00",
+    "check_out": "17:18:00",
+    "status": "present"
+  },
+  "492": {
+    "id": "492",
+    "employee_id": "28",
+    "date": "2025-09-13",
+    "check_in": "08:13:00",
+    "check_out": "18:12:00",
+    "status": "present"
+  },
+  "493": {
+    "id": "493",
+    "employee_id": "28",
+    "date": "2025-09-19",
+    "check_in": "08:37:00",
+    "check_out": "17:57:00",
+    "status": "present"
+  },
+  "494": {
+    "id": "494",
+    "employee_id": "28",
+    "date": "2025-09-08",
+    "check_in": "08:00:00",
+    "check_out": "18:29:00",
+    "status": "present"
+  },
+  "495": {
+    "id": "495",
+    "employee_id": "28",
+    "date": "2025-09-25",
+    "check_in": "09:01:00",
+    "check_out": "17:19:00",
+    "status": "present"
+  },
+  "496": {
+    "id": "496",
+    "employee_id": "28",
+    "date": "2025-09-15",
+    "check_in": "08:59:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "497": {
+    "id": "497",
+    "employee_id": "28",
+    "date": "2025-08-29",
+    "check_in": "08:20:00",
+    "check_out": "18:18:00",
+    "status": "present"
+  },
+  "498": {
+    "id": "498",
+    "employee_id": "28",
+    "date": "2025-09-20",
+    "check_in": "09:25:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "499": {
+    "id": "499",
+    "employee_id": "28",
+    "date": "2025-09-09",
+    "check_in": "08:21:00",
+    "check_out": "17:24:00",
+    "status": "present"
+  },
+  "500": {
+    "id": "500",
+    "employee_id": "28",
+    "date": "2025-09-09",
+    "check_in": "08:48:00",
+    "check_out": "18:43:00",
+    "status": "present"
+  },
+  "501": {
+    "id": "501",
+    "employee_id": "28",
+    "date": "2025-09-05",
+    "check_in": "08:18:00",
+    "check_out": "18:41:00",
+    "status": "present"
+  },
+  "502": {
+    "id": "502",
+    "employee_id": "28",
+    "date": "2025-09-01",
+    "check_in": "09:46:00",
+    "check_out": "17:23:00",
+    "status": "present"
+  },
+  "503": {
+    "id": "503",
+    "employee_id": "28",
+    "date": "2025-09-11",
+    "check_in": "09:23:00",
+    "check_out": "17:44:00",
+    "status": "present"
+  },
+  "504": {
+    "id": "504",
+    "employee_id": "28",
+    "date": "2025-08-30",
+    "check_in": "09:02:00",
+    "check_out": "17:13:00",
+    "status": "present"
+  },
+  "505": {
+    "id": "505",
+    "employee_id": "28",
+    "date": "2025-09-16",
+    "check_in": "08:06:00",
+    "check_out": "18:20:00",
+    "status": "present"
+  },
+  "506": {
+    "id": "506",
+    "employee_id": "28",
+    "date": "2025-09-22",
+    "check_in": "08:17:00",
+    "check_out": "18:23:00",
+    "status": "present"
+  },
+  "507": {
+    "id": "507",
+    "employee_id": "28",
+    "date": "2025-08-30",
+    "check_in": "09:44:00",
+    "check_out": "17:04:00",
+    "status": "present"
+  },
+  "508": {
+    "id": "508",
+    "employee_id": "28",
+    "date": "2025-09-15",
+    "check_in": "08:29:00",
+    "check_out": "17:15:00",
+    "status": "present"
+  },
+  "509": {
+    "id": "509",
+    "employee_id": "28",
+    "date": "2025-09-20",
+    "check_in": "09:56:00",
+    "check_out": "18:56:00",
+    "status": "present"
+  },
+  "510": {
+    "id": "510",
+    "employee_id": "28",
+    "date": "2025-09-15",
+    "check_in": "08:25:00",
+    "check_out": "18:10:00",
+    "status": "present"
+  },
+  "511": {
+    "id": "511",
+    "employee_id": "31",
+    "date": "2025-09-04",
+    "check_in": "08:35:00",
+    "check_out": "18:02:00",
+    "status": "present"
+  },
+  "512": {
+    "id": "512",
+    "employee_id": "31",
+    "date": "2025-08-27",
+    "check_in": "08:57:00",
+    "check_out": "18:10:00",
+    "status": "present"
+  },
+  "513": {
+    "id": "513",
+    "employee_id": "31",
+    "date": "2025-09-19",
+    "check_in": "08:08:00",
+    "check_out": "18:59:00",
+    "status": "present"
+  },
+  "514": {
+    "id": "514",
+    "employee_id": "31",
+    "date": "2025-08-28",
+    "check_in": "08:49:00",
+    "check_out": "18:13:00",
+    "status": "present"
+  },
+  "515": {
+    "id": "515",
+    "employee_id": "31",
+    "date": "2025-09-21",
+    "check_in": "08:01:00",
+    "check_out": "18:08:00",
+    "status": "present"
+  },
+  "516": {
+    "id": "516",
+    "employee_id": "31",
+    "date": "2025-09-03",
+    "check_in": "08:16:00",
+    "check_out": "17:13:00",
+    "status": "present"
+  },
+  "517": {
+    "id": "517",
+    "employee_id": "31",
+    "date": "2025-08-27",
+    "check_in": "08:12:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "518": {
+    "id": "518",
+    "employee_id": "31",
+    "date": "2025-08-31",
+    "check_in": "08:54:00",
+    "check_out": "18:10:00",
+    "status": "present"
+  },
+  "519": {
+    "id": "519",
+    "employee_id": "31",
+    "date": "2025-09-05",
+    "check_in": "09:32:00",
+    "check_out": "17:26:00",
+    "status": "present"
+  },
+  "520": {
+    "id": "520",
+    "employee_id": "31",
+    "date": "2025-08-30",
+    "check_in": "08:59:00",
+    "check_out": "18:44:00",
+    "status": "present"
+  },
+  "521": {
+    "id": "521",
+    "employee_id": "31",
+    "date": "2025-09-23",
+    "check_in": "08:02:00",
+    "check_out": "18:35:00",
+    "status": "present"
+  },
+  "522": {
+    "id": "522",
+    "employee_id": "31",
+    "date": "2025-08-28",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "523": {
+    "id": "523",
+    "employee_id": "31",
+    "date": "2025-09-18",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "524": {
+    "id": "524",
+    "employee_id": "31",
+    "date": "2025-08-31",
+    "check_in": "09:53:00",
+    "check_out": "18:28:00",
+    "status": "present"
+  },
+  "525": {
+    "id": "525",
+    "employee_id": "31",
+    "date": "2025-09-19",
+    "check_in": "09:26:00",
+    "check_out": "18:34:00",
+    "status": "present"
+  },
+  "526": {
+    "id": "526",
+    "employee_id": "31",
+    "date": "2025-09-09",
+    "check_in": "08:26:00",
+    "check_out": "17:27:00",
+    "status": "present"
+  },
+  "527": {
+    "id": "527",
+    "employee_id": "31",
+    "date": "2025-09-19",
+    "check_in": "08:01:00",
+    "check_out": "18:14:00",
+    "status": "present"
+  },
+  "528": {
+    "id": "528",
+    "employee_id": "31",
+    "date": "2025-09-15",
+    "check_in": "09:47:00",
+    "check_out": "18:56:00",
+    "status": "present"
+  },
+  "529": {
+    "id": "529",
+    "employee_id": "31",
+    "date": "2025-09-01",
+    "check_in": "09:25:00",
+    "check_out": "18:21:00",
+    "status": "present"
+  },
+  "530": {
+    "id": "530",
+    "employee_id": "31",
+    "date": "2025-09-21",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "531": {
+    "id": "531",
+    "employee_id": "31",
+    "date": "2025-09-04",
+    "check_in": "09:45:00",
+    "check_out": "18:24:00",
+    "status": "present"
+  },
+  "532": {
+    "id": "532",
+    "employee_id": "31",
+    "date": "2025-09-14",
+    "check_in": "08:44:00",
+    "check_out": "18:02:00",
+    "status": "present"
+  },
+  "533": {
+    "id": "533",
+    "employee_id": "31",
+    "date": "2025-09-04",
+    "check_in": "09:05:00",
+    "check_out": "18:03:00",
+    "status": "present"
+  },
+  "534": {
+    "id": "534",
+    "employee_id": "31",
+    "date": "2025-08-28",
+    "check_in": "08:08:00",
+    "check_out": "17:41:00",
+    "status": "present"
+  },
+  "535": {
+    "id": "535",
+    "employee_id": "31",
+    "date": "2025-09-21",
+    "check_in": "08:48:00",
+    "check_out": "18:36:00",
+    "status": "present"
+  },
+  "536": {
+    "id": "536",
+    "employee_id": "31",
+    "date": "2025-09-10",
+    "check_in": "08:11:00",
+    "check_out": "18:16:00",
+    "status": "present"
+  },
+  "537": {
+    "id": "537",
+    "employee_id": "31",
+    "date": "2025-09-12",
+    "check_in": "08:28:00",
+    "check_out": "17:22:00",
+    "status": "present"
+  },
+  "538": {
+    "id": "538",
+    "employee_id": "31",
+    "date": "2025-09-05",
+    "check_in": "08:47:00",
+    "check_out": "17:08:00",
+    "status": "present"
+  },
+  "539": {
+    "id": "539",
+    "employee_id": "31",
+    "date": "2025-09-21",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "540": {
+    "id": "540",
+    "employee_id": "31",
+    "date": "2025-09-01",
+    "check_in": "08:18:00",
+    "check_out": "17:05:00",
+    "status": "present"
+  },
+  "541": {
+    "id": "541",
+    "employee_id": "33",
+    "date": "2025-08-28",
+    "check_in": "09:17:00",
+    "check_out": "17:39:00",
+    "status": "present"
+  },
+  "542": {
+    "id": "542",
+    "employee_id": "33",
+    "date": "2025-09-06",
+    "check_in": "09:38:00",
+    "check_out": "18:00:00",
+    "status": "present"
+  },
+  "543": {
+    "id": "543",
+    "employee_id": "33",
+    "date": "2025-09-05",
+    "check_in": "08:11:00",
+    "check_out": "18:49:00",
+    "status": "present"
+  },
+  "544": {
+    "id": "544",
+    "employee_id": "33",
+    "date": "2025-09-19",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "545": {
+    "id": "545",
+    "employee_id": "33",
+    "date": "2025-09-20",
+    "check_in": "09:07:00",
+    "check_out": "17:18:00",
+    "status": "present"
+  },
+  "546": {
+    "id": "546",
+    "employee_id": "33",
+    "date": "2025-09-20",
+    "check_in": "09:40:00",
+    "check_out": "17:46:00",
+    "status": "present"
+  },
+  "547": {
+    "id": "547",
+    "employee_id": "33",
+    "date": "2025-09-01",
+    "check_in": "09:47:00",
+    "check_out": "18:46:00",
+    "status": "present"
+  },
+  "548": {
+    "id": "548",
+    "employee_id": "33",
+    "date": "2025-08-27",
+    "check_in": "08:59:00",
+    "check_out": "17:17:00",
+    "status": "present"
+  },
+  "549": {
+    "id": "549",
+    "employee_id": "33",
+    "date": "2025-08-27",
+    "check_in": "08:25:00",
+    "check_out": "18:54:00",
+    "status": "present"
+  },
+  "550": {
+    "id": "550",
+    "employee_id": "33",
+    "date": "2025-09-08",
+    "check_in": "09:32:00",
+    "check_out": "18:38:00",
+    "status": "present"
+  },
+  "551": {
+    "id": "551",
+    "employee_id": "33",
+    "date": "2025-09-01",
+    "check_in": "08:52:00",
+    "check_out": "18:35:00",
+    "status": "present"
+  },
+  "552": {
+    "id": "552",
+    "employee_id": "33",
+    "date": "2025-09-12",
+    "check_in": "08:18:00",
+    "check_out": "17:31:00",
+    "status": "present"
+  },
+  "553": {
+    "id": "553",
+    "employee_id": "33",
+    "date": "2025-09-12",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "554": {
+    "id": "554",
+    "employee_id": "33",
+    "date": "2025-09-17",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "555": {
+    "id": "555",
+    "employee_id": "33",
+    "date": "2025-09-20",
+    "check_in": "08:52:00",
+    "check_out": "17:07:00",
+    "status": "present"
+  },
+  "556": {
+    "id": "556",
+    "employee_id": "33",
+    "date": "2025-09-25",
+    "check_in": "09:02:00",
+    "check_out": "18:01:00",
+    "status": "present"
+  },
+  "557": {
+    "id": "557",
+    "employee_id": "33",
+    "date": "2025-08-29",
+    "check_in": "08:48:00",
+    "check_out": "18:27:00",
+    "status": "present"
+  },
+  "558": {
+    "id": "558",
+    "employee_id": "33",
+    "date": "2025-09-02",
+    "check_in": "09:59:00",
+    "check_out": "13:42:00",
+    "status": "half-day"
+  },
+  "559": {
+    "id": "559",
+    "employee_id": "33",
+    "date": "2025-09-10",
+    "check_in": "09:02:00",
+    "check_out": "18:48:00",
+    "status": "present"
+  },
+  "560": {
+    "id": "560",
+    "employee_id": "33",
+    "date": "2025-08-28",
+    "check_in": "09:59:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "561": {
+    "id": "561",
+    "employee_id": "33",
+    "date": "2025-08-31",
+    "check_in": "08:44:00",
+    "check_out": "18:04:00",
+    "status": "present"
+  },
+  "562": {
+    "id": "562",
+    "employee_id": "33",
+    "date": "2025-09-07",
+    "check_in": "08:34:00",
+    "check_out": "17:00:00",
+    "status": "present"
+  },
+  "563": {
+    "id": "563",
+    "employee_id": "33",
+    "date": "2025-09-12",
+    "check_in": "09:41:00",
+    "check_out": "18:25:00",
+    "status": "present"
+  },
+  "564": {
+    "id": "564",
+    "employee_id": "33",
+    "date": "2025-09-14",
+    "check_in": "09:24:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "565": {
+    "id": "565",
+    "employee_id": "33",
+    "date": "2025-09-22",
+    "check_in": "08:05:00",
+    "check_out": "18:09:00",
+    "status": "present"
+  },
+  "566": {
+    "id": "566",
+    "employee_id": "33",
+    "date": "2025-08-29",
+    "check_in": "09:25:00",
+    "check_out": "13:40:00",
+    "status": "half-day"
+  },
+  "567": {
+    "id": "567",
+    "employee_id": "33",
+    "date": "2025-09-21",
+    "check_in": "09:11:00",
+    "check_out": "18:20:00",
+    "status": "present"
+  },
+  "568": {
+    "id": "568",
+    "employee_id": "33",
+    "date": "2025-09-01",
+    "check_in": "09:12:00",
+    "check_out": "17:36:00",
+    "status": "present"
+  },
+  "569": {
+    "id": "569",
+    "employee_id": "33",
+    "date": "2025-09-24",
+    "check_in": "08:26:00",
+    "check_out": "13:46:00",
+    "status": "half-day"
+  },
+  "570": {
+    "id": "570",
+    "employee_id": "33",
+    "date": "2025-09-03",
+    "check_in": "09:58:00",
+    "check_out": "17:37:00",
+    "status": "present"
+  },
+  "571": {
+    "id": "571",
+    "employee_id": "34",
+    "date": "2025-09-20",
+    "check_in": "08:27:00",
+    "check_out": "18:46:00",
+    "status": "present"
+  },
+  "572": {
+    "id": "572",
+    "employee_id": "34",
+    "date": "2025-09-03",
+    "check_in": "08:38:00",
+    "check_out": "17:20:00",
+    "status": "present"
+  },
+  "573": {
+    "id": "573",
+    "employee_id": "34",
+    "date": "2025-09-20",
+    "check_in": "08:58:00",
+    "check_out": "17:45:00",
+    "status": "present"
+  },
+  "574": {
+    "id": "574",
+    "employee_id": "34",
+    "date": "2025-09-23",
+    "check_in": "09:54:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "575": {
+    "id": "575",
+    "employee_id": "34",
+    "date": "2025-09-10",
+    "check_in": "08:15:00",
+    "check_out": "17:57:00",
+    "status": "present"
+  },
+  "576": {
+    "id": "576",
+    "employee_id": "34",
+    "date": "2025-09-25",
+    "check_in": "08:31:00",
+    "check_out": "17:24:00",
+    "status": "present"
+  },
+  "577": {
+    "id": "577",
+    "employee_id": "34",
+    "date": "2025-09-12",
+    "check_in": "09:31:00",
+    "check_out": "17:39:00",
+    "status": "present"
+  },
+  "578": {
+    "id": "578",
+    "employee_id": "34",
+    "date": "2025-09-13",
+    "check_in": "09:40:00",
+    "check_out": "17:45:00",
+    "status": "present"
+  },
+  "579": {
+    "id": "579",
+    "employee_id": "34",
+    "date": "2025-09-05",
+    "check_in": "09:56:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "580": {
+    "id": "580",
+    "employee_id": "34",
+    "date": "2025-09-24",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "581": {
+    "id": "581",
+    "employee_id": "34",
+    "date": "2025-09-25",
+    "check_in": "09:38:00",
+    "check_out": "18:54:00",
+    "status": "present"
+  },
+  "582": {
+    "id": "582",
+    "employee_id": "34",
+    "date": "2025-09-25",
+    "check_in": "09:51:00",
+    "check_out": "18:27:00",
+    "status": "present"
+  },
+  "583": {
+    "id": "583",
+    "employee_id": "34",
+    "date": "2025-09-10",
+    "check_in": "09:46:00",
+    "check_out": "18:25:00",
+    "status": "present"
+  },
+  "584": {
+    "id": "584",
+    "employee_id": "34",
+    "date": "2025-09-11",
+    "check_in": "08:02:00",
+    "check_out": "17:32:00",
+    "status": "present"
+  },
+  "585": {
+    "id": "585",
+    "employee_id": "34",
+    "date": "2025-08-29",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "586": {
+    "id": "586",
+    "employee_id": "34",
+    "date": "2025-08-29",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "587": {
+    "id": "587",
+    "employee_id": "34",
+    "date": "2025-09-02",
+    "check_in": "09:09:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "588": {
+    "id": "588",
+    "employee_id": "34",
+    "date": "2025-09-11",
+    "check_in": "09:34:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "589": {
+    "id": "589",
+    "employee_id": "34",
+    "date": "2025-09-06",
+    "check_in": "09:50:00",
+    "check_out": "13:19:00",
+    "status": "half-day"
+  },
+  "590": {
+    "id": "590",
+    "employee_id": "34",
+    "date": "2025-09-07",
+    "check_in": "08:32:00",
+    "check_out": "18:46:00",
+    "status": "present"
+  },
+  "591": {
+    "id": "591",
+    "employee_id": "34",
+    "date": "2025-09-06",
+    "check_in": "09:25:00",
+    "check_out": "17:57:00",
+    "status": "present"
+  },
+  "592": {
+    "id": "592",
+    "employee_id": "34",
+    "date": "2025-09-25",
+    "check_in": "08:52:00",
+    "check_out": "18:14:00",
+    "status": "present"
+  },
+  "593": {
+    "id": "593",
+    "employee_id": "34",
+    "date": "2025-09-15",
+    "check_in": "09:12:00",
+    "check_out": "18:03:00",
+    "status": "present"
+  },
+  "594": {
+    "id": "594",
+    "employee_id": "34",
+    "date": "2025-09-16",
+    "check_in": "08:54:00",
+    "check_out": "18:43:00",
+    "status": "present"
+  },
+  "595": {
+    "id": "595",
+    "employee_id": "34",
+    "date": "2025-09-21",
+    "check_in": "09:44:00",
+    "check_out": "18:19:00",
+    "status": "present"
+  },
+  "596": {
+    "id": "596",
+    "employee_id": "34",
+    "date": "2025-09-21",
+    "check_in": "08:03:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "597": {
+    "id": "597",
+    "employee_id": "34",
+    "date": "2025-09-14",
+    "check_in": "08:20:00",
+    "check_out": "17:55:00",
+    "status": "present"
+  },
+  "598": {
+    "id": "598",
+    "employee_id": "34",
+    "date": "2025-09-12",
+    "check_in": "09:01:00",
+    "check_out": "17:59:00",
+    "status": "present"
+  },
+  "599": {
+    "id": "599",
+    "employee_id": "34",
+    "date": "2025-09-13",
+    "check_in": "09:42:00",
+    "check_out": "18:07:00",
+    "status": "present"
+  },
+  "600": {
+    "id": "600",
+    "employee_id": "34",
+    "date": "2025-08-27",
+    "check_in": "09:02:00",
+    "check_out": "17:57:00",
+    "status": "present"
+  },
+  "601": {
+    "id": "601",
+    "employee_id": "36",
+    "date": "2025-09-05",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "602": {
+    "id": "602",
+    "employee_id": "36",
+    "date": "2025-09-13",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "603": {
+    "id": "603",
+    "employee_id": "36",
+    "date": "2025-09-16",
+    "check_in": "08:16:00",
+    "check_out": "18:17:00",
+    "status": "present"
+  },
+  "604": {
+    "id": "604",
+    "employee_id": "36",
+    "date": "2025-09-16",
+    "check_in": "09:42:00",
+    "check_out": "18:42:00",
+    "status": "present"
+  },
+  "605": {
+    "id": "605",
+    "employee_id": "36",
+    "date": "2025-09-07",
+    "check_in": "09:31:00",
+    "check_out": "17:01:00",
+    "status": "present"
+  },
+  "606": {
+    "id": "606",
+    "employee_id": "36",
+    "date": "2025-09-23",
+    "check_in": "08:27:00",
+    "check_out": "17:13:00",
+    "status": "present"
+  },
+  "607": {
+    "id": "607",
+    "employee_id": "36",
+    "date": "2025-09-16",
+    "check_in": "09:26:00",
+    "check_out": "17:04:00",
+    "status": "present"
+  },
+  "608": {
+    "id": "608",
+    "employee_id": "36",
+    "date": "2025-09-02",
+    "check_in": "09:30:00",
+    "check_out": "18:23:00",
+    "status": "present"
+  },
+  "609": {
+    "id": "609",
+    "employee_id": "36",
+    "date": "2025-09-11",
+    "check_in": "08:25:00",
+    "check_out": "18:34:00",
+    "status": "present"
+  },
+  "610": {
+    "id": "610",
+    "employee_id": "36",
+    "date": "2025-09-23",
+    "check_in": "09:38:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "611": {
+    "id": "611",
+    "employee_id": "36",
+    "date": "2025-09-23",
+    "check_in": "09:10:00",
+    "check_out": "13:03:00",
+    "status": "half-day"
+  },
+  "612": {
+    "id": "612",
+    "employee_id": "36",
+    "date": "2025-09-13",
+    "check_in": "09:15:00",
+    "check_out": "17:26:00",
+    "status": "present"
+  },
+  "613": {
+    "id": "613",
+    "employee_id": "36",
+    "date": "2025-09-01",
+    "check_in": "09:39:00",
+    "check_out": "17:57:00",
+    "status": "present"
+  },
+  "614": {
+    "id": "614",
+    "employee_id": "36",
+    "date": "2025-09-03",
+    "check_in": "09:00:00",
+    "check_out": "17:00:00",
+    "status": "present"
+  },
+  "615": {
+    "id": "615",
+    "employee_id": "36",
+    "date": "2025-09-09",
+    "check_in": "09:20:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "616": {
+    "id": "616",
+    "employee_id": "36",
+    "date": "2025-09-04",
+    "check_in": "09:11:00",
+    "check_out": "17:54:00",
+    "status": "present"
+  },
+  "617": {
+    "id": "617",
+    "employee_id": "36",
+    "date": "2025-09-15",
+    "check_in": "08:29:00",
+    "check_out": "18:17:00",
+    "status": "present"
+  },
+  "618": {
+    "id": "618",
+    "employee_id": "36",
+    "date": "2025-09-01",
+    "check_in": "08:57:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "619": {
+    "id": "619",
+    "employee_id": "36",
+    "date": "2025-08-30",
+    "check_in": "08:58:00",
+    "check_out": "17:30:00",
+    "status": "present"
+  },
+  "620": {
+    "id": "620",
+    "employee_id": "36",
+    "date": "2025-09-22",
+    "check_in": "09:10:00",
+    "check_out": "18:20:00",
+    "status": "present"
+  },
+  "621": {
+    "id": "621",
+    "employee_id": "36",
+    "date": "2025-09-11",
+    "check_in": "09:50:00",
+    "check_out": "18:36:00",
+    "status": "present"
+  },
+  "622": {
+    "id": "622",
+    "employee_id": "36",
+    "date": "2025-09-25",
+    "check_in": "09:28:00",
+    "check_out": "18:21:00",
+    "status": "present"
+  },
+  "623": {
+    "id": "623",
+    "employee_id": "36",
+    "date": "2025-09-13",
+    "check_in": "08:02:00",
+    "check_out": "17:47:00",
+    "status": "present"
+  },
+  "624": {
+    "id": "624",
+    "employee_id": "36",
+    "date": "2025-08-30",
+    "check_in": "08:48:00",
+    "check_out": "17:25:00",
+    "status": "present"
+  },
+  "625": {
+    "id": "625",
+    "employee_id": "36",
+    "date": "2025-09-04",
+    "check_in": "08:20:00",
+    "check_out": "17:58:00",
+    "status": "present"
+  },
+  "626": {
+    "id": "626",
+    "employee_id": "36",
+    "date": "2025-09-21",
+    "check_in": "08:48:00",
+    "check_out": "18:50:00",
+    "status": "present"
+  },
+  "627": {
+    "id": "627",
+    "employee_id": "36",
+    "date": "2025-09-12",
+    "check_in": "09:57:00",
+    "check_out": "17:14:00",
+    "status": "present"
+  },
+  "628": {
+    "id": "628",
+    "employee_id": "36",
+    "date": "2025-09-16",
+    "check_in": "09:00:00",
+    "check_out": "17:08:00",
+    "status": "present"
+  },
+  "629": {
+    "id": "629",
+    "employee_id": "36",
+    "date": "2025-09-08",
+    "check_in": "09:21:00",
+    "check_out": "13:40:00",
+    "status": "half-day"
+  },
+  "630": {
+    "id": "630",
+    "employee_id": "36",
+    "date": "2025-09-23",
+    "check_in": "08:49:00",
+    "check_out": "17:10:00",
+    "status": "present"
+  },
+  "631": {
+    "id": "631",
+    "employee_id": "37",
+    "date": "2025-09-04",
+    "check_in": "09:22:00",
+    "check_out": "18:48:00",
+    "status": "present"
+  },
+  "632": {
+    "id": "632",
+    "employee_id": "37",
+    "date": "2025-09-24",
+    "check_in": "09:18:00",
+    "check_out": "13:53:00",
+    "status": "half-day"
+  },
+  "633": {
+    "id": "633",
+    "employee_id": "37",
+    "date": "2025-08-31",
+    "check_in": "08:55:00",
+    "check_out": "18:09:00",
+    "status": "present"
+  },
+  "634": {
+    "id": "634",
+    "employee_id": "37",
+    "date": "2025-08-29",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "635": {
+    "id": "635",
+    "employee_id": "37",
+    "date": "2025-09-07",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "636": {
+    "id": "636",
+    "employee_id": "37",
+    "date": "2025-09-17",
+    "check_in": "08:19:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "637": {
+    "id": "637",
+    "employee_id": "37",
+    "date": "2025-09-07",
+    "check_in": "08:17:00",
+    "check_out": "17:48:00",
+    "status": "present"
+  },
+  "638": {
+    "id": "638",
+    "employee_id": "37",
+    "date": "2025-09-05",
+    "check_in": "09:30:00",
+    "check_out": "18:35:00",
+    "status": "present"
+  },
+  "639": {
+    "id": "639",
+    "employee_id": "37",
+    "date": "2025-08-31",
+    "check_in": "08:14:00",
+    "check_out": "17:18:00",
+    "status": "present"
+  },
+  "640": {
+    "id": "640",
+    "employee_id": "37",
+    "date": "2025-09-01",
+    "check_in": "08:17:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "641": {
+    "id": "641",
+    "employee_id": "37",
+    "date": "2025-09-24",
+    "check_in": "08:53:00",
+    "check_out": "18:34:00",
+    "status": "present"
+  },
+  "642": {
+    "id": "642",
+    "employee_id": "37",
+    "date": "2025-09-20",
+    "check_in": "08:32:00",
+    "check_out": "17:37:00",
+    "status": "present"
+  },
+  "643": {
+    "id": "643",
+    "employee_id": "37",
+    "date": "2025-09-12",
+    "check_in": "08:15:00",
+    "check_out": "17:00:00",
+    "status": "present"
+  },
+  "644": {
+    "id": "644",
+    "employee_id": "37",
+    "date": "2025-09-15",
+    "check_in": "08:46:00",
+    "check_out": "13:15:00",
+    "status": "half-day"
+  },
+  "645": {
+    "id": "645",
+    "employee_id": "37",
+    "date": "2025-09-23",
+    "check_in": "08:02:00",
+    "check_out": "18:35:00",
+    "status": "present"
+  },
+  "646": {
+    "id": "646",
+    "employee_id": "37",
+    "date": "2025-09-09",
+    "check_in": "09:22:00",
+    "check_out": "18:11:00",
+    "status": "present"
+  },
+  "647": {
+    "id": "647",
+    "employee_id": "37",
+    "date": "2025-09-25",
+    "check_in": "08:01:00",
+    "check_out": "18:25:00",
+    "status": "present"
+  },
+  "648": {
+    "id": "648",
+    "employee_id": "37",
+    "date": "2025-09-22",
+    "check_in": "08:33:00",
+    "check_out": "18:21:00",
+    "status": "present"
+  },
+  "649": {
+    "id": "649",
+    "employee_id": "37",
+    "date": "2025-09-13",
+    "check_in": "08:31:00",
+    "check_out": "17:03:00",
+    "status": "present"
+  },
+  "650": {
+    "id": "650",
+    "employee_id": "37",
+    "date": "2025-09-12",
+    "check_in": "09:38:00",
+    "check_out": "18:22:00",
+    "status": "present"
+  },
+  "651": {
+    "id": "651",
+    "employee_id": "37",
+    "date": "2025-09-11",
+    "check_in": "09:43:00",
+    "check_out": "18:29:00",
+    "status": "present"
+  },
+  "652": {
+    "id": "652",
+    "employee_id": "37",
+    "date": "2025-09-19",
+    "check_in": "08:10:00",
+    "check_out": "18:50:00",
+    "status": "present"
+  },
+  "653": {
+    "id": "653",
+    "employee_id": "37",
+    "date": "2025-08-28",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "654": {
+    "id": "654",
+    "employee_id": "37",
+    "date": "2025-09-12",
+    "check_in": "08:41:00",
+    "check_out": "18:36:00",
+    "status": "present"
+  },
+  "655": {
+    "id": "655",
+    "employee_id": "37",
+    "date": "2025-09-02",
+    "check_in": "08:40:00",
+    "check_out": "18:56:00",
+    "status": "present"
+  },
+  "656": {
+    "id": "656",
+    "employee_id": "37",
+    "date": "2025-09-20",
+    "check_in": "08:44:00",
+    "check_out": "18:16:00",
+    "status": "present"
+  },
+  "657": {
+    "id": "657",
+    "employee_id": "37",
+    "date": "2025-09-21",
+    "check_in": "08:58:00",
+    "check_out": "17:59:00",
+    "status": "present"
+  },
+  "658": {
+    "id": "658",
+    "employee_id": "37",
+    "date": "2025-09-12",
+    "check_in": "09:24:00",
+    "check_out": "17:13:00",
+    "status": "present"
+  },
+  "659": {
+    "id": "659",
+    "employee_id": "37",
+    "date": "2025-08-30",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "660": {
+    "id": "660",
+    "employee_id": "37",
+    "date": "2025-09-18",
+    "check_in": "08:52:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "661": {
+    "id": "661",
+    "employee_id": "38",
+    "date": "2025-09-22",
+    "check_in": "09:00:00",
+    "check_out": "18:28:00",
+    "status": "present"
+  },
+  "662": {
+    "id": "662",
+    "employee_id": "38",
+    "date": "2025-09-11",
+    "check_in": "09:10:00",
+    "check_out": "17:10:00",
+    "status": "present"
+  },
+  "663": {
+    "id": "663",
+    "employee_id": "38",
+    "date": "2025-09-21",
+    "check_in": "09:25:00",
+    "check_out": "17:07:00",
+    "status": "present"
+  },
+  "664": {
+    "id": "664",
+    "employee_id": "38",
+    "date": "2025-09-06",
+    "check_in": "08:17:00",
+    "check_out": "17:39:00",
+    "status": "present"
+  },
+  "665": {
+    "id": "665",
+    "employee_id": "38",
+    "date": "2025-09-07",
+    "check_in": "08:09:00",
+    "check_out": "17:38:00",
+    "status": "present"
+  },
+  "666": {
+    "id": "666",
+    "employee_id": "38",
+    "date": "2025-09-10",
+    "check_in": "09:13:00",
+    "check_out": "17:36:00",
+    "status": "present"
+  },
+  "667": {
+    "id": "667",
+    "employee_id": "38",
+    "date": "2025-09-19",
+    "check_in": "09:15:00",
+    "check_out": "17:06:00",
+    "status": "present"
+  },
+  "668": {
+    "id": "668",
+    "employee_id": "38",
+    "date": "2025-09-18",
+    "check_in": "08:23:00",
+    "check_out": "18:56:00",
+    "status": "present"
+  },
+  "669": {
+    "id": "669",
+    "employee_id": "38",
+    "date": "2025-09-25",
+    "check_in": "08:19:00",
+    "check_out": "18:01:00",
+    "status": "present"
+  },
+  "670": {
+    "id": "670",
+    "employee_id": "38",
+    "date": "2025-09-11",
+    "check_in": "08:10:00",
+    "check_out": "18:14:00",
+    "status": "present"
+  },
+  "671": {
+    "id": "671",
+    "employee_id": "38",
+    "date": "2025-09-24",
+    "check_in": "09:32:00",
+    "check_out": "18:34:00",
+    "status": "present"
+  },
+  "672": {
+    "id": "672",
+    "employee_id": "38",
+    "date": "2025-09-13",
+    "check_in": "08:52:00",
+    "check_out": "17:40:00",
+    "status": "present"
+  },
+  "673": {
+    "id": "673",
+    "employee_id": "38",
+    "date": "2025-08-27",
+    "check_in": "08:41:00",
+    "check_out": "18:25:00",
+    "status": "present"
+  },
+  "674": {
+    "id": "674",
+    "employee_id": "38",
+    "date": "2025-09-24",
+    "check_in": "08:21:00",
+    "check_out": "17:11:00",
+    "status": "present"
+  },
+  "675": {
+    "id": "675",
+    "employee_id": "38",
+    "date": "2025-09-22",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "676": {
+    "id": "676",
+    "employee_id": "38",
+    "date": "2025-09-03",
+    "check_in": "09:19:00",
+    "check_out": "18:42:00",
+    "status": "present"
+  },
+  "677": {
+    "id": "677",
+    "employee_id": "38",
+    "date": "2025-09-03",
+    "check_in": "08:20:00",
+    "check_out": "17:40:00",
+    "status": "present"
+  },
+  "678": {
+    "id": "678",
+    "employee_id": "38",
+    "date": "2025-09-06",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "679": {
+    "id": "679",
+    "employee_id": "38",
+    "date": "2025-09-03",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "680": {
+    "id": "680",
+    "employee_id": "38",
+    "date": "2025-09-08",
+    "check_in": "08:45:00",
+    "check_out": "17:51:00",
+    "status": "present"
+  },
+  "681": {
+    "id": "681",
+    "employee_id": "38",
+    "date": "2025-08-30",
+    "check_in": "09:54:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "682": {
+    "id": "682",
+    "employee_id": "38",
+    "date": "2025-08-30",
+    "check_in": "08:05:00",
+    "check_out": "18:08:00",
+    "status": "present"
+  },
+  "683": {
+    "id": "683",
+    "employee_id": "38",
+    "date": "2025-09-04",
+    "check_in": "09:54:00",
+    "check_out": "17:54:00",
+    "status": "present"
+  },
+  "684": {
+    "id": "684",
+    "employee_id": "38",
+    "date": "2025-09-19",
+    "check_in": "08:51:00",
+    "check_out": "18:13:00",
+    "status": "present"
+  },
+  "685": {
+    "id": "685",
+    "employee_id": "38",
+    "date": "2025-09-04",
+    "check_in": "09:36:00",
+    "check_out": "18:51:00",
+    "status": "present"
+  },
+  "686": {
+    "id": "686",
+    "employee_id": "38",
+    "date": "2025-09-18",
+    "check_in": "09:57:00",
+    "check_out": "18:32:00",
+    "status": "present"
+  },
+  "687": {
+    "id": "687",
+    "employee_id": "38",
+    "date": "2025-09-08",
+    "check_in": "08:56:00",
+    "check_out": "18:42:00",
+    "status": "present"
+  },
+  "688": {
+    "id": "688",
+    "employee_id": "38",
+    "date": "2025-09-23",
+    "check_in": "08:55:00",
+    "check_out": "18:43:00",
+    "status": "present"
+  },
+  "689": {
+    "id": "689",
+    "employee_id": "38",
+    "date": "2025-09-06",
+    "check_in": "09:15:00",
+    "check_out": "18:14:00",
+    "status": "present"
+  },
+  "690": {
+    "id": "690",
+    "employee_id": "38",
+    "date": "2025-09-02",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "691": {
+    "id": "691",
+    "employee_id": "39",
+    "date": "2025-09-19",
+    "check_in": "09:39:00",
+    "check_out": "17:40:00",
+    "status": "present"
+  },
+  "692": {
+    "id": "692",
+    "employee_id": "39",
+    "date": "2025-09-14",
+    "check_in": "09:59:00",
+    "check_out": "18:24:00",
+    "status": "present"
+  },
+  "693": {
+    "id": "693",
+    "employee_id": "39",
+    "date": "2025-09-18",
+    "check_in": "09:47:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "694": {
+    "id": "694",
+    "employee_id": "39",
+    "date": "2025-09-18",
+    "check_in": "08:59:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "695": {
+    "id": "695",
+    "employee_id": "39",
+    "date": "2025-09-04",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "696": {
+    "id": "696",
+    "employee_id": "39",
+    "date": "2025-09-05",
+    "check_in": "08:21:00",
+    "check_out": "18:24:00",
+    "status": "present"
+  },
+  "697": {
+    "id": "697",
+    "employee_id": "39",
+    "date": "2025-09-10",
+    "check_in": "08:36:00",
+    "check_out": "17:39:00",
+    "status": "present"
+  },
+  "698": {
+    "id": "698",
+    "employee_id": "39",
+    "date": "2025-09-15",
+    "check_in": "09:56:00",
+    "check_out": "13:21:00",
+    "status": "half-day"
+  },
+  "699": {
+    "id": "699",
+    "employee_id": "39",
+    "date": "2025-09-19",
+    "check_in": "08:33:00",
+    "check_out": "18:39:00",
+    "status": "present"
+  },
+  "700": {
+    "id": "700",
+    "employee_id": "39",
+    "date": "2025-09-10",
+    "check_in": "08:32:00",
+    "check_out": "18:53:00",
+    "status": "present"
+  },
+  "701": {
+    "id": "701",
+    "employee_id": "39",
+    "date": "2025-09-01",
+    "check_in": "08:09:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "702": {
+    "id": "702",
+    "employee_id": "39",
+    "date": "2025-09-24",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "703": {
+    "id": "703",
+    "employee_id": "39",
+    "date": "2025-09-08",
+    "check_in": "08:51:00",
+    "check_out": "17:33:00",
+    "status": "present"
+  },
+  "704": {
+    "id": "704",
+    "employee_id": "39",
+    "date": "2025-09-19",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "705": {
+    "id": "705",
+    "employee_id": "39",
+    "date": "2025-09-07",
+    "check_in": "08:51:00",
+    "check_out": "17:03:00",
+    "status": "present"
+  },
+  "706": {
+    "id": "706",
+    "employee_id": "39",
+    "date": "2025-09-17",
+    "check_in": "08:35:00",
+    "check_out": "17:22:00",
+    "status": "present"
+  },
+  "707": {
+    "id": "707",
+    "employee_id": "39",
+    "date": "2025-09-09",
+    "check_in": "09:32:00",
+    "check_out": "18:18:00",
+    "status": "present"
+  },
+  "708": {
+    "id": "708",
+    "employee_id": "39",
+    "date": "2025-09-24",
+    "check_in": "08:00:00",
+    "check_out": "18:26:00",
+    "status": "present"
+  },
+  "709": {
+    "id": "709",
+    "employee_id": "39",
+    "date": "2025-09-01",
+    "check_in": "09:31:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "710": {
+    "id": "710",
+    "employee_id": "39",
+    "date": "2025-08-30",
+    "check_in": "09:14:00",
+    "check_out": "17:17:00",
+    "status": "present"
+  },
+  "711": {
+    "id": "711",
+    "employee_id": "39",
+    "date": "2025-09-23",
+    "check_in": "08:15:00",
+    "check_out": "18:03:00",
+    "status": "present"
+  },
+  "712": {
+    "id": "712",
+    "employee_id": "39",
+    "date": "2025-08-30",
+    "check_in": "09:09:00",
+    "check_out": "18:39:00",
+    "status": "present"
+  },
+  "713": {
+    "id": "713",
+    "employee_id": "39",
+    "date": "2025-09-17",
+    "check_in": "08:04:00",
+    "check_out": "18:00:00",
+    "status": "present"
+  },
+  "714": {
+    "id": "714",
+    "employee_id": "39",
+    "date": "2025-08-30",
+    "check_in": "08:42:00",
+    "check_out": "18:55:00",
+    "status": "present"
+  },
+  "715": {
+    "id": "715",
+    "employee_id": "39",
+    "date": "2025-09-02",
+    "check_in": "09:28:00",
+    "check_out": "13:08:00",
+    "status": "half-day"
+  },
+  "716": {
+    "id": "716",
+    "employee_id": "39",
+    "date": "2025-09-21",
+    "check_in": "08:45:00",
+    "check_out": "18:45:00",
+    "status": "present"
+  },
+  "717": {
+    "id": "717",
+    "employee_id": "39",
+    "date": "2025-09-19",
+    "check_in": "08:35:00",
+    "check_out": "17:08:00",
+    "status": "present"
+  },
+  "718": {
+    "id": "718",
+    "employee_id": "39",
+    "date": "2025-09-11",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "719": {
+    "id": "719",
+    "employee_id": "39",
+    "date": "2025-09-16",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "720": {
+    "id": "720",
+    "employee_id": "39",
+    "date": "2025-09-09",
+    "check_in": "09:33:00",
+    "check_out": "18:58:00",
+    "status": "present"
+  },
+  "721": {
+    "id": "721",
+    "employee_id": "40",
+    "date": "2025-09-04",
+    "check_in": "08:48:00",
+    "check_out": "18:27:00",
+    "status": "present"
+  },
+  "722": {
+    "id": "722",
+    "employee_id": "40",
+    "date": "2025-08-29",
+    "check_in": "08:06:00",
+    "check_out": "18:50:00",
+    "status": "present"
+  },
+  "723": {
+    "id": "723",
+    "employee_id": "40",
+    "date": "2025-09-02",
+    "check_in": "08:10:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "724": {
+    "id": "724",
+    "employee_id": "40",
+    "date": "2025-09-24",
+    "check_in": "08:55:00",
+    "check_out": "18:53:00",
+    "status": "present"
+  },
+  "725": {
+    "id": "725",
+    "employee_id": "40",
+    "date": "2025-09-21",
+    "check_in": "08:07:00",
+    "check_out": "17:11:00",
+    "status": "present"
+  },
+  "726": {
+    "id": "726",
+    "employee_id": "40",
+    "date": "2025-08-31",
+    "check_in": "08:18:00",
+    "check_out": "18:43:00",
+    "status": "present"
+  },
+  "727": {
+    "id": "727",
+    "employee_id": "40",
+    "date": "2025-09-06",
+    "check_in": "09:29:00",
+    "check_out": "18:48:00",
+    "status": "present"
+  },
+  "728": {
+    "id": "728",
+    "employee_id": "40",
+    "date": "2025-09-24",
+    "check_in": "09:50:00",
+    "check_out": "13:12:00",
+    "status": "half-day"
+  },
+  "729": {
+    "id": "729",
+    "employee_id": "40",
+    "date": "2025-09-23",
+    "check_in": "09:54:00",
+    "check_out": "18:19:00",
+    "status": "present"
+  },
+  "730": {
+    "id": "730",
+    "employee_id": "40",
+    "date": "2025-09-20",
+    "check_in": "09:25:00",
+    "check_out": "17:57:00",
+    "status": "present"
+  },
+  "731": {
+    "id": "731",
+    "employee_id": "40",
+    "date": "2025-08-29",
+    "check_in": "09:46:00",
+    "check_out": "18:57:00",
+    "status": "present"
+  },
+  "732": {
+    "id": "732",
+    "employee_id": "40",
+    "date": "2025-09-18",
+    "check_in": "09:13:00",
+    "check_out": "18:10:00",
+    "status": "present"
+  },
+  "733": {
+    "id": "733",
+    "employee_id": "40",
+    "date": "2025-09-07",
+    "check_in": "09:46:00",
+    "check_out": "17:52:00",
+    "status": "present"
+  },
+  "734": {
+    "id": "734",
+    "employee_id": "40",
+    "date": "2025-08-29",
+    "check_in": "09:04:00",
+    "check_out": "18:03:00",
+    "status": "present"
+  },
+  "735": {
+    "id": "735",
+    "employee_id": "40",
+    "date": "2025-09-20",
+    "check_in": "09:28:00",
+    "check_out": "17:33:00",
+    "status": "present"
+  },
+  "736": {
+    "id": "736",
+    "employee_id": "40",
+    "date": "2025-08-30",
+    "check_in": "08:00:00",
+    "check_out": "18:24:00",
+    "status": "present"
+  },
+  "737": {
+    "id": "737",
+    "employee_id": "40",
+    "date": "2025-09-10",
+    "check_in": "08:09:00",
+    "check_out": "17:45:00",
+    "status": "present"
+  },
+  "738": {
+    "id": "738",
+    "employee_id": "40",
+    "date": "2025-09-23",
+    "check_in": "08:24:00",
+    "check_out": "18:05:00",
+    "status": "present"
+  },
+  "739": {
+    "id": "739",
+    "employee_id": "40",
+    "date": "2025-09-09",
+    "check_in": "09:20:00",
+    "check_out": "17:22:00",
+    "status": "present"
+  },
+  "740": {
+    "id": "740",
+    "employee_id": "40",
+    "date": "2025-09-17",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "741": {
+    "id": "741",
+    "employee_id": "40",
+    "date": "2025-08-30",
+    "check_in": "09:54:00",
+    "check_out": "17:41:00",
+    "status": "present"
+  },
+  "742": {
+    "id": "742",
+    "employee_id": "40",
+    "date": "2025-09-03",
+    "check_in": "08:29:00",
+    "check_out": "17:32:00",
+    "status": "present"
+  },
+  "743": {
+    "id": "743",
+    "employee_id": "40",
+    "date": "2025-08-27",
+    "check_in": "08:40:00",
+    "check_out": "17:12:00",
+    "status": "present"
+  },
+  "744": {
+    "id": "744",
+    "employee_id": "40",
+    "date": "2025-09-01",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "745": {
+    "id": "745",
+    "employee_id": "40",
+    "date": "2025-09-15",
+    "check_in": "09:28:00",
+    "check_out": "18:09:00",
+    "status": "present"
+  },
+  "746": {
+    "id": "746",
+    "employee_id": "40",
+    "date": "2025-09-07",
+    "check_in": "09:37:00",
+    "check_out": "17:51:00",
+    "status": "present"
+  },
+  "747": {
+    "id": "747",
+    "employee_id": "40",
+    "date": "2025-08-27",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "748": {
+    "id": "748",
+    "employee_id": "40",
+    "date": "2025-09-09",
+    "check_in": "09:09:00",
+    "check_out": "17:25:00",
+    "status": "present"
+  },
+  "749": {
+    "id": "749",
+    "employee_id": "40",
+    "date": "2025-08-31",
+    "check_in": "09:06:00",
+    "check_out": "18:10:00",
+    "status": "present"
+  },
+  "750": {
+    "id": "750",
+    "employee_id": "40",
+    "date": "2025-09-10",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "751": {
+    "id": "751",
+    "employee_id": "41",
+    "date": "2025-09-02",
+    "check_in": "08:37:00",
+    "check_out": "13:06:00",
+    "status": "half-day"
+  },
+  "752": {
+    "id": "752",
+    "employee_id": "41",
+    "date": "2025-09-22",
+    "check_in": "08:43:00",
+    "check_out": "18:04:00",
+    "status": "present"
+  },
+  "753": {
+    "id": "753",
+    "employee_id": "41",
+    "date": "2025-08-27",
+    "check_in": "09:15:00",
+    "check_out": "18:46:00",
+    "status": "present"
+  },
+  "754": {
+    "id": "754",
+    "employee_id": "41",
+    "date": "2025-09-09",
+    "check_in": "09:54:00",
+    "check_out": "18:00:00",
+    "status": "present"
+  },
+  "755": {
+    "id": "755",
+    "employee_id": "41",
+    "date": "2025-09-18",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "756": {
+    "id": "756",
+    "employee_id": "41",
+    "date": "2025-09-16",
+    "check_in": "08:33:00",
+    "check_out": "17:18:00",
+    "status": "present"
+  },
+  "757": {
+    "id": "757",
+    "employee_id": "41",
+    "date": "2025-08-27",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "758": {
+    "id": "758",
+    "employee_id": "41",
+    "date": "2025-09-10",
+    "check_in": "08:42:00",
+    "check_out": "17:28:00",
+    "status": "present"
+  },
+  "759": {
+    "id": "759",
+    "employee_id": "41",
+    "date": "2025-09-19",
+    "check_in": "08:51:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "760": {
+    "id": "760",
+    "employee_id": "41",
+    "date": "2025-08-31",
+    "check_in": "08:26:00",
+    "check_out": "18:52:00",
+    "status": "present"
+  },
+  "761": {
+    "id": "761",
+    "employee_id": "41",
+    "date": "2025-09-20",
+    "check_in": "09:57:00",
+    "check_out": "17:32:00",
+    "status": "present"
+  },
+  "762": {
+    "id": "762",
+    "employee_id": "41",
+    "date": "2025-09-13",
+    "check_in": "09:49:00",
+    "check_out": "17:04:00",
+    "status": "present"
+  },
+  "763": {
+    "id": "763",
+    "employee_id": "41",
+    "date": "2025-08-29",
+    "check_in": "08:10:00",
+    "check_out": "18:22:00",
+    "status": "present"
+  },
+  "764": {
+    "id": "764",
+    "employee_id": "41",
+    "date": "2025-08-28",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "765": {
+    "id": "765",
+    "employee_id": "41",
+    "date": "2025-09-02",
+    "check_in": "09:32:00",
+    "check_out": "18:45:00",
+    "status": "present"
+  },
+  "766": {
+    "id": "766",
+    "employee_id": "41",
+    "date": "2025-09-19",
+    "check_in": "08:15:00",
+    "check_out": "17:29:00",
+    "status": "present"
+  },
+  "767": {
+    "id": "767",
+    "employee_id": "41",
+    "date": "2025-09-09",
+    "check_in": "09:44:00",
+    "check_out": "18:55:00",
+    "status": "present"
+  },
+  "768": {
+    "id": "768",
+    "employee_id": "41",
+    "date": "2025-09-23",
+    "check_in": "09:55:00",
+    "check_out": "18:53:00",
+    "status": "present"
+  },
+  "769": {
+    "id": "769",
+    "employee_id": "41",
+    "date": "2025-09-04",
+    "check_in": "08:48:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "770": {
+    "id": "770",
+    "employee_id": "41",
+    "date": "2025-09-03",
+    "check_in": "08:17:00",
+    "check_out": "18:27:00",
+    "status": "present"
+  },
+  "771": {
+    "id": "771",
+    "employee_id": "41",
+    "date": "2025-09-10",
+    "check_in": "08:55:00",
+    "check_out": "17:54:00",
+    "status": "present"
+  },
+  "772": {
+    "id": "772",
+    "employee_id": "41",
+    "date": "2025-09-13",
+    "check_in": "08:06:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "773": {
+    "id": "773",
+    "employee_id": "41",
+    "date": "2025-09-01",
+    "check_in": "08:05:00",
+    "check_out": "18:34:00",
+    "status": "present"
+  },
+  "774": {
+    "id": "774",
+    "employee_id": "41",
+    "date": "2025-09-17",
+    "check_in": "08:27:00",
+    "check_out": "18:26:00",
+    "status": "present"
+  },
+  "775": {
+    "id": "775",
+    "employee_id": "41",
+    "date": "2025-09-24",
+    "check_in": "09:58:00",
+    "check_out": "17:18:00",
+    "status": "present"
+  },
+  "776": {
+    "id": "776",
+    "employee_id": "41",
+    "date": "2025-08-30",
+    "check_in": "09:14:00",
+    "check_out": "13:43:00",
+    "status": "half-day"
+  },
+  "777": {
+    "id": "777",
+    "employee_id": "41",
+    "date": "2025-09-10",
+    "check_in": "09:46:00",
+    "check_out": "18:03:00",
+    "status": "present"
+  },
+  "778": {
+    "id": "778",
+    "employee_id": "41",
+    "date": "2025-09-19",
+    "check_in": "09:49:00",
+    "check_out": "13:38:00",
+    "status": "half-day"
+  },
+  "779": {
+    "id": "779",
+    "employee_id": "41",
+    "date": "2025-09-01",
+    "check_in": "08:15:00",
+    "check_out": "17:08:00",
+    "status": "present"
+  },
+  "780": {
+    "id": "780",
+    "employee_id": "41",
+    "date": "2025-09-02",
+    "check_in": "08:59:00",
+    "check_out": "17:16:00",
+    "status": "present"
+  },
+  "781": {
+    "id": "781",
+    "employee_id": "42",
+    "date": "2025-09-01",
+    "check_in": "08:32:00",
+    "check_out": "17:04:00",
+    "status": "present"
+  },
+  "782": {
+    "id": "782",
+    "employee_id": "42",
+    "date": "2025-08-28",
+    "check_in": "09:17:00",
+    "check_out": "18:23:00",
+    "status": "present"
+  },
+  "783": {
+    "id": "783",
+    "employee_id": "42",
+    "date": "2025-08-28",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "784": {
+    "id": "784",
+    "employee_id": "42",
+    "date": "2025-09-11",
+    "check_in": "08:12:00",
+    "check_out": "18:56:00",
+    "status": "present"
+  },
+  "785": {
+    "id": "785",
+    "employee_id": "42",
+    "date": "2025-09-13",
+    "check_in": "09:57:00",
+    "check_out": "18:10:00",
+    "status": "present"
+  },
+  "786": {
+    "id": "786",
+    "employee_id": "42",
+    "date": "2025-09-10",
+    "check_in": "09:15:00",
+    "check_out": "17:33:00",
+    "status": "present"
+  },
+  "787": {
+    "id": "787",
+    "employee_id": "42",
+    "date": "2025-09-08",
+    "check_in": "08:28:00",
+    "check_out": "17:09:00",
+    "status": "present"
+  },
+  "788": {
+    "id": "788",
+    "employee_id": "42",
+    "date": "2025-09-19",
+    "check_in": "09:13:00",
+    "check_out": "17:14:00",
+    "status": "present"
+  },
+  "789": {
+    "id": "789",
+    "employee_id": "42",
+    "date": "2025-09-05",
+    "check_in": "08:40:00",
+    "check_out": "17:24:00",
+    "status": "present"
+  },
+  "790": {
+    "id": "790",
+    "employee_id": "42",
+    "date": "2025-08-31",
+    "check_in": "09:16:00",
+    "check_out": "17:29:00",
+    "status": "present"
+  },
+  "791": {
+    "id": "791",
+    "employee_id": "42",
+    "date": "2025-09-02",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "792": {
+    "id": "792",
+    "employee_id": "42",
+    "date": "2025-08-29",
+    "check_in": "08:47:00",
+    "check_out": "17:41:00",
+    "status": "present"
+  },
+  "793": {
+    "id": "793",
+    "employee_id": "42",
+    "date": "2025-09-19",
+    "check_in": "09:54:00",
+    "check_out": "17:15:00",
+    "status": "present"
+  },
+  "794": {
+    "id": "794",
+    "employee_id": "42",
+    "date": "2025-09-11",
+    "check_in": "08:13:00",
+    "check_out": "18:15:00",
+    "status": "present"
+  },
+  "795": {
+    "id": "795",
+    "employee_id": "42",
+    "date": "2025-08-28",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "796": {
+    "id": "796",
+    "employee_id": "42",
+    "date": "2025-08-30",
+    "check_in": "08:32:00",
+    "check_out": "17:23:00",
+    "status": "present"
+  },
+  "797": {
+    "id": "797",
+    "employee_id": "42",
+    "date": "2025-09-08",
+    "check_in": "08:48:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "798": {
+    "id": "798",
+    "employee_id": "42",
+    "date": "2025-08-29",
+    "check_in": "09:30:00",
+    "check_out": "17:33:00",
+    "status": "present"
+  },
+  "799": {
+    "id": "799",
+    "employee_id": "42",
+    "date": "2025-08-29",
+    "check_in": "08:22:00",
+    "check_out": "18:17:00",
+    "status": "present"
+  },
+  "800": {
+    "id": "800",
+    "employee_id": "42",
+    "date": "2025-09-18",
+    "check_in": "08:03:00",
+    "check_out": "17:00:00",
+    "status": "present"
+  },
+  "801": {
+    "id": "801",
+    "employee_id": "42",
+    "date": "2025-09-19",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "802": {
+    "id": "802",
+    "employee_id": "42",
+    "date": "2025-09-04",
+    "check_in": "09:48:00",
+    "check_out": "13:31:00",
+    "status": "half-day"
+  },
+  "803": {
+    "id": "803",
+    "employee_id": "42",
+    "date": "2025-09-08",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "804": {
+    "id": "804",
+    "employee_id": "42",
+    "date": "2025-08-30",
+    "check_in": "09:04:00",
+    "check_out": "13:48:00",
+    "status": "half-day"
+  },
+  "805": {
+    "id": "805",
+    "employee_id": "42",
+    "date": "2025-09-12",
+    "check_in": "08:57:00",
+    "check_out": "17:13:00",
+    "status": "present"
+  },
+  "806": {
+    "id": "806",
+    "employee_id": "42",
+    "date": "2025-09-21",
+    "check_in": "08:14:00",
+    "check_out": "18:13:00",
+    "status": "present"
+  },
+  "807": {
+    "id": "807",
+    "employee_id": "42",
+    "date": "2025-08-30",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "808": {
+    "id": "808",
+    "employee_id": "42",
+    "date": "2025-09-24",
+    "check_in": "08:12:00",
+    "check_out": "17:34:00",
+    "status": "present"
+  },
+  "809": {
+    "id": "809",
+    "employee_id": "42",
+    "date": "2025-09-01",
+    "check_in": "09:58:00",
+    "check_out": "18:16:00",
+    "status": "present"
+  },
+  "810": {
+    "id": "810",
+    "employee_id": "42",
+    "date": "2025-09-11",
+    "check_in": "09:41:00",
+    "check_out": "18:20:00",
+    "status": "present"
+  },
+  "811": {
+    "id": "811",
+    "employee_id": "45",
+    "date": "2025-09-19",
+    "check_in": "08:29:00",
+    "check_out": "17:10:00",
+    "status": "present"
+  },
+  "812": {
+    "id": "812",
+    "employee_id": "45",
+    "date": "2025-09-05",
+    "check_in": "09:10:00",
+    "check_out": "18:20:00",
+    "status": "present"
+  },
+  "813": {
+    "id": "813",
+    "employee_id": "45",
+    "date": "2025-09-15",
+    "check_in": "08:27:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "814": {
+    "id": "814",
+    "employee_id": "45",
+    "date": "2025-09-05",
+    "check_in": "08:30:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "815": {
+    "id": "815",
+    "employee_id": "45",
+    "date": "2025-09-11",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "816": {
+    "id": "816",
+    "employee_id": "45",
+    "date": "2025-08-30",
+    "check_in": "09:08:00",
+    "check_out": "13:13:00",
+    "status": "half-day"
+  },
+  "817": {
+    "id": "817",
+    "employee_id": "45",
+    "date": "2025-09-03",
+    "check_in": "08:51:00",
+    "check_out": "18:44:00",
+    "status": "present"
+  },
+  "818": {
+    "id": "818",
+    "employee_id": "45",
+    "date": "2025-09-18",
+    "check_in": "08:16:00",
+    "check_out": "17:45:00",
+    "status": "present"
+  },
+  "819": {
+    "id": "819",
+    "employee_id": "45",
+    "date": "2025-09-05",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "820": {
+    "id": "820",
+    "employee_id": "45",
+    "date": "2025-09-08",
+    "check_in": "08:35:00",
+    "check_out": "18:34:00",
+    "status": "present"
+  },
+  "821": {
+    "id": "821",
+    "employee_id": "45",
+    "date": "2025-09-25",
+    "check_in": "09:28:00",
+    "check_out": "18:19:00",
+    "status": "present"
+  },
+  "822": {
+    "id": "822",
+    "employee_id": "45",
+    "date": "2025-09-05",
+    "check_in": "09:45:00",
+    "check_out": "17:45:00",
+    "status": "present"
+  },
+  "823": {
+    "id": "823",
+    "employee_id": "45",
+    "date": "2025-09-01",
+    "check_in": "09:53:00",
+    "check_out": "18:20:00",
+    "status": "present"
+  },
+  "824": {
+    "id": "824",
+    "employee_id": "45",
+    "date": "2025-09-21",
+    "check_in": "08:56:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "825": {
+    "id": "825",
+    "employee_id": "45",
+    "date": "2025-09-04",
+    "check_in": "09:25:00",
+    "check_out": "17:25:00",
+    "status": "present"
+  },
+  "826": {
+    "id": "826",
+    "employee_id": "45",
+    "date": "2025-09-13",
+    "check_in": "09:21:00",
+    "check_out": "18:29:00",
+    "status": "present"
+  },
+  "827": {
+    "id": "827",
+    "employee_id": "45",
+    "date": "2025-09-03",
+    "check_in": "09:00:00",
+    "check_out": "17:56:00",
+    "status": "present"
+  },
+  "828": {
+    "id": "828",
+    "employee_id": "45",
+    "date": "2025-09-08",
+    "check_in": "09:04:00",
+    "check_out": "18:22:00",
+    "status": "present"
+  },
+  "829": {
+    "id": "829",
+    "employee_id": "45",
+    "date": "2025-09-14",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "830": {
+    "id": "830",
+    "employee_id": "45",
+    "date": "2025-09-15",
+    "check_in": "08:59:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "831": {
+    "id": "831",
+    "employee_id": "45",
+    "date": "2025-09-08",
+    "check_in": "08:22:00",
+    "check_out": "18:29:00",
+    "status": "present"
+  },
+  "832": {
+    "id": "832",
+    "employee_id": "45",
+    "date": "2025-09-25",
+    "check_in": "08:58:00",
+    "check_out": "18:36:00",
+    "status": "present"
+  },
+  "833": {
+    "id": "833",
+    "employee_id": "45",
+    "date": "2025-09-07",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "834": {
+    "id": "834",
+    "employee_id": "45",
+    "date": "2025-09-04",
+    "check_in": null,
+    "check_out": null,
+    "status": "leave"
+  },
+  "835": {
+    "id": "835",
+    "employee_id": "45",
+    "date": "2025-09-23",
+    "check_in": "08:55:00",
+    "check_out": "18:55:00",
+    "status": "present"
+  },
+  "836": {
+    "id": "836",
+    "employee_id": "45",
+    "date": "2025-08-27",
+    "check_in": "08:19:00",
+    "check_out": "17:35:00",
+    "status": "present"
+  },
+  "837": {
+    "id": "837",
+    "employee_id": "45",
+    "date": "2025-09-10",
+    "check_in": "09:21:00",
+    "check_out": "18:30:00",
+    "status": "present"
+  },
+  "838": {
+    "id": "838",
+    "employee_id": "45",
+    "date": "2025-09-24",
+    "check_in": "09:30:00",
+    "check_out": "17:01:00",
+    "status": "present"
+  },
+  "839": {
+    "id": "839",
+    "employee_id": "45",
+    "date": "2025-09-24",
+    "check_in": "08:12:00",
+    "check_out": "17:50:00",
+    "status": "present"
+  },
+  "840": {
+    "id": "840",
+    "employee_id": "45",
+    "date": "2025-09-18",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "841": {
+    "id": "841",
+    "employee_id": "47",
+    "date": "2025-09-02",
+    "check_in": "09:11:00",
+    "check_out": "17:21:00",
+    "status": "present"
+  },
+  "842": {
+    "id": "842",
+    "employee_id": "47",
+    "date": "2025-09-02",
+    "check_in": "08:59:00",
+    "check_out": "17:12:00",
+    "status": "present"
+  },
+  "843": {
+    "id": "843",
+    "employee_id": "47",
+    "date": "2025-09-24",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "844": {
+    "id": "844",
+    "employee_id": "47",
+    "date": "2025-09-13",
+    "check_in": "08:55:00",
+    "check_out": "13:19:00",
+    "status": "half-day"
+  },
+  "845": {
+    "id": "845",
+    "employee_id": "47",
+    "date": "2025-09-02",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "846": {
+    "id": "846",
+    "employee_id": "47",
+    "date": "2025-08-28",
+    "check_in": "09:20:00",
+    "check_out": "17:44:00",
+    "status": "present"
+  },
+  "847": {
+    "id": "847",
+    "employee_id": "47",
+    "date": "2025-09-22",
+    "check_in": "08:31:00",
+    "check_out": "18:38:00",
+    "status": "present"
+  },
+  "848": {
+    "id": "848",
+    "employee_id": "47",
+    "date": "2025-09-24",
+    "check_in": "09:37:00",
+    "check_out": "17:18:00",
+    "status": "present"
+  },
+  "849": {
+    "id": "849",
+    "employee_id": "47",
+    "date": "2025-09-10",
+    "check_in": "08:03:00",
+    "check_out": "18:41:00",
+    "status": "present"
+  },
+  "850": {
+    "id": "850",
+    "employee_id": "47",
+    "date": "2025-09-13",
+    "check_in": "09:12:00",
+    "check_out": "17:56:00",
+    "status": "present"
+  },
+  "851": {
+    "id": "851",
+    "employee_id": "47",
+    "date": "2025-08-29",
+    "check_in": "09:45:00",
+    "check_out": "18:36:00",
+    "status": "present"
+  },
+  "852": {
+    "id": "852",
+    "employee_id": "47",
+    "date": "2025-09-23",
+    "check_in": "09:54:00",
+    "check_out": "17:23:00",
+    "status": "present"
+  },
+  "853": {
+    "id": "853",
+    "employee_id": "47",
+    "date": "2025-09-17",
+    "check_in": "09:41:00",
+    "check_out": "18:37:00",
+    "status": "present"
+  },
+  "854": {
+    "id": "854",
+    "employee_id": "47",
+    "date": "2025-09-11",
+    "check_in": "08:09:00",
+    "check_out": "18:29:00",
+    "status": "present"
+  },
+  "855": {
+    "id": "855",
+    "employee_id": "47",
+    "date": "2025-09-23",
+    "check_in": "09:13:00",
+    "check_out": "17:10:00",
+    "status": "present"
+  },
+  "856": {
+    "id": "856",
+    "employee_id": "47",
+    "date": "2025-09-10",
+    "check_in": "09:44:00",
+    "check_out": "18:43:00",
+    "status": "present"
+  },
+  "857": {
+    "id": "857",
+    "employee_id": "47",
+    "date": "2025-09-25",
+    "check_in": "09:43:00",
+    "check_out": "18:10:00",
+    "status": "present"
+  },
+  "858": {
+    "id": "858",
+    "employee_id": "47",
+    "date": "2025-09-16",
+    "check_in": "09:40:00",
+    "check_out": "18:11:00",
+    "status": "present"
+  },
+  "859": {
+    "id": "859",
+    "employee_id": "47",
+    "date": "2025-09-04",
+    "check_in": "09:06:00",
+    "check_out": "17:07:00",
+    "status": "present"
+  },
+  "860": {
+    "id": "860",
+    "employee_id": "47",
+    "date": "2025-08-30",
+    "check_in": "08:50:00",
+    "check_out": "18:53:00",
+    "status": "present"
+  },
+  "861": {
+    "id": "861",
+    "employee_id": "47",
+    "date": "2025-09-25",
+    "check_in": "08:48:00",
+    "check_out": "18:41:00",
+    "status": "present"
+  },
+  "862": {
+    "id": "862",
+    "employee_id": "47",
+    "date": "2025-09-17",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "863": {
+    "id": "863",
+    "employee_id": "47",
+    "date": "2025-08-30",
+    "check_in": "09:01:00",
+    "check_out": "18:31:00",
+    "status": "present"
+  },
+  "864": {
+    "id": "864",
+    "employee_id": "47",
+    "date": "2025-08-28",
+    "check_in": "09:39:00",
+    "check_out": "17:55:00",
+    "status": "present"
+  },
+  "865": {
+    "id": "865",
+    "employee_id": "47",
+    "date": "2025-08-31",
+    "check_in": "09:09:00",
+    "check_out": "18:07:00",
+    "status": "present"
+  },
+  "866": {
+    "id": "866",
+    "employee_id": "47",
+    "date": "2025-09-10",
+    "check_in": "09:43:00",
+    "check_out": "18:44:00",
+    "status": "present"
+  },
+  "867": {
+    "id": "867",
+    "employee_id": "47",
+    "date": "2025-09-24",
+    "check_in": "08:40:00",
+    "check_out": "17:17:00",
+    "status": "present"
+  },
+  "868": {
+    "id": "868",
+    "employee_id": "47",
+    "date": "2025-09-03",
+    "check_in": "08:27:00",
+    "check_out": "18:44:00",
+    "status": "present"
+  },
+  "869": {
+    "id": "869",
+    "employee_id": "47",
+    "date": "2025-09-18",
+    "check_in": "09:36:00",
+    "check_out": "17:30:00",
+    "status": "present"
+  },
+  "870": {
+    "id": "870",
+    "employee_id": "47",
+    "date": "2025-09-02",
+    "check_in": "09:49:00",
+    "check_out": "18:24:00",
+    "status": "present"
+  },
+  "871": {
+    "id": "871",
+    "employee_id": "50",
+    "date": "2025-09-23",
+    "check_in": "09:45:00",
+    "check_out": "17:07:00",
+    "status": "present"
+  },
+  "872": {
+    "id": "872",
+    "employee_id": "50",
+    "date": "2025-09-06",
+    "check_in": "09:57:00",
+    "check_out": "18:07:00",
+    "status": "present"
+  },
+  "873": {
+    "id": "873",
+    "employee_id": "50",
+    "date": "2025-09-06",
+    "check_in": "08:00:00",
+    "check_out": "17:49:00",
+    "status": "present"
+  },
+  "874": {
+    "id": "874",
+    "employee_id": "50",
+    "date": "2025-09-07",
+    "check_in": "09:50:00",
+    "check_out": "18:46:00",
+    "status": "present"
+  },
+  "875": {
+    "id": "875",
+    "employee_id": "50",
+    "date": "2025-09-04",
+    "check_in": "08:25:00",
+    "check_out": "17:08:00",
+    "status": "present"
+  },
+  "876": {
+    "id": "876",
+    "employee_id": "50",
+    "date": "2025-09-08",
+    "check_in": "09:48:00",
+    "check_out": "17:28:00",
+    "status": "present"
+  },
+  "877": {
+    "id": "877",
+    "employee_id": "50",
+    "date": "2025-09-09",
+    "check_in": "08:25:00",
+    "check_out": "17:20:00",
+    "status": "present"
+  },
+  "878": {
+    "id": "878",
+    "employee_id": "50",
+    "date": "2025-09-18",
+    "check_in": "08:06:00",
+    "check_out": "17:43:00",
+    "status": "present"
+  },
+  "879": {
+    "id": "879",
+    "employee_id": "50",
+    "date": "2025-09-02",
+    "check_in": "08:48:00",
+    "check_out": "17:41:00",
+    "status": "present"
+  },
+  "880": {
+    "id": "880",
+    "employee_id": "50",
+    "date": "2025-09-24",
+    "check_in": "08:04:00",
+    "check_out": "18:17:00",
+    "status": "present"
+  },
+  "881": {
+    "id": "881",
+    "employee_id": "50",
+    "date": "2025-09-18",
+    "check_in": "08:37:00",
+    "check_out": "17:02:00",
+    "status": "present"
+  },
+  "882": {
+    "id": "882",
+    "employee_id": "50",
+    "date": "2025-09-09",
+    "check_in": "08:22:00",
+    "check_out": "18:47:00",
+    "status": "present"
+  },
+  "883": {
+    "id": "883",
+    "employee_id": "50",
+    "date": "2025-09-12",
+    "check_in": "08:22:00",
+    "check_out": "17:41:00",
+    "status": "present"
+  },
+  "884": {
+    "id": "884",
+    "employee_id": "50",
+    "date": "2025-09-11",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "885": {
+    "id": "885",
+    "employee_id": "50",
+    "date": "2025-09-15",
+    "check_in": "09:48:00",
+    "check_out": "18:59:00",
+    "status": "present"
+  },
+  "886": {
+    "id": "886",
+    "employee_id": "50",
+    "date": "2025-08-29",
+    "check_in": "08:24:00",
+    "check_out": "18:21:00",
+    "status": "present"
+  },
+  "887": {
+    "id": "887",
+    "employee_id": "50",
+    "date": "2025-09-09",
+    "check_in": "09:35:00",
+    "check_out": "17:39:00",
+    "status": "present"
+  },
+  "888": {
+    "id": "888",
+    "employee_id": "50",
+    "date": "2025-09-07",
+    "check_in": "08:01:00",
+    "check_out": "17:42:00",
+    "status": "present"
+  },
+  "889": {
+    "id": "889",
+    "employee_id": "50",
+    "date": "2025-09-02",
+    "check_in": "08:44:00",
+    "check_out": "18:06:00",
+    "status": "present"
+  },
+  "890": {
+    "id": "890",
+    "employee_id": "50",
+    "date": "2025-09-12",
+    "check_in": "08:42:00",
+    "check_out": "18:44:00",
+    "status": "present"
+  },
+  "891": {
+    "id": "891",
+    "employee_id": "50",
+    "date": "2025-09-01",
+    "check_in": "09:21:00",
+    "check_out": "17:41:00",
+    "status": "present"
+  },
+  "892": {
+    "id": "892",
+    "employee_id": "50",
+    "date": "2025-09-18",
+    "check_in": null,
+    "check_out": null,
+    "status": "absent"
+  },
+  "893": {
+    "id": "893",
+    "employee_id": "50",
+    "date": "2025-09-03",
+    "check_in": "09:59:00",
+    "check_out": "13:41:00",
+    "status": "half-day"
+  },
+  "894": {
+    "id": "894",
+    "employee_id": "50",
+    "date": "2025-09-06",
+    "check_in": "08:58:00",
+    "check_out": "18:39:00",
+    "status": "present"
+  },
+  "895": {
+    "id": "895",
+    "employee_id": "50",
+    "date": "2025-09-13",
+    "check_in": "08:47:00",
+    "check_out": "18:47:00",
+    "status": "present"
+  },
+  "896": {
+    "id": "896",
+    "employee_id": "50",
+    "date": "2025-09-02",
+    "check_in": "08:38:00",
+    "check_out": "17:25:00",
+    "status": "present"
+  },
+  "897": {
+    "id": "897",
+    "employee_id": "50",
+    "date": "2025-08-31",
+    "check_in": "09:11:00",
+    "check_out": "17:15:00",
+    "status": "present"
+  },
+  "898": {
+    "id": "898",
+    "employee_id": "50",
+    "date": "2025-09-17",
+    "check_in": "09:59:00",
+    "check_out": "18:58:00",
+    "status": "present"
+  },
+  "899": {
+    "id": "899",
+    "employee_id": "50",
+    "date": "2025-09-25",
+    "check_in": "09:29:00",
+    "check_out": "17:36:00",
+    "status": "present"
+  },
+  "900": {
+    "id": "900",
+    "employee_id": "50",
+    "date": "2025-09-04",
+    "check_in": "09:43:00",
+    "check_out": "13:47:00",
+    "status": "half-day"
+  }
+}

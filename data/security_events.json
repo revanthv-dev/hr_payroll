@@ -1,0 +1,50 @@
+{
+  "1": {
+    "id": "1",
+    "event_type": "encryption failure",
+    "description": "",
+    "reported_at": "2025-09-05T21:21:25.318730"
+  },
+  "2": {
+    "id": "2",
+    "event_type": "unauthorized access",
+    "description": "",
+    "reported_at": "2025-01-20T06:05:31.110581"
+  },
+  "3": {
+    "id": "3",
+    "event_type": "encryption failure",
+    "description": "",
+    "reported_at": "2025-09-17T17:32:13.356111"
+  },
+  "4": {
+    "id": "4",
+    "event_type": "unauthorized access",
+    "description": "",
+    "reported_at": "2025-05-26T23:12:30.026057"
+  },
+  "5": {
+    "id": "5",
+    "event_type": "unauthorized access",
+    "description": "",
+    "reported_at": "2024-12-14T13:19:14.455068"
+  },
+  "6": {
+    "id": "6",
+    "event_type": "unauthorized access",
+    "description": "",
+    "reported_at": "2024-12-04T07:52:46.666629"
+  },
+  "7": {
+    "id": "7",
+    "event_type": "data breach",
+    "description": "",
+    "reported_at": "2025-09-13T23:53:06.256646"
+  },
+  "8": {
+    "id": "8",
+    "event_type": "data breach",
+    "description": "",
+    "reported_at": "2025-02-04T14:09:15.397478"
+  }
+}

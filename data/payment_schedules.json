@@ -1,0 +1,58 @@
+{
+  "1": {
+    "id": "1",
+    "schedule_type": "monthly payroll",
+    "cycle": "Net 15",
+    "effective_from": "2024-04-22",
+    "effective_to": "2025-11-16"
+  },
+  "2": {
+    "id": "2",
+    "schedule_type": "monthly payroll",
+    "cycle": "Net 30",
+    "effective_from": "2023-11-03",
+    "effective_to": "2026-03-15"
+  },
+  "3": {
+    "id": "3",
+    "schedule_type": "monthly payroll",
+    "cycle": "weekly",
+    "effective_from": "2024-07-17",
+    "effective_to": "2025-02-01"
+  },
+  "4": {
+    "id": "4",
+    "schedule_type": "monthly payroll",
+    "cycle": "monthly",
+    "effective_from": "2024-07-03",
+    "effective_to": "2025-08-22"
+  },
+  "5": {
+    "id": "5",
+    "schedule_type": "vendor payment",
+    "cycle": "Net 15",
+    "effective_from": "2024-02-02",
+    "effective_to": "2026-04-30"
+  },
+  "6": {
+    "id": "6",
+    "schedule_type": "vendor payment",
+    "cycle": "Net 30",
+    "effective_from": "2024-07-21",
+    "effective_to": "2024-08-13"
+  },
+  "7": {
+    "id": "7",
+    "schedule_type": "vendor payment",
+    "cycle": "weekly",
+    "effective_from": "2023-09-27",
+    "effective_to": "2024-05-30"
+  },
+  "8": {
+    "id": "8",
+    "schedule_type": "vendor payment",
+    "cycle": "monthly",
+    "effective_from": "2024-06-14",
+    "effective_to": "2026-01-23"
+  }
+}

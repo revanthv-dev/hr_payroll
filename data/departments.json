@@ -1,0 +1,42 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Human Resources",
+    "description": ""
+  },
+  "2": {
+    "id": "2",
+    "name": "Information Technology",
+    "description": ""
+  },
+  "3": {
+    "id": "3",
+    "name": "Finance",
+    "description": ""
+  },
+  "4": {
+    "id": "4",
+    "name": "Marketing",
+    "description": ""
+  },
+  "5": {
+    "id": "5",
+    "name": "Sales",
+    "description": ""
+  },
+  "6": {
+    "id": "6",
+    "name": "Operations",
+    "description": ""
+  },
+  "7": {
+    "id": "7",
+    "name": "Legal",
+    "description": ""
+  },
+  "8": {
+    "id": "8",
+    "name": "Research & Development",
+    "description": ""
+  }
+}

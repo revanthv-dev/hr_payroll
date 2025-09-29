@@ -1,0 +1,86 @@
+{
+  "1": {
+    "id": "1",
+    "workflow_type": "payroll",
+    "level": "1",
+    "approver_role": "manager",
+    "is_final": false
+  },
+  "2": {
+    "id": "2",
+    "workflow_type": "payroll",
+    "level": "2",
+    "approver_role": "HR",
+    "is_final": false
+  },
+  "3": {
+    "id": "3",
+    "workflow_type": "payroll",
+    "level": "3",
+    "approver_role": "CFO",
+    "is_final": true
+  },
+  "4": {
+    "id": "4",
+    "workflow_type": "vendor_payment",
+    "level": "1",
+    "approver_role": "manager",
+    "is_final": false
+  },
+  "5": {
+    "id": "5",
+    "workflow_type": "vendor_payment",
+    "level": "2",
+    "approver_role": "HR",
+    "is_final": false
+  },
+  "6": {
+    "id": "6",
+    "workflow_type": "vendor_payment",
+    "level": "3",
+    "approver_role": "CFO",
+    "is_final": true
+  },
+  "7": {
+    "id": "7",
+    "workflow_type": "bonus",
+    "level": "1",
+    "approver_role": "manager",
+    "is_final": false
+  },
+  "8": {
+    "id": "8",
+    "workflow_type": "bonus",
+    "level": "2",
+    "approver_role": "HR",
+    "is_final": false
+  },
+  "9": {
+    "id": "9",
+    "workflow_type": "bonus",
+    "level": "3",
+    "approver_role": "CFO",
+    "is_final": true
+  },
+  "10": {
+    "id": "10",
+    "workflow_type": "overtime",
+    "level": "1",
+    "approver_role": "manager",
+    "is_final": false
+  },
+  "11": {
+    "id": "11",
+    "workflow_type": "overtime",
+    "level": "2",
+    "approver_role": "HR",
+    "is_final": false
+  },
+  "12": {
+    "id": "12",
+    "workflow_type": "overtime",
+    "level": "3",
+    "approver_role": "CFO",
+    "is_final": true
+  }
+}
